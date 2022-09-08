@@ -2321,7 +2321,7 @@
 4049, Nigerians, NORP|Ighalo, PERSON|Argentina, GPE|2018, DATE|world cup, EVENT
 4050, Ighalo, PERSON
 4051, Nigeria, GPE
-Nigerians, NORP|one, CARDINAL|Argentina, GPE|Nigeria, GPE
+4053, Nigerians, NORP|one, CARDINAL|Argentina, GPE|Nigeria, GPE
 4054, Nigeria, GPE|the African Cup of Nations, EVENT
 4055, Ighalo, PERSON|Nigeria, GPE
 4056, Ighalo, PERSON|seventy, CARDINAL|Nigeria, GPE|first, ORDINAL|the world cup, EVENT
