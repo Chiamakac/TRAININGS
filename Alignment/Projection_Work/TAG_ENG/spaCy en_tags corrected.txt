@@ -14,7 +14,7 @@
 37, Wilson Uwujaren, PERSON|Mohammed Idris, PERSON|December 2019, DATE|the Ikoyi High Court, ORG|Lagos, GPE
 38, Sun, DATE|Slok Nigeria Ltd, ORG|EFCC, ORG
 39, Abia, GPE|12 years, DATE|more than 7.5 billion, MONEY
-40, FFK, ORG|Patience Jonathan, PERSON|Churchill Okonkwo, PERSON
+40, FFK, PERSON|Patience Jonathan, PERSON|Churchill Okonkwo, PERSON
 41, Kalu, PERSON|Femi Fani-Kayode, PERSON
 42, several years, DATE
 43, first, ORDINAL|Nigeria, GPE
@@ -2061,7 +2061,7 @@
 3474, Imo State, GPE
 3475, five days, DATE|a week, DATE|the first day of March, DATE|Nigeria, GPE
 3477, Ozubulu, LOC|2017, DATE
-3478, Saint Philip Catholic Church,ORG|Ozubulu, LOC
+3478, Saint Philip Catholic Church, ORG|Ozubulu, LOC
 3479, Saint Philip Catholic Church, ORG|thirteen, CARDINAL|the month of August, DATE|2017, DATE
 3480, Chukwujekwu Eze, PERSON|Nnewi, LOC|Anambra State, GPE|Aloysius Ikegwuonwu, PERSON
 3481, thirteen, CARDINAL|St. Philip Catholic Church, Ozobulu, ORG|the month of August 2017, DATE
@@ -4876,7 +4876,7 @@ Nigerians, NORP|one, CARDINAL|Argentina, GPE|Nigeria, GPE
 8213, Okeke, PERSON
 8216, Emmanuel Ugolee, PERSON
 8217, Jos Plateau State, GPE|Emmanuel Ugolee, PERSON|Abia, GPE|1999, DATE|Minaj Broadcast Television, ORG
-8219, Ruggedman,PERSON|Plantation Boiz, PERSON|Sound Sultan, PERSON
+8219, Ruggedman, PERSON|Plantation Boiz, PERSON|Sound Sultan, PERSON
 8220, 30, CARDINAL|London, GPE
 8221, hundreds, CARDINAL|Winter Wonderland, LOC|Hyde Park, GPE
 8222, Jackie Armstrong's, PERSON|the Zippos Christmas Circus Show, FAC
@@ -4888,7 +4888,7 @@ Nigerians, NORP|one, CARDINAL|Argentina, GPE|Nigeria, GPE
 8236, Martin Burton, PERSON|MailOnline, ORG|Jackie, PERSON
 8239, Nigeria, GPE
 8240, the Nnamdi Azikiwe University, ORG|Anambra State, GPE|Nigeria, GPE
-8241, the Ninth World Philosophy Day, EVENT|the United Nations Educational, ORG|UNESCO, ORG|the Department of Philosophy,ORG| Faculty of Arts, ORG
+8241, the Ninth World Philosophy Day, EVENT|the United Nations Educational, ORG|UNESCO, ORG|the Department of Philosophy, ORG| Faculty of Arts, ORG
 8242, the Faculty of Arts, ORG
 8243, Nigeria, GPE|Africa, LOC|Nigerians, NORP
 8244, English, LANGUAGE|State University, ORG|North Carolina, GPE|United States of America, GPE|Chimalu Nwankwo, PERSON|Africans, NORP
@@ -4903,7 +4903,7 @@ Nigerians, NORP|one, CARDINAL|Argentina, GPE|Nigeria, GPE
 8255, GBV, ORG
 8256, Rojenny, PERSON|more than three decades, DATE
 8258, the National Stadium in Surulere, LOC
-8259, Anambra,LOC|Achebe Stadium, GPE|Fegge, GPE|Ikpeazu Stadium, GPE
+8259, Anambra, LOC|Achebe Stadium, GPE|Fegge, GPE|Ikpeazu Stadium, GPE
 8260, Rojenny, PERSON|35 years, DATE
 8263, Nigeria, GPE|Europe, LOC|America, GPE|Asia, LOC
 8264, next year, DATE|Rojenny, PERSON
@@ -5070,7 +5070,7 @@ Nigerians, NORP|one, CARDINAL|Argentina, GPE|Nigeria, GPE
 8500, Ford Foundation, ORG
 8501, Nnewi, LOC|Nigeria, GPE
 8503, Anambra State Ministry of Health, ORG|NTD, ORG
-8504, TBWA/Concept Unit, ORG|Kelechi Nwosu, PERSON|Nnewi, LOC|Anambra,LOC|Nigeria, GPE
+8504, TBWA/Concept Unit, ORG|Kelechi Nwosu, PERSON|Nnewi, LOC|Anambra, LOC|Nigeria, GPE
 8505, Nwosu, PERSON|Nnewi, LOC|Nigeria, GPE
 8506, Nnewi, LOC|Africa, LOC
 8507, 18TH, CARDINAL|John Ndu, PERSON
