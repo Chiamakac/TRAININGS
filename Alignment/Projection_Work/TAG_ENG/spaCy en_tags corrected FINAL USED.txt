@@ -1853,7 +1853,7 @@
 3186, Nigerians, NORP|the year 2008, DATE
 3187, Nigerians, NORP
 3189, Us, LOC
-3190, Nigeria, LOC|Kingsley Udoyen, PER|Ibom, ORG
+3190, Nigeria, LOC|Kingsley Udoyen, PER
 3191, Nwuchie Udoyen, PER
 3192, January this year, DATE|Awka Ibom, ORG
 3194, Christopher Lamai, PER|Nigeria, LOC
