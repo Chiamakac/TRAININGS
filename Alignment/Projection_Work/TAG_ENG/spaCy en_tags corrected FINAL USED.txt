@@ -700,7 +700,7 @@
 1062, American, NORP|Kenyan, NORP|the year 2013, DATE
 1063, Few years ago, DATE|Nigeria, LOC|Africa, LOC
 1064, second, ORDINAL|one year, DATE|Hollywood, LOC
-1065, Africa Kenya, LOC|South Africa, LOC|Nigeria, LOC
+1065, Africa, LOC|Kenya, LOC|South Africa, LOC|Nigeria, LOC
 1066, South Africa, LOC
 1068, Nigeria, LOC
 1070, Nigerian, NORP|Buhari, PER
