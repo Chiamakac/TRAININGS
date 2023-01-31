@@ -2816,7 +2816,7 @@
 4981, BBC, ORG
 4982, Salisu Yusuf, PER
 4983, Salisu Yusuf, PER|Super Eagles, ORG|2017, DATE|CHAN, ORG
-4984, The Nigerian Football Federation, ORG|Salisu Yusuf, PER|
+4984, The Nigerian Football Federation, ORG|Salisu Yusuf, PER
 4985, NFF, ORG|Yusuf, PER|one year, DATE
 4986, Less than few months ago, DATE|BBC, ORG|Ghanaian, NORP|Anas Arameyaw Anas, PER|Yusuf, PER|1,000, MONEY|2017, DATE|African, NORP
 4988, Salisu Yusuf, PER
