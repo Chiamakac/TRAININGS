@@ -1073,7 +1073,7 @@
 1756, Nike Onakoya, PER|BBC Igbo, NORP
 1757, Benin, LOC|Ogba, LOC|Lagos Breweries, ORG
 1758, Aba, LOC
-1759, Benin, LOC|Ogba (Lagos, LOC
+1759, Benin, LOC|Ogba Lagos, LOC
 1760, Onnoghen, PER
 1762, Onnoghen, PER
 1763, Muhammadu Buhari's, PER|Femi Adesina, PER|Coalition of United Political Parties, ORG
