@@ -1760,7 +1760,7 @@
 3050, Ukraine, LOC|south Korea, LOC|world cup championship, EVENT
 3051, first, ORDINAL|Ukraine, LOC
 3053, Kenya, LOC
-3054, 3055, Hillary, PER|eleven, CARDINAL|Kenya, LOC|Somalia, LOC
+3054, Hillary, PER|eleven, CARDINAL|Kenya, LOC|Somalia, LOC
 3057, today, DATE
 3058, world cup, EVENT|Thailand, LOC|today, DATE
 3060, Thailand, LOC
@@ -2986,7 +2986,7 @@
 5227, Olufunmilayo Adesanya-Davies, PER
 5228, October 15, 1962, DATE
 5229, Mass Action Joint Alliance, ORG|MAJA, ORG|the Coalition of United Political, ORG|2019, DATE
-5231, 5232, Angela Johnson, PER
+5231, Angela Johnson, PER
 5233, November 16, 1959, DATE
 5234, Abia, LOC
 5237, Nigeria, LOC
