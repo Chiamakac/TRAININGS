@@ -6181,7 +6181,7 @@
 10293, many decades, DATE
 10296, Bank of Nigeria, ORG|CBN, ORG
 10301, Adedayo Bakare, PER
-10302, Bakare, PER|two, CARDINAL|three, CARDINAL|1, CARDINAL|Zenith and Guarantee Trust, ORG|12, CARDINAL|CBN, ORG|September 2019, DATE
+10302, Bakare, PER|two, CARDINAL|three, CARDINAL|Zenith and Guarantee Trust, ORG|12, CARDINAL|CBN, ORG|September 2019, DATE
 10305, Thursday, DATE
 10306, Ogun State, LOC
 10307, Nigeria, LOC
