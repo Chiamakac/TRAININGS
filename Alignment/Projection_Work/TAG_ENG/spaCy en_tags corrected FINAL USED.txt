@@ -767,7 +767,7 @@
 1156, three thousand naira, QUANTITY|Imo State, LOC
 1158, Nigerian, NORP|Buhari, PER
 1159, Ebube Muonso's, PER
-1162, Igbos, PER
+1162, Igbos, NORP
 1163, Saturday, DATE
 1164, Catholic, NORP|Emmanuel Obimma, PER|Ebube Muonso, PER|Friday, DATE|Saturday, DATE|morning, DATE
 1165, Francis Okoye, PER|BBC, ORG|8pm, DATE|night, DATE|more than thirty, CARDINAL
