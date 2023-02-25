@@ -5165,7 +5165,7 @@
 8635, The Central Bank of Nigeria, ORG|CBN, ORG|Greenfield Integrated Poultry, ORG
 8636, CBN, ORG
 8637, CBN, ORG|Godwin Emefiele, PER|Emere-Ile, LOC|Ondo State, LOC
-8638, Greenfield Egg, FAC|CBN, ORG|Nigeria, LOC
+8638, CBN, ORG|Nigeria, LOC
 8639, The Nigerian Unions of Journalist, ORG|NUJ, ORG|Muhammadu Buhari's, PER
 8640, Nigeria, LOC|2017, DATE
 8641, one hundred, CARDINAL|Nigeria, LOC|seven, CARDINAL|NUJ, ORG|Nigeria, LOC
@@ -6181,7 +6181,7 @@
 10293, many decades, DATE
 10296, Bank of Nigeria, ORG|CBN, ORG
 10301, Adedayo Bakare, PER
-10302, Bakare, PER|two, CARDINAL|three, CARDINAL|1, CARDINAL|Zenith and Guarantee Trust, ORG|12, CARDINAL|CBN, ORG|September 2019, DATE|
+10302, Bakare, PER|two, CARDINAL|three, CARDINAL|1, CARDINAL|Zenith and Guarantee Trust, ORG|12, CARDINAL|CBN, ORG|September 2019, DATE
 10305, Thursday, DATE
 10306, Ogun State, LOC
 10307, Nigeria, LOC
