@@ -98,11 +98,11 @@
 144, 2006, DATE|Carleton University, ORG|Ottawa, LOC|Canada, LOC
 145, the University of African Studies, ORG
 146, Southampton, ORG|nine, CARDINAL|Leicester City, LOC
-147, Champions League, ORG|Tuuzude, LOC|Saturday, DATE|League, PER
+147, Champions League, ORG|Saturday, DATE|League, EVENT
 148, Southampton, ORG|last Friday, DATE|the Holy Sepulcher, ORG|nine, CARDINAL|Leicester City, LOC
 149, Manchester United's, ORG|nine, CARDINAL|Friday, DATE|Old Trafford, ORG|March 1995, DATE
 150, Ralph Hassenhuttl, PER|two, CARDINAL|Manchester City, LOC|this week, DATE
-151, Champions League, ORG|Tuuzude, LOC|Saturday, DATE
+151, Champions League, ORG|Saturday, DATE
 152, Southampton, ORG|last Friday, DATE|the Saints Foundation, ORG
 153, the Staplewood Campus, ORG|this weekend, DATE
 154, the Saints Foundation, ORG
@@ -112,7 +112,7 @@
 159, Lagos State, LOC|Zubairu Muazu, PER
 160, Vanguard, ORG
 161, The Lagos State Police, ORG|Oluwaseun Akadiri, PER|Tunde Olafimihan, PER|Olufemi Samuel, PER|the Wema House of Nigeria Plc, ORG|the International House of Prayer, ORG|Green Grace Market Nigeria Limited, ORG
-162, Green Grace Workers, ORG|the Ikeja High Court of, ORG|Lagos, LOC
+162, Green Grace Workers, ORG|the Ikeja High Court, ORG|Lagos, LOC
 163, Oluwaseun, PER|Wema Nigeria Plc, ORG
 164, Olubimpe, PER|Olusola Toheebah, PER|Taidol, PER
 165, Siyanbola Olubimpe, PER|Wema House, ORG|Iderodu, LOC|Olusola Toheebah, PER|Green Grace Ltd, ORG
