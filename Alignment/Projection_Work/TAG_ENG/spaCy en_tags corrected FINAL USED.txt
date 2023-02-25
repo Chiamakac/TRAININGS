@@ -1348,7 +1348,7 @@
 2316, Dino, PER|melaye, PER
 2318, Gloria Orji, PER
 2321, this year 2019, DATE
-2322, Gloria, PER|the year 2010, DATE
+2322, Gloria, PER
 2324, BBC, ORG
 2325, Bill Cosby, PER
 2326, Bill Cosby, PER|thirty years, DATE
