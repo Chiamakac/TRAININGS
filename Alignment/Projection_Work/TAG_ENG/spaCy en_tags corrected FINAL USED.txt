@@ -6599,7 +6599,7 @@
 11067, Feb. 14, 1923, CARDINAL|Anakonwa, PER|Oranto Village, LOC|Ukpo, LOC
 11069, St. Simon Catholic Church, ORG|Ukpo, LOC|Paulinus Ezeokafor, PER
 11070, Feb. 25, 2020, DATE|Kate Omenugha, PER
-11071, Emmanuel Nwafor, PER|Orumba South Constituency, ORG
+11071, Emmanuel Nwafor, PER|Orumba South, LOC
 11072, Ezeokafor, PER
 11078, Solomon Amatu, PER|Christian, NORP|1962, DATE|CAC, ORG
 11079, Amatu, PER|CAC, ORG|2003, DATE
