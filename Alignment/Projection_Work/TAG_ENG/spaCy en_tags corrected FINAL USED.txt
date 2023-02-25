@@ -4169,7 +4169,7 @@
 7054, today, DATE
 7056, the next nine months, DATE
 7081, the Unified Tertiary Matriculation Examination, ORG|the Joint Admission and Matriculation Board, ORG
-7084, Oladosu, PER|North African, NORP|Dean, Faculty of Arts, University of Ibadan, ORG|Ibadan, LOC|Nigeria, LOC
+7084, Oladosu, PER|North African, NORP|Faculty of Arts, University of Ibadan, ORG|Ibadan, LOC|Nigeria, LOC
 7088, US, LOC
 7097, Nigeria, LOC
 7098, Nigeria, LOC
@@ -4645,7 +4645,7 @@
 7857, the 17th century, DATE|the 21st, DATE
 7858, Isaac Newton, PER
 7859, Omoyele Sowore, PER|Nigeria, LOC
-7860, July, DATE|Nnamdi Kanu, PER|one, CARDINAL|the Indigenous People of Biafra, LOC|(IPOB, ORG|Nigeria, LOC
+7860, July, DATE|Nnamdi Kanu, PER|one, CARDINAL|the Indigenous People of Biafra, LOC|IPOB, ORG|Nigeria, LOC
 7862, Sowore, PER|Kwame Nkrumah, PER
 7868, Muhammadu Buhari, PER|Nigeria, LOC
 7870, America, LOC|Trump, PER|America, LOC|the Republican Party, ORG
