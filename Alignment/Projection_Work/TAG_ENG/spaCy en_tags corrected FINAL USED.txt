@@ -169,7 +169,7 @@
 238, Buhari, PER
 239, Buhari, PER
 241, Buhari, PER
-242, Buhari, PER|'years, DATE
+242, Buhari, PER|years, DATE
 243, Rotimi Amaechi, PER
 244, Nigerian, NORP
 246, seven, CARDINAL|the last 20 years, DATE
