@@ -1308,7 +1308,7 @@
 2201, two years, DATE
 2202, Patricia Ann, PER
 2204, Patricia Ann Spann, PER|misty velvet Dawn spann, PER
-2207, Patricia Ann spann, PER|17 years of age, DATE|the year 2010, DATE
+2207, Patricia Ann spann, PER
 2211, Kano, LOC
 2213, Misty, PER|last year's, DATE|October, DATE
 2214, misty spann, PER|three, CARDINAL
