@@ -6,18 +6,17 @@
 17, today, DATE
 18, 1984, DATE|Nigeria, LOC|Omoyele Sowore, PER
 19, Monaco, LOC|Nigeria, LOC
-31, first, ORDINAL|Omoyele Sowore, PER
-32, 30 million, CARDINAL|Nigerian, NORP
-34, EFCC, ORG|more than $ 7 billion, MONEY
+31, Omoyele Sowore, PER
+34, EFCC, ORG
 35, Wilson Uwujaren, PER|Mohammed Idris, PER|December 2019, DATE|the Ikoyi High Court, ORG|Lagos, LOC
 36, Abia, LOC
 37, Wilson Uwujaren, PER|Mohammed Idris, PER|December 2019, DATE|the Ikoyi High Court, ORG|Lagos, LOC
 38, Sun, DATE|Slok Nigeria Ltd, ORG|EFCC, ORG
-39, Abia, LOC|12 years, DATE|more than 7.5 billion, MONEY
+39, Abia, LOC|12 years, DATE
 40, FFK, PER|Patience Jonathan, PER|Churchill Okonkwo, PER
 41, Kalu, PER|Femi Fani-Kayode, PER
 42, several years, DATE
-43, first, ORDINAL|Nigeria, LOC
+43, Nigeria, LOC
 44, Nigeria, LOC
 45, Nigeria, LOC|the Fourth Republic, LOC
 46, Muhammadu Buhari, PER
@@ -30,14 +29,13 @@
 53, APC, ORG|Buhari, PER|SLOK Holding, ORG
 54, the Niger Delta Development Commission, ORG|SLOK Holding, ORG|Uzuakoli, LOC|Ozuitem, LOC
 55, Orji Uzor Kalụ, PER|the Economic and Financial Crimes Commission, ORG
-56, APC, ORG|2023, CARDINAL
-57, Nigerians, NORP
+56, APC, ORG
 58, Tinubu, PER|Patience Jonathan, PER|Olisa Metu, PER
 59, Buhari, PER
-60, Nigerians, NORP|$ 1.1 billion, MONEY|the London Central Bank, ORG|Goodluck Jonathan, PER
-61, $ 9.2 million, MONEY|$ 8.4 million, MONEY|Patience Jonathan, PER|Goodluck Jonathan's, PER
+60, the London Central Bank, ORG|Goodluck Jonathan, PER
+61, Patience Jonathan, PER|Goodluck Jonathan's, PER
 62, EFCC, ORG
-63, Jonathan, PER|Nigerians, NORP
+63, Jonathan, PER
 64, EFCC, ORG|Tinubu, PER|the day, DATE|2019, DATE
 65, EFCC, ORG|Tinubu, PER
 66, Fani-Kayode, PER|Goodluck Jonathan's, PER
@@ -47,16 +45,14 @@
 72, Kalu, PER|Femi Fani-Kayode, PER
 73, several years, DATE
 74, Nigeria, LOC
-76, Standard Chartered Bank, ORG|South African, NORP
-77, Standard Chartered, ORG|Sahara, NORP|Standard Chartered Bank of Nigeria Limited, ORG|Standard Chartered Plc, ORG|British, NORP
+76, Standard Chartered Bank, ORG
+77, Standard Chartered, ORG|Standard Chartered Bank of Nigeria Limited, ORG|Standard Chartered Plc, ORG
 78, Standard Chartered, ORG|Adams Oshomole, PER|All Progressives Congress, ORG|South Africa, LOC
-79, Oshiomhole, PER|South African, NORP|Nigerians, NORP|Nigerian, NORP|South African, NORP|Standard Chartered, ORG
-80, Oshiomhole, PER|Standard Chartered House, ORG|Stanbic House, ORG|South African, NORP|Nigerians, NORP
-81, Nigerian, NORP
-82, Nigerians, NORP
-83, Standard Chartered, ORG|Sahara, NORP|Standard Chartered Bank of Nigeria Limited, ORG|Standard Chartered Plc, ORG|British, NORP
+79, Oshiomhole, PER|Standard Chartered, ORG
+80, Oshiomhole, PER|Standard Chartered House, ORG|Stanbic House, ORG
+83, Standard Chartered, ORG|Standard Chartered Bank of Nigeria Limited, ORG|Standard Chartered Plc, ORG
 84, Standard Chartered PLC, ORG|London, LOC|Hong Kong, LOC|Mumbai, LOC
-85, more than 150 years, DATE|more than 90%, PERCENT|Asia, LOC|Africa, LOC|the Middle East, LOC
+85, more than 150 years, DATE|Asia, LOC|Africa, LOC|the Middle East, LOC
 89, Baptist High School, ORG|Gbodofon, ORG|Oshogbo, LOC
 90, Oladoyin Folorunsho, PER
 92, last Wednesday, DATE
@@ -69,7 +65,7 @@
 102, Sowore, PER|SSS, ORG
 103, February 20, 2020, DATE
 104, SSS, ORG|Sowore, PER
-105, AGF, ORG|four-hour, TIME|Thursday, DATE
+105, AGF, ORG|Thursday, DATE
 106, the Boko Haram, ORG|IPOB, ORG|IMN, ORG
 107, Sowore, PER|Abubakar Marshal, PER
 111, Obasanjo, PER|Atiku, PER
@@ -91,17 +87,17 @@
 136, Two or three days ago, DATE
 138, Pius Adesanmi's, PER|Saturday, DATE
 139, February 27, 1972, DATE|Naija, LOC|2015, DATE
-140, Prof Pius Adesanmi, PER|Nigerian, NORP|Canadian, NORP|March 10, 2019, DATE|Ethiopian Airlines, ORG
+140, Prof Pius Adesanmi, PER|March 10, 2019, DATE|Ethiopian Airlines, ORG
 141, February 27, 1972, DATE|Naija, LOC|2015, DATE
 142, the French Institute for Research, ORG|Africa, LOC|1993 to 1997, DATE|the French Institute of South Africa, ORG|from 1998 to 2000, DATE
 143, 2002, DATE|2005, DATE|Pennsylvania State University, ORG|United States, LOC
 144, 2006, DATE|Carleton University, ORG|Ottawa, LOC|Canada, LOC
 145, the University of African Studies, ORG
-146, Southampton, ORG|nine, CARDINAL|Leicester City, LOC
-147, Champions League, ORG|Saturday, DATE|League, EVENT
-148, Southampton, ORG|last Friday, DATE|the Holy Sepulcher, ORG|nine, CARDINAL|Leicester City, LOC
-149, Manchester United's, ORG|nine, CARDINAL|Friday, DATE|Old Trafford, ORG|March 1995, DATE
-150, Ralph Hassenhuttl, PER|two, CARDINAL|Manchester City, LOC|this week, DATE
+146, Southampton, ORG|Leicester City, LOC
+147, Saturday, DATE
+148, Southampton, ORG|last Friday, DATE|the Holy Sepulcher, ORG|Leicester City, LOC
+149, Manchester United's, ORG|Friday, DATE|Old Trafford, ORG|March 1995, DATE
+150, Ralph Hassenhuttl, PER|Manchester City, LOC|this week, DATE
 151, Champions League, ORG|Saturday, DATE
 152, Southampton, ORG|last Friday, DATE|the Saints Foundation, ORG
 153, the Staplewood Campus, ORG|this weekend, DATE
@@ -128,32 +124,31 @@
 175, Abdulmalik, PER|four years, DATE|20 years, DATE
 176, June 20, 2016, DATE|the first day, DATE
 177, the Department of Accountancy of Ibadan Polytechnic, ORG
-178, Buhari, PER|three, CARDINAL|Saudi Arabia, LOC
+178, Buhari, PER|Saudi Arabia, LOC
 179, the 29th of October to the 31st day, DATE
-180, Buhari, PER|What Next for a Global Business, WORK_OF_ART
-182, Muhammadu Buhari, PER|Nigeria, LOC|Saudi Arabia, LOC|today, DATE|third, ORDINAL|the Future Investement Initiative, ORG|the Saudi Arabia Investment Fund, ORG
+180, Buhari, PER
+182, Muhammadu Buhari, PER|Nigeria, LOC|Saudi Arabia, LOC|today, DATE|the Future Investement Initiative, ORG|the Saudi Arabia Investment Fund, ORG
 183, Garba Shehu, PER|Sunday, DATE
 184, the 29th of October to the 31st, DATE|Buhari, PER|the International Trade, ORG
-185, three-day, DATE|two, CARDINAL|Islamic Mosque, ORG|Salman bin Abdulaziz, PER|Saudi Arabia, LOC|Crown Prince Mohammed bin Salman bin Abdulaziz, PER|the House of Economy and Development and PIF, ORG
+185, Islamic Mosque, ORG|Salman bin Abdulaziz, PER|Saudi Arabia, LOC|Crown Prince Mohammed bin Salman bin Abdulaziz, PER|the House of Economy and Development and PIF, ORG
 188, Buhari, PER|Babagana Zulum, PER|Abubakar Bagudu, PER|Katsina State, LOC
 189, Foreign Affairs, ORG|Zubairu Dada, PER|Niyi Adebayo, PER|Petroleum Resources, ORG|Timipre Sylva, PER|Ibrahim Pantami, PER|Babagana Monguno, PER|National Intelligence Agency, ORG|Ahmed Rufa'i Abubakar, PER|Nigerian National Petroleum Corporation, ORG|NNPC, ORG|Mele Kolo Kyari, PER
 190, Riyadh, PER|Buhari, PER|Makkah, LOC|Umrah, PER|Abuja, LOC
 191, Buhari, PER|Sonala Olumhense, PER
 192, Buhari, PER
 195, Sonala Olumhense, PER
-196, the mid-1980s, DATE|Nigerian, NORP|the 'Black Bag', ORG
+196, the mid-1980s, DATE|the 'Black Bag', ORG
 197, Benjamin Adekunle, PER|wartime, DATE
 199, Surulere, LOC
-204, one, CARDINAL|two weeks later, DATE
+204, two weeks later, DATE
 207, Black Scorpion, ORG
 211, last week, DATE|Muhammadu Buahri, PER
 212, Buhari, PER
 213, Buhari, PER
 216, Buhari, PER
 217, the past four years, DATE
-219, Nigerians, NORP
 221, Buhari, PER
-222, Buhari, PER|first, ORDINAL|five months, DATE
+222, Buhari, PER|five months, DATE
 223, two and a half years ago, DATE|Buhari, PER|Nigeria, LOC
 224, the weeks, DATE|Buhari, PER|Nigeria, LOC
 227, Buhari, PER
@@ -161,8 +156,8 @@
 229, Bola Tinubu, PER|Lagos, LOC|Adams Oshiomhole, PER
 230, APC, ORG|Benin, LOC|last January, DATE|Nigeria, LOC
 231, APC, ORG
-232, Buhari, PER|Buhari, PER|overnight, DATE|two, CARDINAL|Lagos, LOC
-234, Buhari, PER|millions of dollars, MONEY|Kano, LOC|Abdullahi Ganduje, PER
+232, Buhari, PER|Buhari, PER|overnight, DATE|Lagos, LOC
+234, Buhari, PER|Kano, LOC|Abdullahi Ganduje, PER
 235, Danjuma Goje, PER|EFCC, ORG
 236, APC, ORG
 237, Buhari, PER
@@ -171,39 +166,34 @@
 241, Buhari, PER
 242, Buhari, PER|years, DATE
 243, Rotimi Amaechi, PER
-244, Nigerian, NORP
-246, seven, CARDINAL|the last 20 years, DATE
+246, the last 20 years, DATE
 247, Aquila, PER
-248, Amaechi, PER|24 hours, TIME|Buhari, PER|APC, ORG|one million, CARDINAL|Nigerians, NORP|ten years, DATE
-251, British, NORP
+248, Amaechi, PER|Buhari, PER|APC, ORG|ten years, DATE
 253, Nigeria, LOC
-254, Nigerian, NORP
 255, PDP, ORG
 257, DSS Prosecution of Court Attacks, ORG|Nigerian Parliament, ORG
-258, Nigerian, NORP
-259, Nigerian, NORP|the Federal High Court, ORG|last Friday, DATE
+259, the Federal High Court, ORG|last Friday, DATE
 260, Bichi, PER|DSS, ORG
 261, Yusuf Bichi, PER
 262, DSS, ORG
 263, DSS, ORG
 264, Sade Adu's, PER
 265, these six months, DATE
-267, British, NORP|Sado Adu, PER|Isaac, PER
+267, Sado Adu, PER|Isaac, PER
 268, Instagram, ORG|Thursday, DATE|Izaak, ORG|Bob Morgan, PER|Adu, PER
 271, these six months, DATE
-274, 2016, DATE|Isaac, PER|the International Day, EVENT
-277, Tanzanian, NORP|John Magufuli, PER
+274, 2016, DATE|Isaac, PER
+277, John Magufuli, PER
 278, Magufuli, LOC|Nigeria, LOC|China, LOC
 279, China, LOC
-281, Aljazeera, ORG|2015, DATE|Magufuli, LOC|6 to 7 percent, PERCENT
+281, Aljazeera, ORG|2015, DATE|Magufuli, LOC
 284, Nigeria, LOC|the Jonannesburg Stock Exchange, ORG|MTN, ORG
 285, Mergence Investment Managers, ORG|Cape Town, LOC|West Africa, LOC|Nolwandle Mthombeni, LOC|West African, NORP|Continental, ORG
 286, Nigeria, LOC|the Jonannesburg Stock Exchange, ORG|MTN, ORG
-287, Bloomberg West Africa, FAC
-288, Congo, LOC|Rwanda, LOC|Zambia, LOC|Nigeria, LOC|the World Economic Forum Summit, EVENT|West Africa, LOC
+287, Bloomberg West Africa, ORG
+288, Congo, LOC|Rwanda, LOC|Zambia, LOC|Nigeria, LOC|West Africa, LOC
 289, The Government of Nigeria, ORG|Commerce, ORG
-290, more than 50, CARDINAL|African, NORP|Nigeria, LOC|West Africans, NORP|Sunday, DATE
-291, Nigerians, NORP
+290, Nigeria, LOC|Sunday, DATE
 292, Erasmus Ikhide, PER
 294, Nigeria, LOC
 297, DSS, ORG
@@ -216,62 +206,60 @@
 307, Afunanya, PER
 309, DSS, ORG|every day, DATE
 310, DSS, ORG
-311, the House of Representatives, ORG|DSS, ORG|Nigerians, NORP
+311, the House of Representatives, ORG|DSS, ORG
 312, DSS, ORG
-313, Nigerians, NORP|one day, DATE|DSS, ORG|Nigerians, NORP
+313, one day, DATE|DSS, ORG
 316, Simi, LOC|Victor Uwaifo, PER|Joromi, PER
-317, $ 50 million, MONEY|Joromi, PER|one, CARDINAL
-318, Joromi, PER|first, ORDINAL|Uwaifo, PER|1979, DATE
+317, Joromi, PER
+318, Joromi, PER|Uwaifo, PER|1979, DATE
 319, Court, ORG|The Consequences of the Fall of Democracy, ORG
 320, several years ago, DATE|just a few months ago, DATE
 322, Omoyele Sowore, PER
 323, BBC, ORG
 324, the African Democratic Congress, ORG|Ralph Nwosu, PER|Omoyele Sowore, PER
 325, the State Department of Justice, ORG|the Federal High Court, ORG|last Friday, DATE|less than 24 hours, DATE
-326, Nigerian, NORP
 327, PUNCH, ORG|Nwosu, PER
 328, many years, DATE|just a few months ago, DATE
 331, Tuesday, DATE|Banky-W described Nigeria, ORG
 332, Omoyele Sowore, PER
 333, Nigeria, LOC
 336, Sowore, PER
-337, Nigerian, NORP
 339, Sowore, PER|these bad days, DATE|Nigeria, LOC
 341, Sowore's Foundation for Free Literacy, ORG|DSS, ORG
 342, Ondo State, LOC|Sahara Protestant, PER|Omoyele Sowore, PER|the State Department, ORG
-343, the Kiribo Students' Union, ORG|Sowore, PER|Nigerian, NORP
+343, the Kiribo Students' Union, ORG|Sowore, PER
 344, Idepe, LOC|Okitipupa, PER|Sowore, PER|many years to date, DATE
-345, Olawale Bakare, PER|Amnesty International, ORG|one, CARDINAL|Africans, NORP
+345, Olawale Bakare, PER|Amnesty International, ORG
 346, Samuel Irinyemi, PER|Sowore, PER
 347, Muhammadu Buhari, PER|Sowore, PER
 348, Omoyele Sowore Foundation, ORG|Ondo State, LOC
 349, DSS, ORG
 352, almost five years, DATE
-357, Nigerian, NORP|Omoyele Sowore, PER|two, CARDINAL
+357, Omoyele Sowore, PER
 358, the Federal High Court, ORG|Abuja, LOC|less than 24 hours, DATE|125 days, DATE
 359, Buhari, PER|Government Are International Criticism, ORG
 360, Muhammadu Buhari, PER
-362, Buhari, PER|Friday, DATE|seventh, ORDINAL
+362, Buhari, PER|Friday, DATE
 363, Sowore, PER
 364, ISWAP, ORG
 365, 2018, DATE
-366, 2018, DATE|70%, PERCENT
-367, ISWAP, ORG|14, CARDINAL|2018, DATE
+366, 2018, DATE
+367, ISWAP, ORG|2018, DATE
 368, 2018, DATE|2014, DATE
-369, the end of 2015, DATE|50 per cent, MONEY|2016, DATE|2017, DATE|2018, DATE
+369, the end of 2015, DATE|2016, DATE|2017, DATE|2018, DATE
 370, just a few days, DATE|2018, DATE|Nigerian, NORP|Maiduguri, LOC|Borno, LOC
 371, Kashim Shettima, PER
 372, the Government House, ORG|Maiduguri, LOC
-373, Nigerian, NORP|Islamic States West Africa Province, ORG|Boko Haram, ORG
-374, two weeks, DATE|Nigerian, NORP
+373, Islamic States West Africa Province, ORG|Boko Haram, ORG
+374, two weeks, DATE
 375, the Nigerian Army, ORG
 377, The International Atomic Energy Agency, ORG|IAEA, ORG|Lake Chad Basin, LOC
 380, the International Military Task Force Base, ORG|the Multinational Joint Task Force, ORG|Baga, LOC|Maiduguri, LOC|ISWAP, ORG
-382, AFP, ORG|the North East, LOC|Nigerian, NORP|2018, DATE
+382, AFP, ORG|the North East, LOC|2018, DATE
 383, Chad Basin's, LOC
 384, Cameroon, LOC|Chad, LOC|Niger, LOC|Nigeria, LOC
 385, ISWAP, ORG
-386, the Northern and Central Borno, ORG|Nigerian, NORP
+386, the Northern and Central Borno, ORG
 387, several years, DATE
 388, 2018, DATE
 389, all year 2018, DATE|ISWAP, ORG
@@ -284,16 +272,15 @@
 399, Kinchandi, LOC|Niger Republic, LOC
 400, Hadeja, LOC|the Niger Republic, LOC
 402, ISWAP, ORG
-404, Nigerian, NORP
 406, 2018, DATE
-407, 2018, DATE|70%, PERCENT
-408, 20, CARDINAL|ISWAP, ORG|14, CARDINAL|2018, DATE
+407, 2018, DATE
+408, ISWAP, ORG|2018, DATE
 409, 2018, DATE|2014, DATE
-410, the end of 2015, DATE|50 per cent, MONEY|2016, DATE|2017, DATE|2018, DATE
+410, the end of 2015, DATE|2016, DATE|2017, DATE|2018, DATE
 412, Mount Borno, LOC|three, CARDINAL|the Niger Republic, LOC|Chad, LOC|Cameroon, LOC
 413, ISWAP, ORG
-414, Central Borno, ORG|eight, CARDINAL|ISWAP, ORG|Boko Haram, ORG
-415, South Borno, LOC|nine, CARDINAL|Gwoza, ORG|Damboa, PER|Chibok, LOC
+414, Central Borno, ORG|ISWAP, ORG|Boko Haram, ORG
+415, South Borno, LOC|Gwoza, ORG|Damboa, PER|Chibok, LOC
 416, about 45 days, DATE
 417, ISWAP, ORG|Baga, LOC
 418, ISWAP, ORG|Baga, LOC
@@ -301,35 +288,33 @@
 422, ISWAP, ORG|Baga, LOC
 425, two days, DATE|Baga, LOC|ISWAP, ORG|Chad, LOC
 426, ISWAP, ORG|Nigerian, NORP|another day, DATE
-428, Jos, Plateau state, LOC|more than a dozen, CARDINAL
+428, Jos, Plateau state, LOC
 432, Boko Haram, ORG
 435, Ibrahim Idris, PER|Premium TImes, ORG|December 28, 2018, DATE
-436, several months, DATE|one, CARDINAL|the Special Task Force, ORG|STF, ORG|Jos., LOC
-442, Nigerians, NORP|Nigeria, LOC
+436, several months, DATE|the Special Task Force, ORG|STF, ORG|Jos., LOC
+442, Nigeria, LOC
 444, 2018, DATE
 445, the Niger Republic, LOC|Yobe, LOC|Adamawa, LOC|West Borno, LOC
 446, a year, DATE|2018, DATE|2013, DATE|2014, DATE|Maiduguri, LOC
 447, ISWAP, ORG
 448, Monguno, LOC|Maiduguri, LOC
-449, Four, CARDINAL|five, CARDINAL|Gajiram, ORG|Gajiganna, LOC|Gubio, LOC|Kareto, PER|the Niger Republic, LOC
-452, A few weeks ago, DATE|two, CARDINAL|Gudumbali, LOC|Kukawa, LOC
+449, Gajiram, ORG|Gajiganna, LOC|Gubio, LOC|Kareto, PER|the Niger Republic, LOC
+452, A few weeks ago, DATE|Gudumbali, LOC|Kukawa, LOC
 453, Baga, LOC
 454, Maiduguri, LOC|Shagari, ORG|Maiduguri, LOC
-459, December 28, 2018, DATE|the Defense and Foreign Affairs Committee of the International Defense Strategic Studies Association, ORG|the United States, LOC|North, LOC|Eastern, NORP|Nigeria, LOC|Buhari, PER
+459, December 28, 2018, DATE|the Defense and Foreign Affairs Committee of the International Defense Strategic Studies Association, ORG|the United States, LOC|North, LOC|Nigeria, LOC|Buhari, PER
 460, Washington, LOC|Muhammadu Buhari's, PER|Nigeria, LOC|Boko Haram, ORG
-461, Nigerian, NORP|billions of dollars, MONEY
 462, Lake Chad, LOC|ISWAP, ORG
-464, ISWAP, ORG|only one, CARDINAL
+464, ISWAP, ORG
 465, Kano, LOC
-466, Nigerian, NORP
 470, the International Atomic Energy Agency, ORG|IAEA, ORG
-471, Nigerian, NORP|Global Terrorism Index in, WORK_OF_ART|2018, DATE|Nigeria, LOC|third, ORDINAL
+471, 2018, DATE|Nigeria, LOC
 472, Nigeria, LOC|Iraq, LOC|Afghanistan, LOC|Syria, LOC|Pakistan, LOC
-473, 16 per cent, MONEY|2017, DATE|last year, DATE
-474, the World Economic Forum, ORG|two-year, DATE|Nigeria, LOC|one, CARDINAL
-475, Nigerian, NORP|Boko Haram, ORG|first, ORDINAL
+473, 2017, DATE|last year, DATE
+474, the World Economic Forum, ORG|two-year, DATE|Nigeria, LOC
+475, Boko Haram, ORG
 476, Ekiti, LOC
-478, three, CARDINAL|Iworoko-Ekiti, LOC|Ekiti State, LOC
+478, Iworoko-Ekiti, LOC|Ekiti State, LOC
 482, the Ekiti State Police, ORG
 483, SSS, ORG|Stanley Imhanruor, PER
 484, SSS, ORG
@@ -338,34 +323,30 @@
 487, Sowore, PER|Sowore, PER|SSS, ORG
 490, Sowore, PER|SSS, ORG|Sowore, PER
 494, Nigeria, LOC
-496, MTN, ORG|Nigerians, NORP
+496, MTN, ORG
 497, Rotimi Sankore, PER|West Africa, LOC
-498, Nigerians, NORP
-499, Nigerians, NORP|Nigerian, NORP
-500, MTN, ORG|Nigerians, NORP
-501, West Africans, NORP|Nigerians, NORP
+500, MTN, ORG
 508, Sudan, LOC|Al-Bashir, PER|two years, DATE
-509, Sudanese, NORP|the age of 70, DATE|BBC, ORG
+509, the age of 70, DATE|BBC, ORG
 510, Sudan, LOC|Omar al-Bashir, PER|two years, DATE
-511, Sudanese, NORP|the age of 70, DATE|BBC, ORG
+511, the age of 70, DATE|BBC, ORG
 512, Bashir, PER|1989, DATE|April, DATE
 515, Bashir, PER|Darfur, LOC
-516, The Super Eagles, ORG|four, CARDINAL
-517, 1,493, CARDINAL|1481, DATE
-518, The Nigerian Super Eagles, ORG|four, CARDINAL|November, DATE
-519, the International Football Confederation, ORG|Nigeria, LOC|1,493, CARDINAL|481,000, CARDINAL|October, DATE
-520, Eagles, ORG|third, ORDINAL|Senegal, LOC|Tunisia, LOC|27th, ORDINAL|555,065, CARDINAL
-521, 2, CARDINAL|Benin Republic, PER|4, CARDINAL|Lesotho, LOC|the Africa Cup of Nations, EVENT
+516, The Super Eagles, ORG
+518, The Nigerian Super Eagles, ORG|November, DATE
+519, the International Football Confederation, ORG|Nigeria, LOC|October, DATE
+520, Eagles, ORG|Senegal, LOC|Tunisia, LOC
+521, Benin Republic, PER|Lesotho, LOC
 522, Olamilekan, PER|11-year-old, DATE|Macron, PER|Mide Ayeni, PER
 523, Olemilekan, PER
 524, six years old, DATE
-530, First, ORDINAL|the next 'twenty years', DATE
-531, This afternoon, DATE|Olamilekan, PER|12-year-old, DATE|French, NORP|less than two hours, TIME
-533, the African Idol, ORG|French, NORP|yesterday, DATE|Macron, PER
+530, the next 'twenty years', DATE
+531, This afternoon, DATE|Olamilekan, PER|12-year-old, DATE
+533, the African Idol, ORG|yesterday, DATE|Macron, PER
 535, Olamilekan, PER
 540, BBC, ORG
 542, 11 years old, DATE
-544, Second, ORDINAL|Olamilekan, PER
+544, Olamilekan, PER
 548, Olemilekan, PER
 550, six years old, DATE
 554, Harvard, ORG
@@ -379,36 +360,35 @@
 580, Olamilekan, PER
 581, Michelangelo, PER|Tosin, LOC
 586, Michelangelo, PER
-590, million, CARDINAL|twenty years, DATE
-591, Mide Ayeni, PER|Pearl Recycling, PER|Nigeria, LOC|the US Department of Women's Education, ORG
+590, twenty years, DATE
+591, Mide Ayeni, PER|Nigeria, LOC|the US Department of Women's Education, ORG
 592, Teflon and Nine Lives, ORG|Wumi Akintide, PER
-593, nine, CARDINAL|Making America Great Again, WORK_OF_ART|the United States, LOC|second, ORDINAL
-595, Teflon, ORG|nine, CARDINAL|Donald J. Trump, PER
-596, Barack Obama, PER|two, CARDINAL|eight years, DATE|the White House, LOC|nine-year-old, DATE
+593, the United States, LOC
+595, Teflon, ORG|Donald J. Trump, PER
+596, Barack Obama, PER|eight years, DATE|nine-year-old, DATE
 599, the United States of America, LOC
 600, White House, ORG
-601, the White House, LOC|Hillary, PER|the United States, LOC
+601, Hillary, PER|the United States, LOC
 602, Bichi, PER|DSS, ORG
 603, Yusuf Bichi, PER
 604, DSS, ORG
 605, DSS, ORG
 606, Sade Adu's, PER
 607, these six months, DATE
-609, British, NORP|Sado Adu, PER|Isaac, PER
+609, Sado Adu, PER|Isaac, PER
 610, Instagram, ORG|Thursday, DATE|Izaak, ORG|Bob Morgan, PER|Adu, PER
 613, these six months, DATE|Mum, PER
-617, 2016, DATE|Isaac, PER|the International Day, EVENT|Exile, ORG
-620, Tanzanian, NORP|John Magufuli, PER
+617, 2016, DATE|Isaac, PER|Exile, ORG
+620, John Magufuli, PER
 621, Magufuli, LOC|Nigeria, LOC|China, LOC|China, LOC
-623, Aljazeera, ORG|2015, DATE|Magufuli, LOC|6 to 7 percent, PERCENT
+623, Aljazeera, ORG|2015, DATE|Magufuli, LOC
 626, Nigeria, LOC|the Jonannesburg Stock Exchange, ORG|MTN, ORG
 627, Mergence Investment Managers, ORG|Cape Town, LOC|West Africa, LOC|Nolwandle Mthombeni, LOC|West African, NORP|Continental, ORG
 628, Nigeria, LOC|the Jonannesburg Stock Exchange, ORG|MTN, ORG
 629, Bloomberg West Africa, FAC
-630, Congo, LOC|Rwanda, LOC|Zambia, LOC|Nigeria, LOC|the World Economic Forum Summit, EVENT|West Africa, LOC
+630, Congo, LOC|Rwanda, LOC|Zambia, LOC|Nigeria, LOC|West Africa, LOC
 631, The Government of Nigeria, ORG|Commerce, ORG
-632, more than 50, CARDINAL|African, NORP|Nigeria, LOC|West Africans, NORP|Sunday, DATE
-633, Nigerians, NORP
+632, Nigeria, LOC|Sunday, DATE
 634, Erasmus Ikhide, PER
 636, Legislature, ORG|Nigeria, LOC
 639, DSS, ORG
@@ -421,64 +401,61 @@
 649, Afunanya, PER
 651, DSS, ORG|every day, DATE
 652, DSS, ORG|Legislature, ORG
-653, the House of Representatives, ORG|DSS, ORG|Nigerians, NORP
+653, the House of Representatives, ORG|DSS, ORG
 654, DSS, ORG
-655, Nigerians, NORP|one day, DATE|DSS, ORG|Nigerians, NORP
+655, one day, DATE|DSS, ORG
 658, Simi, LOC|Victor Uwaifo, PER|Joromi, PER
-659, $ 50 million, MONEY|Joromi, PER|one, CARDINAL
-660, Joromi, PER|first, ORDINAL|Uwaifo, PER|1979, DATE
+659, Joromi, PER
+660, Joromi, PER|Uwaifo, PER|1979, DATE
 661, Court, ORG|several years ago, DATE|a few months ago, DATE
 663, Omoyele Sowore, PER
 664, BBC, ORG
 665, the African Democratic Congress, ORG|Ralph Nwosu, PER|Omoyele Sowore, PER
 666, the State Department of Justice, ORG|the Federal High Court, ORG|last Friday, DATE|less than 24 hours, DATE
-667, Nigerian, NORP
 668, PUNCH, ORG|Nwosu, PER
 669, many years, DATE|just a few months ago, DATE
-671, Tuesday, DATE|Banky-W described Nigeria, ORG
+671, Tuesday, DATE
 672, Omoyele Sowore, PER
 673, Nigeria, LOC
 676, Sowore, PER
-677, Nigerian, NORP
 678, God, PER
 679, Sowore, PER|these bad days, DATE|Nigeria, LOC
 681, Sowore's Foundation for Free Literacy, ORG|DSS, ORG
 682, Ondo State, LOC|Sahara Protestant, PER|Omoyele Sowore, PER|the State Department, ORG
-683, the Kiribo Students' Union, ORG|Sowore, PER|Nigerian, NORP
+683, the Kiribo Students' Union, ORG|Sowore, PER
 684, Idepe, LOC|Okitipupa, PER|Sowore, PER|many years to date, DATE
-685, Olawale Bakare, PER|Amnesty International, ORG|one, CARDINAL|Africans, NORP
+685, Olawale Bakare, PER|Amnesty International, ORG
 686, Samuel Irinyemi, PER|the Sahara Protesters, LOC|Sowore, PER
 687, Muhammadu Buhari, PER|Sowore, PER
 688, Omoyele Sowore Foundation, ORG|Ondo State, LOC
 689, DSS, ORG
 692, almost five years, DATE
-697, Nigerian, NORP|Omoyele Sowore, PER|two, CARDINAL
+697, Omoyele Sowore, PER
 698, the Federal High Court, ORG|Abuja, LOC|less than 24 hours, DATE|125 days, DATE
-699, Attacks, PRODUCT|Refusal, ORG|Buhari, PER|Government Are International Criticism, ORG
+699, Refusal, ORG|Buhari, PER|Government Are International Criticism, ORG
 700, Muhammadu Buhari, PER
 701, Winner Criticizes, PER|Opposition Opponents, ORG
-702, Buhari, PER|Friday, DATE|seventh, ORDINAL
+702, Buhari, PER|Friday, DATE
 703, Sowore, PER
 704, ISWAP, ORG
 705, 2018, DATE
-706, 2018, DATE|70%, PERCENT
-707, 20, CARDINAL|ISWAP, ORG|14, CARDINAL|2018, DATE
+706, 2018, DATE
+707, ISWAP, ORG|2018, DATE
 708, 2018, DATE|2014, DATE
-709, the end of 2015, DATE|50 per cent, MONEY|2016, DATE|2017, DATE|2018, DATE
-710, just a few days, DATE|2018, DATE|Nigerian, NORP|Maiduguri, LOC|Borno, LOC
+709, the end of 2015, DATE|2016, DATE|2017, DATE|2018, DATE
+710, just a few days, DATE|2018, DATE|Maiduguri, LOC|Borno, LOC
 711, Kashim Shettima, PER
 712, the Government House, ORG|Maiduguri, LOC
-713, Nigerian, NORP|Islamic States West Africa Province, ORG|Boko Haram, ORG
-714, two weeks, DATE|Nigerian, NORP
-715, 20, CARDINAL|the Nigerian Army, ORG|14, CARDINAL
+713, Islamic States West Africa Province, ORG|Boko Haram, ORG
+714, two weeks, DATE
+715, the Nigerian Army, ORG
 717, The International Atomic Energy Agency, ORG|IAEA, ORG|Lake Chad Basin, LOC
 721, the International Military Task Force Base, ORG|the Multinational Joint Task Force, ORG|Baga, LOC|Maiduguri, LOC|ISWAP, ORG
-723, AFP, ORG|the North East, LOC|Nigerian, NORP|2018, DATE
+723, AFP, ORG|the North East, LOC|2018, DATE
 724, Chad Basin's, LOC
-725, English, LANGUAGE|French, LANGUAGE|Cameroon, LOC|Chad, LOC|Niger, LOC|Nigeria, LOC
+725, Cameroon, LOC|Chad, LOC|Niger, LOC|Nigeria, LOC
 726, ISWAP, ORG
 727, the Northern and Central Borno, ORG
-728, Nigerian, NORP
 729, several years, DATE
 730, 2018, DATE
 731, all year 2018, DATE
@@ -489,19 +466,18 @@
 739, Lake Chad, LOC
 740, Maiduguri, LOC
 741, Kinchandi, LOC|the Niger Republic, LOC|Kusiri, LOC|Cameroon, LOC
-742, Nigerian, NORP|Kusiri, LOC|Adamawa, LOC|Kinchandi, LOC|Niger Republic, LOC
+742, Kusiri, LOC|Adamawa, LOC|Kinchandi, LOC|Niger Republic, LOC
 743, Hadeja, LOC|the Niger Republic, LOC
 745, ISWAP, ORG
-747, Nigerian, NORP
 749, 2018, DATE
-750, 2018, DATE|70%, PERCENT
-751, 20, CARDINAL|ISWAP, ORG|14, CARDINAL|2018, DATE
+750, 2018, DATE
+751, ISWAP, ORG|2018, DATE
 752, 2018, DATE|2014, DATE
-753, the end of 2015, DATE|50 per cent, MONEY|2016, DATE|2017, DATE|2018, DATE
-754, Mount Borno, LOC|three, CARDINAL|the Niger Republic, LOC|Chad, LOC|Cameroon, LOC
+753, the end of 2015, DATE|2016, DATE|2017, DATE|2018, DATE
+754, Mount Borno, LOC|the Niger Republic, LOC|Chad, LOC|Cameroon, LOC
 755, ISWAP, ORG
-756, Central Borno, ORG|eight, CARDINAL|ISWAP, ORG|Boko Haram, ORG
-757, South Borno, LOC|nine, CARDINAL|Gwoza, ORG|Damboa, PER|Chibok, LOC
+756, Central Borno, ORG|ISWAP, ORG|Boko Haram, ORG
+757, South Borno, LOC|Gwoza, ORG|Damboa, PER|Chibok, LOC
 758, about 45 days, DATE
 759, ISWAP, ORG|Baga, LOC
 760, ISWAP, ORG|Baga, LOC
@@ -509,37 +485,35 @@
 763, ISWAP, ORG|Baga, LOC
 766, two days, DATE|Baga, LOC
 767, ISWAP, ORG|Chad, LOC
-768, ISWAP, ORG|Nigerian, NORP
+768, ISWAP, ORG
 769, another day, DATE
-771, Jos, Plateau state, LOC|more than a dozen, CARDINAL
+771, Jos, Plateau state, LOC
 774, Boko Haram, ORG
 777, Ibrahim Idris, PER|Premium TImes, ORG|December 28, 2018, DATE
-778, several months, DATE|one, CARDINAL|the Special Task Force, ORG|STF, ORG|Jos, LOC
-783, Nigerians, NORP|Nigeria, LOC
+778, several months, DATE|the Special Task Force, ORG|STF, ORG|Jos, LOC
+783, Nigeria, LOC
 785, 2018, DATE
 786, the Niger Republic, LOC|Yobe, LOC|Adamawa, LOC|West Borno, LOC
 787, a year, DATE|2018, DATE|2013, DATE|2014, DATE|Maiduguri, LOC
 788, ISWAP, ORG
 789, Monguno, LOC|Maiduguri, LOC
-790, Four, CARDINAL|five, CARDINAL|Gajiram, ORG|Gajiganna, LOC|Gubio, LOC|Kareto, PER|the Niger Republic, LOC
-793, A few weeks ago, DATE|two, CARDINAL|Gudumbali, LOC|Kukawa, LOC
+790, Gajiram, ORG|Gajiganna, LOC|Gubio, LOC|Kareto, PER|the Niger Republic, LOC
+793, A few weeks ago, DATE|Gudumbali, LOC|Kukawa, LOC
 794, Baga, LOC
 795, Maiduguri, LOC|Shagari, ORG|Maiduguri, LOC
 800, December 28, 2018, DATE|the Defense and Foreign Affairs Committee of the International Defense Strategic Studies Association, ORG|the United States, LOC|Nigeria, LOC|Buhari, PER
 801, Washington, LOC|Muhammadu Buhari's, PER|Nigeria, LOC|Boko Haram, ORG
-802, Nigerian, NORP|billions of dollars, MONEY
 803, Lake Chad, LOC|ISWAP, ORG
-805, ISWAP, ORG|only one, CARDINAL
+805, ISWAP, ORG
 806, Kano, LOC
-807, Nigerian, NORP
 810, the International Atomic Energy Agency, ORG|IAEA, ORG
-811, Nigerian, NORP|Global Terrorism Index in, WORK_OF_ART|2018, DATE|Nigeria, LOC|third, ORDINAL
+811, 2018, DATE|Nigeria, LOC
 812, Nigeria, LOC|Iraq, LOC|Afghanistan, LOC|Syria, LOC|Pakistan, LOC
-813, 16 per cent, MONEY|2017, DATE|last year, DATE
-814, the World Economic Forum, ORG|two-year, DATE|Nigeria, LOC|one, CARDINAL
-815, Nigerian, NORP|Boko Haram, ORG|first, ORDINAL
+813, 2017, DATE|last year, DATE
+814, the World Economic Forum, ORG|two-year, DATE|Nigeria, LOC
+815, Boko Haram, ORG
 816, Ekiti, LOC
-818, three, CARDINAL|Iworoko-Ekiti, LOC|Ekiti State, LOC
+818, Iworoko-Ekiti, LOC|Ekiti State, LOC
 822, the Ekiti State Police, ORG
 823, SSS, ORG|Stanley Imhanruor, PER
 824, SSS, ORG
@@ -548,32 +522,30 @@
 827, Sowore, PER|Sowore, PER|SSS, ORG
 830, Sowore, PER|SSS, ORG|Sowore, PER
 834, Nigeria, LOC
-836, MTN, ORG|Nigerians, NORP
+836, MTN, ORG
 837, Rotimi Sankore, PER|West Africa, LOC
-840, MTN, ORG|Nigerians, NORP
-841, West Africans, NORP|Nigerians, NORP
+840, MTN, ORG
 847, Sudan, LOC|Al-Bashir, PER|two years, DATE
-848, Sudanese, NORP|the age of 70, DATE|BBC, ORG
+848, the age of 70, DATE|BBC, ORG
 849, Sudan, LOC|Omar al-Bashir, PER|two years, DATE
-850, Sudanese, NORP|the age of 70, DATE|BBC, ORG
+850, the age of 70, DATE|BBC, ORG
 851, Bashir, PER|1989, DATE|April, DATE
 854, Bashir, PER|Darfur, LOC
-855, The Super Eagles, ORG|four, CARDINAL
-856, 1,493, CARDINAL|1481, DATE
-857, The Nigerian Super Eagles, ORG|four, CARDINAL|November, DATE
-858, the International Football Confederation, ORG|Nigeria, LOC|1,493, CARDINAL|481,000, CARDINAL|October, DATE
-859, Eagles, ORG|third, ORDINAL|Senegal, LOC|Tunisia, LOC|27th, ORDINAL|555,065, CARDINAL
-860, 2, CARDINAL|Benin Republic, PER|4, CARDINAL|Lesotho, LOC|the Africa Cup of Nations, EVENT
+855, The Super Eagles, ORG
+857, The Nigerian Super Eagles, ORG|November, DATE
+858, the International Football Confederation, ORG|Nigeria, LOC|October, DATE
+859, Eagles, ORG|Senegal, LOC|Tunisia, LOC|
+860, Benin Republic, PER|Lesotho, LOC
 861, Olamilekan, PER|11-year-old, DATE|Macron, PER|Mide Ayeni, PER
 862, Olemilekan, PER
 865, six years old, DATE
-871, First, ORDINAL|the next 'twenty years', DATE
-872, This afternoon, DATE|Olamilekan, PER|12-year-old, DATE|French, NORP|less than two hours, TIME
-873, the African Idol, ORG|French, NORP|yesterday, DATE|Macron, PER
+871, the next 'twenty years', DATE
+872, This afternoon, DATE|Olamilekan, PER|12-year-old, DATE
+873, yesterday, DATE|Macron, PER
 875, Olamilekan, PER
 880, BBC, ORG
 882, 11 years old, DATE
-884, Second, ORDINAL|Olamilekan, PER
+884, Olamilekan, PER
 888, Olemilekan, PER
 890, six years old, DATE
 893, Harvard, ORG
@@ -586,29 +558,28 @@
 912, Ronaldo, PER|Serana Williams, PER
 917, Olamilekan, PER|Michelangelo, PER|Tosin, LOC
 922, Michelangelo, PER
-927, million, CARDINAL|twenty years, DATE
-928, Mide Ayeni, PER|Pearl Recycling, PER|Nigeria, LOC
+927, twenty years, DATE
+928, Mide Ayeni, PER|Nigeria, LOC
 929, the US Department of Women's Education, ORG
 930, Teflon and Nine Lives, ORG|Wumi Akintide, PER
-931, the United States, LOC|second, ORDINAL
-933, Teflon, ORG|nine, CARDINAL|Donald J. Trump, PER
-934, Barack Obama, PER|two, CARDINAL|eight years, DATE|the White House, LOC|nine-year-old, DATE
+931, the United States, LOC
+933, Teflon, ORG|Donald J. Trump, PER
+934, Barack Obama, PER|eight years, DATE|the White House, LOC|nine-year-old, DATE
 937, the United States of America, LOC
-938, White House, ORG
 939, the White House, LOC|Hillary, PER|the United States, LOC
 941, Joseph Achuzie, PER|Biafran, PER
 942, Dapchi: Government, ORG|Boko Haram, ORG|Massob, ORG
 943, Tottenham, LOC|Rochadale, ORG
 944, Fernando Llorente, PER|Kyle Walter-Peters, PER|yesterday, DATE|FA cup, WORK_OF_ART
-945, Tottenham, LOC|FA, WORK_OF_ART
-946, Tottenham, LOC|eight, CARDINAL|FA cup, LAW
-947, Tottenham, LOC|Rochadale, ORG|6, CARDINAL|FA cup, WORK_OF_ART
+945, Tottenham, LOC
+946, Tottenham, LOC
+947, Tottenham, LOC|Rochadale, ORG
 948, Tottenham, LOC|the 17th of March, DATE
-949, first, ORDINAL|fifth, ORDINAL|Fernando Llorente, PER|twelve minutes of the second half, TIME|Kyle Walter-Peters, PER|sixth, ORDINAL
+949, Fernando Llorente, PER|Kyle Walter-Peters, PER
 950, Rochadale, ORG
 952, Tottenham, LOC|Wembley, PER|the 3rd of March, DATE|League, PER|Juventus, ORG|Champions League, ORG|the 7th day of March, DATE
-954, first, ORDINAL|Plymouth, LOC|the 3rd day of March, DATE
-956, first, ORDINAL|England, LOC
+954, Plymouth, LOC|the 3rd day of March, DATE
+956, England, LOC
 957, Champions League, ORG|Neymar, PER
 960, Ibrahim Idris, PER
 961, The Inspector General of Police, ORG|Ibrahim Idris, PER
@@ -627,93 +598,89 @@
 976, Timothy Weah, PER
 977, Liberia, LOC|George Weah, PER|Timothy Weah, PER
 978, yesterday, DATE|Troyes, PER
-979, Neymar, PER|Kylian Mbappe, ORG|Maria, PER|Christopher Nkunu, PER
-980, Neymar, PER|Mbappe, ORG
-981, George Weah, PER|55, CARDINAL
+979, Neymar, PER|Kylian Mbappe, PER|Maria, PER|Christopher Nkunu, PER
+980, Neymar, PER|Mbappe, PER
+981, George Weah, PER
 982, George Weah, PER|23 years ago, DATE|AC Milan, ORG
-983, PGS, ORG|10, CARDINAL|17, CARDINAL|year, DATE|French League, ORG
-984, Real Madrid, ORG|Tusde, NORP|second, ORDINAL|first, ORDINAL|Real Madrid, ORG
+983, PGS, ORG|year, DATE
+984, Real Madrid, ORG|Real Madrid, ORG
 985, Neymar, PER|this season, DATE
 987, Dapchi, LOC
-988, One, CARDINAL|Awada, LOC
+988, Awada, LOC
 990, Charly Boy, PER|Nigeria, LOC
 991, Charles Oputa, PER|Charly Boy, PER|Nigeria, LOC
 992, Charly Boy, PER|Nigeria, LOC|Nigeria, LOC
-993, BBC Igbo, NORP|Nigeria, LOC
+993, BBC Igbo, ORG|Nigeria, LOC
 994, Charly Boy, PER|Nigeria, LOC
 995, thirty five years ago, DATE|Nigeria, LOC|Charly Boy, PER
 996, Oscar, PER|2018, DATE|Kobe Byant, PER
-997, American, NORP|Kobe Bryant, PER
-998, Kobe Bryant, PER|American, NORP
+997, Kobe Bryant, PER
+998, Kobe Bryant, PER
 999, Kobe Bryant, PER
-1000, Kobe Bryant, PER|American, NORP|Oscar, PER
+1000, Kobe Bryant, PER|Oscar, PER
 1002, Oscar, PER
-1005, Frances McDormand, PER|Three, CARDINAL|Missouri, LOC
-1006, Gary Oldman, PER|Darkest Hour, PRODUCT
-1007, Guillermo Del Toro, PER|the The Shape of Water, WORK_OF_ART
+1005, Frances McDormand, PER|Missouri, LOC
+1006, Gary Oldman, PER
+1007, Guillermo Del Toro, PER
 1008, Jordan Peele, PER
 1009, 2018, DATE
 1010, Hollywood, LOC
-1012, Black Panther, NORP|Walking Dead, PER
+1012, Walking Dead, PER
 1015, Daniel Kuluuya, PER
-1016, Daniel Kaluuya, PER|British, NORP
-1018, 2012, DATE|Twelve Years a Slave, WORK_OF_ART
+1016, Daniel Kaluuya, PER
+1018, 2012, DATE
 1019, Jennifer Lawrence, PER
 1020, Jennifer Lawrence, PER|Oscar, PER
 1021, Andra Day, PER
-1022, Andra Day, PER|American, NORP
+1022, Andra Day, PER
 1023, 2018, DATE
-1024, Black Panther, NORP
-1025, Africa, LOC|Black Panther, NORP
-1026, Black Panther, NORP
+1025, Africa, LOC
 1027, Tom Holland, PER
 1028, Tom Holland, PER|Spider Man', PER
 1029, Chadwick Boseman, PER
-1030, Chadwick Boseman, PER|Wakanda, LOC|'Black Panther', WORK_OF_ART|Oscars, ORG
+1030, Chadwick Boseman, PER|Wakanda, LOC|Oscars, ORG
 1031, Ashley Judd, PER
-1032, Ashley Judd, PER|Time, ORG
+1032, Ashley Judd, PER
 1033, Adam Rippon, PER
-1034, Adam Rippon, PER|English, LANGUAGE|Fifty, CARDINAL
+1034, Adam Rippon, PER
 1035, Salman Hayek, PER
 1036, Salman Hayek, PER
 1037, Darrell Britt-Gibson, PER
-1038, Darrell Britt-Gibson, PER|Three Billboards', WORK_OF_ART
+1038, Darrell Britt-Gibson, PER
 1039, Whoopi Goldberg, PER
 1040, Whoopi Goldberg's, PER
 1041, Patrick Stewart, PER
 1042, Patrick Stewart, PER|Time, ORG
 1043, Sally Hawkins, PER
-1044, Sally Hawkins, PER|British, NORP|The Shape of Water', WORK_OF_ART
+1044, Sally Hawkins, PER
 1046, 10 years, DATE|13 years old, DATE
 1047, Meryl Streep, PER
-1048, Meryl Streep, PER|21, CARDINAL
+1048, Meryl Streep, PER
 1049, Margot Robbie, PER
 1050, Margot Robbie, PER|Tonya, PER
 1051, Tiffany Haddish, PER
-1052, Tiffany Haddish, PER|African, NORP|Eritrean, NORP|Ethiopian, NORP
-1054, Africans, NORP|Nigeria, LOC
+1052, Tiffany Haddish, PER
+1054, Nigeria, LOC
 1057, 2018, DATE|the 90th year, DATE|Hollywood, LOC
-1058, 2018, DATE|BBC Igbo, NORP|African, NORP|Nigeria, LOC
+1058, 2018, DATE|BBC Igbo, ORG|African, NORPNigeria, LOC
 1059, 2018, DATE|Africa, LOC|Nigeria, LOC
 1060, BBC, ORG|Nigeria, LOC|Hollywood, LOC|Hollywood, LOC
-1061, Nigeria, LOC|African, NORP|African, NORP
-1062, American, NORP|Kenyan, NORP|the year 2013, DATE
+1061, Nigeria, LOC
+1062, the year 2013, DATE
 1063, Few years ago, DATE|Nigeria, LOC|Africa, LOC
 1064, second, ORDINAL|one year, DATE|Hollywood, LOC
 1065, Africa, LOC|Kenya, LOC|South Africa, LOC|Nigeria, LOC
 1066, South Africa, LOC
 1068, Nigeria, LOC
-1070, Nigerian, NORP|Buhari, PER
-1071, Nigerian, NORP|Buhari, PER|CHOGM, ORG
+1070, Buhari, PER
+1071, Buhari, PER|CHOGM, ORG
 1072, Muhammadu Buhari, PER
-1073, Nigerians, NORP|Muhammadu Buhari, PER
+1073, Muhammadu Buhari, PER
 1074, Nigeria, LOC
-1075, Buhari, PER|London, LOC|CHOGM, ORG|Nigerian, NORP
-1076, Nigerians, NORP
-1077, Three, CARDINAL|Buhari, PER|Nigerians, NORP
+1075, Buhari, PER|London, LOC|CHOGM, ORG
+1077, Buhari, PER
 1078, Buhari, PER
-1079, Nigerians, NORP
-1080, Buhari, PER|Femi Adesina, PER|Nigerians, NORP
+1080, Buhari, PER|Femi Adesina, PER
 1081, Adesina, PER
 1083, Nigeria, LOC
 1086, Buhari, PER|2019, DATE
@@ -729,84 +696,81 @@
 1100, South Africa, LOC
 1102, Britain, LOC
 1106, Chimamanda, PER
-1107, Nigerians, NORP
-1108, Nigerian, NORP|Buhari, PER
+1108, Buhari, PER
 1111, Theresa, PER|Canada, LOC|Justin Trudeau, PER|Prince Charles, PER
 1112, CHOGM, ORG
-1113, CHOGM, ORG|Commonwealth of Government Meeting, ORG|English, LANGUAGE
+1113, CHOGM, ORG|Commonwealth of Government Meeting, ORG
 1114, twice every two years, DATE
 1116, the year, DATE|London, LOC|Valletta, ORG|Malta, LOC
 1117, Imo, LOC|Rochas, PER
-1118, Imo State, LOC|ten billion naira, MONEY
+1118, Imo State, LOC
 1119, Rochas Okorocha, PER|Ogoni, PER|Godwin Gininwa, PER
 1120, Rochas Okorocha, PER|2019, DATE
-1121, Imo State, LOC|three thousand naira, CARDINAL
-1122, Ebere Iwuji, PER|BBC Igbo, NORP
+1121, Imo State, LOC
+1122, Ebere Iwuji, PER|BBC Igbo, ORG
 1125, Imo State, LOC|Community Government Councils, ORG
-1126, Imo, LOC|ten billion, CARDINAL
+1126, Imo, LOC
 1127, Nzewuji, PER
 1128, monthly, DATE
 1133, this night, DATE|Buhari, PER|Nigeria, LOC
 1134, APC, ORG
 1135, 2019, DATE|APC, ORG|2019, DATE
 1137, 1999, DATE
-1138, Nigerians, NORP|Buhari, PER|2019, DATE
+1138, Buhari, PER|2019, DATE
 1139, next week, DATE
-1140, Peoples Democratic Party, ORG|All Progressive Congresss, ORG|APC, ORG|Social Democratic Party, ORG|SDP, ORG|about twenty three, CARDINAL
+1140, Peoples Democratic Party, ORG|All Progressive Congresss, ORG|APC, ORG|Social Democratic Party, ORG|SDP, ORG
 1141, Coalition for Nigeria Movement, ORG|CNM, ORG|Nigeria, LOC|Obasanjo, PER
 1142, Obasanjo, PER
 1143, 2019, DATE|Keyamo, PER|Buhari, PER
 1144, Buhari, PER|2019, DATE
 1145, the year 2015, DATE
 1146, Nigeria, LOC
-1147, One, CARDINAL|APC, ORG
+1147, APC, ORG
 1151, sixteen years, DATE|APC, ORG
 1152, POP, ORG
 1153, Uche Secondus, PER
 1154, Nigeria, LOC|APC, ORG
-1156, three thousand naira, QUANTITY|Imo State, LOC
-1158, Nigerian, NORP|Buhari, PER
+1156, Imo State, LOC
+1158, Buhari, PER
 1159, Ebube Muonso's, PER
-1162, Igbos, NORP
 1163, Saturday, DATE
-1164, Catholic, NORP|Emmanuel Obimma, PER|Ebube Muonso, PER|Friday, DATE|Saturday, DATE|morning, DATE
-1165, Francis Okoye, PER|BBC, ORG|8pm, DATE|night, DATE|more than thirty, CARDINAL
+1164, Emmanuel Obimma, PER|Ebube Muonso, PER|Friday, DATE|Saturday, DATE|morning, DATE
+1165, Francis Okoye, PER|BBC, ORG|8pm, DATE|night, DATE
 1166, Àgùlerì, LOC|Igboukwu, LOC
 1167, Awada, LOC
-1178, Nkiru Nwode, PER|BBC, ORG|three, CARDINAL
-1179, first, ORDINAL|Catholics, NORP|Friday, DATE|night, DATE|more than two thousand, CARDINAL
+1178, Nkiru Nwode, PER|BBC, ORG
+1179, Friday, DATE|night, DATE
 1181, Obimma, PER
 1186, APC, ORG
 1187, Buhari, PER
-1188, Buhari, PER|2023, CARDINAL
-1190, Igboukwu, LOC|one, CARDINAL|Igbo, NORP|Nigeria, LOC
+1188, Buhari, PER
+1190, Igboukwu, LOC|Nigeria, LOC
 1191, Buhari, PER|2019, DATE|2015, DATE
-1192, 2023, CARDINAL|Buhari, PER|2019, DATE
+1192, Buhari, PER|2019, DATE
 1193, APC, ORG|Amechi, PER|Boss Mustapha, PER|Voice of Nigeria, ORG|Osita Okechukwu, PER|Buhari, PER|2019, DATE
 1194, 2019, DATE|Balarabe Musa, PER
 1197, the Sun Newspaper, ORG
 1199, Yoruba, LOC|Nigeria, LOC|Nigeria, LOC
-1200, 2023, CARDINAL|Igbos, PER
 1201, Ohanaeze Ndigbo, ORG|Dozie Ikedife, PER
 1202, Sun Newspaper ', ORG
 1205, Biafra, LOC
-1206, 2015, DATE|Igbos, PER|Buhari, PER|95%, PERCENT|5%, PERCENT
+1206, 2015, DATE|Igbos, PER|Buhari, PER
 1211, America, LOC
-1215, four, CARDINAL|Nashville, LOC|America, LOC
+1215, Nashville, LOC|America, LOC
 1218, Travis Reinking, PER|29 years old, DATE|Illinois, LOC
 1223, 2019, DATE
 1224, Wole Soyinka, PER
-1225, The Nobel Prize, WORK_OF_ART|Nigeria, LOC
-1226, Wole Soyinka, PER|Nigerians, NORP
-1227, Wole Soyinka, PER|Nigerians, NORP|2019, DATE
+1225, Nigeria, LOC
+1226, Wole Soyinka, PER
+1227, Wole Soyinka, PER|2019, DATE
 1228, Sunday, DATE|Gani Fawehinmi, PER|Lagos, LOC|Nigeria, LOC
-1229, Nigeria, LOC|Nigerians, NORP
+1229, Nigeria, LOC|
 1230, Buhari, PER|APC, ORG
 1231, Wole Soyinka, PER
 1237, Nigeria, LOC
-1244, Nigeria, LOC|one, CARDINAL|two, CARDINAL
+1244, Nigeria, LOC|one, CARDINAL
 1245, Nigeria, LOC|today, DATE
-1246, Nigerians, NORP|America, LOC
+1246, America, LOC
 1247, America, LOC
 1248, Yemi Osibanjo, PER|Abuja, LOC
 1249, Yemi Osibanjo, PER
@@ -817,7 +781,7 @@
 1255, Sanusi Lamido, PER|Kano, LOC|Nigeria, LOC
 1256, Sanusi, PER
 1257, Africa, LOC|Nigeria, LOC|Ghana, LOC|Ruwanda, LOC|Kenya, LOC|South Africa, LOC
-1258, 500, MONEY|Nigeria, LOC|100, MONEY|Ghana, LOC|100, MONEY|Ruwanda, LOC|100, MONEY
+1258, Nigeria, LOC|Ghana, LOC|Ruwanda, LOC
 1259, 9 o'clock, DATE|10 o'clock, DATE
 1260, Nigeria, LOC
 1261, Sanusi, PER
@@ -832,12 +796,12 @@
 1272, London, LOC
 1273, Washington DC, LOC|IMF, ORG
 1275, Lai Mohammed, PER
-1277, Ikeogu Oke, PER|10,000, MONEY|Nigerian Prize of Literature, WORK_OF_ART
-1281, BBC, ORG|Oke, PER|Igbo, NORP
+1277, Ikeogu Oke, PER
+1281, BBC, ORG|Oke, PER
 1282, Abacha, PER
 1283, Abacha, PER|Nigeria, LOC
 1284, Kemi Adeosun, PER|Christine Lagarde, PER|IMF, ORG
-1285, Nigerian, NORP|more than three hundred million dollars, CARDINAL|Abacha, PER|Swiss, NORP
+1285, Abacha, PER
 1286, Finance, ORG|Kemi Adeosun, PER|Buhari, PER
 1287, International Monetary Fund, ORG|Washington DC, LOC|America, LOC
 1288, Nigeria, LOC
@@ -845,11 +809,11 @@
 1291, Nigeria, LOC
 1292, Nigeria, LOC
 1293, Nigeria, LOC|CHOGM, ORG
-1295, Nigerians, NORP|America, LOC
-1297, IMF, ORG|Nigeria, LOC|more than one, CARDINAL
-1299, EFCC, ORG|Umar, PER|ten million, CARDINAL
+1295, America, LOC
+1297, IMF, ORG|Nigeria, LOC
+1299, EFCC, ORG|Umar, PER
 1300, IMF, ORG|Nigeria, LOC
-1301, Nigeria, LOC|at least five, CARDINAL|one, CARDINAL|Nigeria, LOC|one, CARDINAL|Muslim, NORP|Mecca, LOC|Saudi Arabia, LOC|one, CARDINAL|Christians, NORP|one, CARDINAL
+1301, Nigeria, LOC|Nigeria, LOC|Mecca, LOC|Saudi Arabia, LOC
 1302, Pat Utomi, PER|Uche, PER|BBC, ORG
 1305, Pat Utomi, PER
 1307, Abacha, PER
@@ -4320,20 +4284,20 @@
 7322, South, LOC|Northeast, LOC|three, CARDINAL
 7323, Agbedo, PER
 7324, Wednesday, DATE|the South East Development Commission, ORG
-7325, 8th, ORDINAL|Stella Oduah, PER|Anambra North, LOC|December 12, 2018, DATE|Muhammadu Buhari's, PER
-7326, the Federal Government, ORG|Nigerian, NORP
-7328, 15, CARDINAL|10 per cent, MONEY|monthly, DATE
+7325, Stella Oduah, PER|Anambra North, LOC|December 12, 2018, DATE|Muhammadu Buhari's, PER
+7326, the Federal Government, ORG
+7328, monthly, DATE
 7330, Aba, LOC
 7331, Ahmed Ikaka, PER|National Youth Service Corp, ORG|NYSC, ORG|Tuesday, DATE|Skills Acquisition and Entrepreneurship Department, ORG|Osisioma, LOC|Aba, LOC
 7332, Ikaka, PER|NYSC, ORG|Nigeria, LOC
 7334, Nigeria, LOC
 7335, NYSC, ORG
-7336, NYSC, ORG|Nigerians, NORP
+7336, NYSC, ORG
 7341, NYSC, ORG|Nigeria, LOC
 7342, NYSC, ORG
 7343, Ikaka, PER
-7344, Bank of Industry, ORG|N2, CARDINAL|Central Bank, ORG|N400 million, CARDINAL|Heritage Bank, ORG|NYSC Foundation, ORG
-7345, about N10 million, CARDINAL|Nigeria, LOC
+7344, Bank of Industry, ORG|Central Bank, ORG|Heritage Bank, ORG|NYSC Foundation, ORG
+7345, Nigeria, LOC
 7346, NYSC, ORG|Bona Fasakin, PER|Osisioma Local Government Area, LOC|NYSC, ORG
 7347, Fasakin, PER
 7348, Abia, LOC|Osisioma, LOC
@@ -4349,7 +4313,7 @@
 7358, Eruwa, LOC|Samuel Adegbola, PER|the Supreme Court, ORG|Friday, DATE|morning, DATE
 7359, Vanguard, ORG|Oyo State High Court, ORG|January 26, 2011, DATE
 7361, 1998, DATE|the Oyo State Government, ORG|May 1, 1994, DATE
-7363, two, CARDINAL|Anambra, LOC
+7363, Anambra, LOC
 7364, Adegbola, PER|James Olatunde, PER
 7365, Adegbola, PER|Oyo State, LOC|Ibarapa Local Government, ORG|Jacob Adewusi, PER|Femi Atanda, PER|E. Ojebisi, PER|Kasali I., PER
 7366, Lasun Sanusi, PER
@@ -4357,27 +4321,26 @@
 7368, Nigeria, LOC|Uzor Kalu, PER
 7369, Orji Uzor Kalu, PER|Abia State, LOC|yesterday, DATE
 7370, Nigeria, LOC|1999, DATE
-7372, 2007, DATE|the Economic and Financial Crimes Commission, ORG|EFCC, ORG|39, CARDINAL|about N7.65 billion, MONEY
+7372, 2007, DATE|the Economic and Financial Crimes Commission, ORG|EFCC, ORG
 7373, yesterday, DATE|12-year, DATE|Federal High Court, ORG|Lagos, LOC|Mohammed Idris, PER
 7374, Idris, PER|Kalu, PER|Slok Nigeria Limited, ORG|the Federal Government, ORG
 7375, Slok Nigeria Limited, ORG|Udeh Udeogu, PER|Abia, LOC
 7376, Guardian, ORG
-7377, Zamfara NYSC, ORG|Coordinator, PRO
+7377, Zamfara NYSC, ORG
 7378, The National Youths Service Corps, ORG|NYSC, ORG|Namalam Taura, PER
 7379, Philip Karayom, PER|Tsafe, LOC|Monday, DATE
-7380, Karayom, PER|Taura, PER|Coordinator, PRODUCT|Dahunsi Muhammad, PER
+7380, Karayom, PER|Taura, PER|Dahunsi Muhammad, PER
 7381, Taura, PER
-7383, NYSC, ORG|1,054, CARDINAL|Abia, LOC
-7384, Bello Matawalle, PER|Monday, DATE|NYSC, ORG|Tsafe, LOC|2019, DATE|2, CARDINAL
+7383, NYSC, ORG|Abia, LOC
+7384, Bello Matawalle, PER|Monday, DATE|NYSC, ORG|Tsafe, LOC|2019, DATE
 7385, Matawalle, PER|Bala Bello, PER
-7388, Taura, PER|1,000, CARDINAL|840, CARDINAL
+7388, Taura, PER
 7389, News Agency of Nigeria, ORG|NAN, ORG|Aisha Jibril, PER
-7391, No fewer than 17, CARDINAL|three, CARDINAL|Anambra, LOC
+7391, Anambra, LOC
 7392, Nkpor, LOC
 7393, Pascal Anigbo, PER|the Federal Road Safety Corps, ORG
 7394, Mitsubishi, ORG
-7396, 17, CARDINAL|10, CARDINAL|seven, CARDINAL|seven, CARDINAL
-7397, Mitsubishi, ORG|two, CARDINAL
+7397, Mitsubishi, ORG
 7398, Crown hospital Nkpor, LOC
 7399, FRSC, ORG
 7400, Betty Akeredolu, PER
@@ -4386,14 +4349,14 @@
 7406, Anyanwu-Akeredolu, PER|FOWOSO, ORG
 7410, FOWOSO, ORG
 7411, FOWOSO, ORG
-7413, Prioritising Women's Health and Well Being In Nigeria', WORK_OF_ART|Akeredolu, PER
+7413, Akeredolu, PER
 7414, Ondo State, LOC|Wednesday, DATE|Ondo State, LOC
 7415, Ondo State, LOC
 7416, FOWOSO Planning Committee, ORG
 7417, Modupe Adelabu, PER|FOWOSO, ORG
 7418, Ekiti State, LOC|FOWOSO, ORG
 7419, Bisi Fayemi, PER|Ekiti State, LOC|Kafayat Oyetola, PER|Osun State, LOC
-7421, Nigerian, NORP|the Information Security Society of Africa-Nigeria, ORG|ISSAN, ORG
+7421, the Information Security Society of Africa-Nigeria, ORG|ISSAN, ORG
 7422, a Cyber Security Workshop Themed, LAW|ISSAN, ORG|21st Century Technologies Limited, ORG|Lagos, LOC
 7423, ISSAN, ORG|David Isiavwe, PER
 7429, Isiavwe, PER|Ecobank Nigeria Limited, ORG
@@ -4413,9 +4376,8 @@
 7453, Onitsha, LOC|Anambra State, LOC
 7455, Last night, DATE
 7457, Onitsha, LOC
-7458, Rest In Peace, WORK_OF_ART
 7460, Atiku, PER|Nigeria, LOC
-7461, Otedola bridge, LOC|June 2018, DATE|Lagos, LOC|Nigerians, NORP
+7461, Otedola bridge, LOC|June 2018, DATE|Lagos, LOC
 7462, Lagos, LOC
 7463, Nigeria, LOC|decades, DATE
 7465, the Ministry of Transport, ORG|the Federal Road Safety Commission, ORG|Nigeria, LOC
@@ -4440,37 +4402,36 @@
 7491, Ondo State Government, ORG
 7493, Sunshine Stars, ORG|James Moses, PER
 7494, Moses, PER|Okomu, PER
-7496, Sunshine, ORG|first, ORDINAL|Sunshine, ORG
+7496, Sunshine, ORG|Sunshine, ORG
 7498, Tajudeen Akinyemi, PER|Ondo State Football Agency, ORG
 7499, Akinyemi, PER
 7502, Muyinat Mimiko, PER|Ondo, LOC|Friday, DATE
 7503, Ondo State, LOC
 7504, 88-year-old, DATE|Muyinat Mimiko, PER|Ondo, LOC|Friday, DATE
 7505, Paul Akinduro, PER|Saturday, DATE
-7507, two, CARDINAL|Ondo State, LOC
+7507, Ondo State, LOC
 7509, Nigeria, LOC
-7510, Nigerian, NORP|David Adeleke, PER|Davido, PER|Osun State, LOC|the next 40 years, DATE|Adedeji Adeleke, PER|Nigeria, LOC
+7510, David Adeleke, PER|Davido, PER|Osun State, LOC|the next 40 years, DATE|Adedeji Adeleke, PER|Nigeria, LOC
 7511, the All Progressives Congress, ORG|Bola Tinubu, PER
 7512, Davido, PER
 7514, Wednesday night, DATE|Victoria Island, LOC
-7515, October, DATE|MTV Base TV, ORG|Ehiz, PER|first, ORDINAL
+7515, October, DATE|MTV Base TV, ORG|Ehiz, PER
 7521, Serubawon, PER
 7529, just a week, DATE
 7535, Adeleke University, ORG
 7536, the next 30 to 40 years, DATE
 7539, APC, ORG|Paris, LOC
-7547, Wednesday, DATE|two, CARDINAL
+7547, Wednesday, DATE
 7548, The Economic and Financial Crimes Commission, ORG|Ondo State, LOC|Sule Atiku, PER|Matthew Adejuwon, PER
-7549, Wednesday, DATE|two, CARDINAL
-7550, The Registrar and Bursar, WORK_OF_ART|EFCC, ORG|Tuesday, DATE
-7554, SaharaReporters, ORG
-7555, two, CARDINAL|EFCC, ORG
+7549, Wednesday, DATE
+7550, EFCC, ORG|Tuesday, DATE
+7555, EFCC, ORG
 7556, today, DATE|Wednesday, DATE
 7557, Wednesday, DATE|evening, DATE|Ojo Samuel, PER
 7558, EFCC, ORG|last month, DATE|Banji Alabi, PER|Gani Ogundahunsi, PER|Olorunwa Lawson, PER
-7560, EFCC, ORG|SaharaReporters, ORG
-7563, Boluwatife Adekunle, ORG|the Federal University of Technology Akure, LOC|Ondo State, LOC|two, CARDINAL
-7564, SaharaReporters, ORG|Tuesday, DATE|Akure, LOC
+7560, EFCC, ORG
+7563, Boluwatife Adekunle, ORG|the Federal University of Technology Akure, LOC|Ondo State, LOC
+7564, Tuesday, DATE|Akure, LOC
 7566, few weeks ago, DATE
 7585, Florence Adekunle, PER
 7586, Shehu Sani, PER|Awosanya, PER|Segalink, PER|Federal University of Agriculture, ORG|Abeokuta, LOC|Omoyele Sowore, PER
@@ -4486,8 +4447,8 @@
 7601, Church Road Sabon Gari, LOC|Railway, ORG|Tukur Road, FAC|Kano, LOC
 7604, Ibn-Sina, PER
 7607, Kabba Road, FAC|Lokoja, LOC|Kogi State, LOC
-7608, Friday, DATE|Kano, LOC|NPFL, ORG|6, CARDINAL|NYSC, ORG
-7611, today, DATE|Ifeanyi, PER|Kano, LOC|NPFL, ORG|6, CARDINAL|Jigawa Golden Stars, ORG|NYSC, ORG|Lokoja, LOC|Kogi State, LOC
+7608, Friday, DATE|Kano, LOC|NPFL, ORG|NYSC, ORG
+7611, today, DATE|Ifeanyi, PER|Kano, LOC|NPFL, ORG|Jigawa Golden Stars, ORG|NYSC, ORG|Lokoja, LOC|Kogi State, LOC
 7612, the Nigerian Football Federation and League Management Company, ORG
 7615, the Federal Polytechnic, ORG|Ado Ekiti, LOC|Ekiti State, LOC|the Students Union Government, ORG
 7616, SUG, ORG
@@ -4495,50 +4456,50 @@
 7619, School of Engineering, ORG
 7620, Adeyemi Adejolu, PER|Ado Ekiti, LOC|Sunday, DATE
 7622, the Academic Board and Management Committee, ORG|Saturday, DATE
-7623, Kunle Ajibade, PER|Sixty, CARDINAL|Ogaga Ifowodo, PER
+7623, Kunle Ajibade, PER|Ogaga Ifowodo, PER
 7624, Africa, LOC
 7626, Ogaga Ifowodo, PER
-7627, twenty-three, CARDINAL|my final year, DATE|the University of Benin, ORG
+7627, my final year, DATE|the University of Benin, ORG
 7628, Alao Aka-Bashorun, PER
 7629, the Students Union, ORG|Opeyemi Bamidele, PER|the Caretaker Committee, ORG
-7630, Bamidele, PER|two, CARDINAL|first, ORDINAL|eight, CARDINAL|Students Union, ORG
-7631, Uniben, ORG|four, CARDINAL|Ahmadu Bello University, ORG|Ango Abdullahi, PER|four, CARDINAL|Grace Alele, PER|Williams, PER|Babangida, PER
+7630, Bamidele, PER|Students Union, ORG
+7631, Uniben, ORG|Ahmadu Bello University, ORG|Ango Abdullahi, PER|Grace Alele, PER|Williams, PER|Babangida, PER
 7633, League of Patriotic Students, ORG|the Cultural Awareness Club, ORG
 7635, the early years, DATE|Babangida, PER|the National Association of Nigerian Students, ORG
-7637, second, ORDINAL|Babangida, PER|39.5 kobo, QUANTITY|42 kobo, QUANTITY|the University of Jos, ORG
-7638, Babangida, PER|eighteen, CARDINAL
+7637, Babangida, PER|the University of Jos, ORG
+7638, Babangida, PER
 7639, the University of Benin, ORG
-7641, second, ORDINAL|the IMF/World Bank's, ORG|Babangida, PER
+7641, the IMF/World Bank's, ORG|Babangida, PER
 7644, the Faculty of Social Sciences, ORG
 7649, Femi Falana, PER|Lagos, LOC|Ketu, LOC
-7650, Constitution, LAW|the Federal Military Government, ORG
+7650, the Federal Military Government, ORG
 7652, Nigeria, LOC
 7653, James Omo-Agege, PER|Bendel State High Court, ORG|Bamidele & Ors, ORG|The University of Benin, ORG
 7654, Gambia, LOC
 7658, Alele, PER|Williams, PER|the Nigeria Law School, ORG|a month, DATE|Aka-Bashorun, PER
 7660, Grant Advertising, ORG|Bode Thomas Street, LOC|Surulere, LOC|Lagos, LOC
 7661, Kunle Ajibade, PER|Guardian, ORG|The African Concord, ORG|TheNEWS, ORG|Tempo newspaper, ORG|the last two, DATE
-7662, first, ORDINAL|the 1988 Association of Nigerian Authors, ORG|annual, DATE|the National Theatre, ORG|Lagos, LOC|Idzia Ahmad, PER|Ajibade, PER|Grant, ORG
+7662, the 1988 Association of Nigerian Authors, ORG|annual, DATE|the National Theatre, ORG|Lagos, LOC|Idzia Ahmad, PER|Ajibade, PER|Grant, ORG
 7663, African Concord, ORG|Ajibade, PER
 7664, Lewis Obi, PER|Ohi Alegbe, PER
 7665, 1993, DATE
 7666, Weekend Concord, ORG
 7668, Babangida, PER|Abacha, PER|June 12, 1993, DATE
 7670, Obasanjo, PER|Ajibade, PER
-7671, six months, DATE|Ajibade, PER|Babangida, PER|Abacha, PER|Ajibade, PER|three, CARDINAL
+7671, six months, DATE|Ajibade, PER|Babangida, PER|Abacha, PER|Ajibade, PER
 7672, Ngugi wa Thiong'o, PER|Ajibade, PER|2016, DATE|Abeokuta, LOC|only one year, DATE|Arap Moi's, PER
 7674, Falana, PER
 7675, Falana, PER
 7676, Ajibade, PER|Tempo, ORG|TheNEWS, ORG
-7677, two, CARDINAL|fifty-four years, DATE|215, CARDINAL|15, CARDINAL|Africa, LOC
+7677, two, CARDINAL|fifty-four years, DATE|Africa, LOC
 7679, Ifowodo, PER|Delta State, LOC|the Governing Board of the Niger Delta Development Commission, ORG
 7680, 1993, DATE
-7682, SSS, ORG|Sowore, PER|Dubai, LOC|millions of dollars, MONEY|Muhammadu Buhari, PER
+7682, SSS, ORG|Sowore, PER|Dubai, LOC|Muhammadu Buhari, PER
 7683, Sowore, PER|Dubai, LOC|the United Arab Emirates, LOC
 7684, Omoyele Sowore, PER|August 3 , 2019, DATE
 7685, SSS, ORG|Taiwo Taiwo, PER|the Federal High Court, ORG|Abuja, LOC
 7687, the Terrorism Prevention Act, LAW|2011, DATE
-7688, SSS, ORG|Sowore, PER|Dubai, LOC|millions of dollars, MONEY|Muhammadu Buhari, PER
+7688, SSS, ORG|Sowore, PER|Dubai, LOC|Muhammadu Buhari, PER
 7689, Sowore, PER|Dubai, LOC|the United Arab Emirates, LOC
 7690, Sowore, PER|Abubakar Malami, PER|Olawale Bakare, PER|Buhari, PER
 7691, AGF, ORG|Buhari, PER
@@ -4546,91 +4507,91 @@
 7693, Ogun State, LOC|Effiong Inibehe, PER
 7696, Taiwo, PER|Ijeoma Ojukwu, PER|Sowore, PER|Bakare, PER|SSS, ORG
 7697, SSS, ORG|Sowore, PER|Bakare, PER
-7698, the Federal High Court, ORG|Ijeoma Ojukwu, PER|5th, ORDINAL|6th, ORDINAL|December, DATE|2019, DATE
+7698, the Federal High Court, ORG|Ijeoma Ojukwu, PER|December, DATE|2019, DATE
 7699, SSS, ORG|Ojukwu, PER|Sowore, PER|Bakare, PER
 7700, SSS, ORG|February 20, 2020, DATE
-7701, 296, CARDINAL|the Administration of Criminal Justice Act, ORG|2015, DATE
+7701, the Administration of Criminal Justice Act, ORG|2015, DATE
 7703, the Federal Government, ORG|Sowore, PER
 7704, Sunday, December 8, 2019, DATE|Garba Shehu, PER|Nigeria, LOC
-7705, Boko Haram, ORG|millions, CARDINAL
+7705, Boko Haram, ORG
 7706, Boko Haram, ORG
 7708, Sowore, PER|Bakare, PER|Nigeria, LOC|Shehu, PER
 7709, Shehu, PER
-7710, Sowore, PER|Nigerian, NORP
+7710, Sowore, PER
 7711, the Federal Government, ORG
 7714, Obafemi Awolowo University, ORG
-7715, about 12, CARDINAL|morgue, LOC
-7716, About 12, CARDINAL|Tuesday, DATE|an early morning, DATE|Anatomy Department of Obafemi Awolowo University, ORG|Osun State, LOC|PUNCH, ORG
+7715, morgue, LOC
+7716, Tuesday, DATE|an early morning, DATE|Anatomy Department of Obafemi Awolowo University, ORG|Osun State, LOC|PUNCH, ORG
 7717, the Osun Police Command, ORG|Folasade Odoro, PER
 7719, Odoro, PER
-7720, Abiodun Olanrewaju, PER|about 102, CARDINAL|Tuesday, DATE
+7720, Abiodun Olanrewaju, PER|Tuesday, DATE
 7721, 3:00am today, TIME|Tuesday, November 19, 2019, DATE
-7724, Five, CARDINAL|Anthony Joshua's, PER|Samuel Osho, PER
+7724, Anthony Joshua's, PER|Samuel Osho, PER
 7726, Joshua, PER
-7728, Diriyah Arena, LOC|Nigerian, NORP|British, NORP|Anthony Joshua, PER
-7729, Joshua, PER|Andy Ruiz, PER|one, CARDINAL|2019, DATE
-7730, Andy Ruiz, PER|six months ago, DATE|the Madison Square Garden, FAC|New York, LOC
-7731, Joshua, PER|four, CARDINAL|seventh, ORDINAL
+7728, Diriyah Arena, LOC|Anthony Joshua, PER
+7729, Joshua, PER|Andy Ruiz, PER|2019, DATE
+7730, Andy Ruiz, PER|six months ago, DATE|New York, LOC
+7731, Joshua, PER
 7733, Saturday, DATE|night, DATE|Anthony Joshua, PER
 7735, Joshua, PER
-7736, two, CARDINAL|Andy Ruiz, PER
+7736, Andy Ruiz, PER
 7737, Joshua, PER
 7738, Saturday, DATE
 7740, Joshua, PER|Muhammad Ali, PER|Lennox Lewis, PER|Evander Holyfield, PER|Floyd Patterson, PER|Mike Tyson, PER
 7742, Fela Kuti, PER
-7743, Saudi Arabia, LOC|Joshua, PER|Nigerian, NORP
-7744, British, NORP|Nigerian, NORP|Nigerian, NORP|Fela Kuti, PER
-7745, Fela, PER|Afrobeat, NORP
+7743, Saudi Arabia, LOC|Joshua, PER
+7744, Fela Kuti, PER
+7745, Fela, PER
 7746, Joshua, PER|Nigeria, LOC|July, DATE|Fela, PER|Lagos, LOC|Femi Kuti, PER
 7747, Fela, PER
-7750, first, ORDINAL|New York, LOC|Joshua, PER
-7751, third, ORDINAL|Joshua, PER
+7750, New York, LOC|Joshua, PER
+7751, Joshua, PER
 7752, Joshua, PER
 7753, California, LOC
 7754, Ruiz, PER
 7755, Joshua, PER
-7757, first, ORDINAL|Joshua, PER|Joseph Parker, PER
+7757, Joshua, PER|Joseph Parker, PER
 7758, Joshua, PER|June, DATE
-7761, Joshua, PER|second, ORDINAL
+7761, Joshua, PER
 7764, Joshua, PER
 7767, Joshua, PER
 7768, Ruiz, PER
 7769, Ruiz, PER
-7770, Joshua, PER|Mexican, NORP
+7770, Joshua, PER
 7771, Joshua, PER|Mohammed Ali's, PER
-7775, Joshua, PER|second, ORDINAL
+7775, Joshua, PER
 7778, Joshua, PER
-7781, Joshua, PER|Andy Ruiz, PER|16 pounds, QUANTITY
+7781, Joshua, PER|Andy Ruiz, PER
 7782, six months, DATE
 7784, Joshua, PER|the next 36 minutes, DATE
 7787, New York, LOC|Joshua, PER
-7788, Wladimir Klitschko, PER|sixth, ORDINAL
-7789, first, ORDINAL|Ruiz, PER|June, DATE
+7788, Wladimir Klitschko, PER
+7789, Ruiz, PER|June, DATE
 7790, the past few months, DATE
 7791, Mike Tyson, PER
 7795, Joshua, PER
 7796, Canada, LOC
-7798, Today, DATE|Nigerians, NORP|first, ORDINAL|the Academy of Motion Picture Arts and Sciences, ORG|English, LANGUAGE
+7798, Today, DATE|the Academy of Motion Picture Arts and Sciences, ORG
 7799, January this year, DATE|Alaba Markets, LOC|Lagos, LOC
 7800, October, DATE|the Nigerian Oscars Selection Committee, ORG|NOSC, ORG|2020, DATE
-7801, Today, DATE|Nigerians, NORP|first, ORDINAL|the Academy of Motion Picture Arts and Sciences, ORG|English, LANGUAGE
+7801, Today, DATE|the Academy of Motion Picture Arts and Sciences, ORG
 7802, Nollywood, ORG|Genevieve Nnaji, PER|the Los Angeles Times, ORG
 7803, Nigeria, LOC
 7804, Four, CARDINAL|India, LOC
 7805, Indian Express, ORG
-7806, Four, CARDINAL|Nigerian, NORP|Guwahati, LOC|India, LOC|Agartala Railway Station, LOC
+7806, Guwahati, LOC|India, LOC|Agartala Railway Station, LOC
 7807, Indian Express, ORG
 7808, Snehangshu Marak, PER
-7809, four, CARDINAL|Nigerian, NORP|Bangladesh, LOC
+7809, Bangladesh, LOC
 7810, India, LOC
-7811, Nigerians, NORP|Indian, NORP|Bangladesh, LOC
-7812, four, CARDINAL|Nigerian, NORP|North-East Frontier Railway, ORG|Guwahati, LOC
+7811, Bangladesh, LOC
+7812, four, CARDINAL||North-East Frontier Railway, ORG|Guwahati, LOC
 7813, Anirban Das, PER
 7814, Modiu Olaguro, PER
 7815, Sowore, PER
 7817, Modiu Olaguro, PER
-7821, the Oxford Union, FAC|December, 1964, DATE
-7822, A couple of weeks, DATE|2019, DATE|Omoyele Sowore, PER|the Sahara Reporters', FAC|Nigeria, LOC|one year, DATE|the United States, LOC
+7821, December, 1964, DATE
+7822, A couple of weeks, DATE|2019, DATE|Omoyele Sowore, PER|Nigeria, LOC|one year, DATE|the United States, LOC
 7823, America, LOC
 7827, Sowore, PER
 7829, Sowore, PER|Nigeria, LOC
@@ -4645,50 +4606,50 @@
 7857, the 17th century, DATE|the 21st, DATE
 7858, Isaac Newton, PER
 7859, Omoyele Sowore, PER|Nigeria, LOC
-7860, July, DATE|Nnamdi Kanu, PER|one, CARDINAL|the Indigenous People of Biafra, LOC|IPOB, ORG|Nigeria, LOC
+7860, July, DATE|Nnamdi Kanu, PER|the Indigenous People of Biafra, LOC|IPOB, ORG|Nigeria, LOC
 7862, Sowore, PER|Kwame Nkrumah, PER
 7868, Muhammadu Buhari, PER|Nigeria, LOC
 7870, America, LOC|Trump, PER|America, LOC|the Republican Party, ORG
-7871, Trump, PER|Republicans, NORP|Barack Obama, PER|first, ORDINAL
-7872, the White House, LOC|Donald Trump, PER
+7871, Trump, PER|Barack Obama, PER
+7872, Donald Trump, PER
 7874, Columbia, ORG|Harvard, ORG|Michelle, PER|Princeton, ORG|Harvard, ORG
 7876, Adolf Hitler, PER|the Anglo-Saxons, ORG
 7877, Donald Trump, PER|today, DATE
-7878, Jerusalem, LOC|Zionist, NORP|America, LOC|Franklin D. Roosevelt., PER
-7879, Donald Trump, PER|American, NORP
-7880, first, ORDINAL|8 glorious years, DATE|the White House, LOC
+7878, Jerusalem, LOC|America, LOC|Franklin D. Roosevelt., PER
+7879, Donald Trump, PER
+7880, 8 glorious years, DATE|the White House, LOC
 7881, Illinois, LOC|2012, DATE
 7882, American, NORP|America, LOC|20 years, DATE
 7883, Osama Bin Laden, PER
 7884, 9, CARDINAL|America, LOC|America, LOC|the end of the Second World War, DATE
-7886, Trump, PER|3 million, CARDINAL|Hillary Clinton, PER|Vladimir Putin, PER|KGB, ORG|the White House, LOC|65 million, CARDINAL|Americans, NORP
-7887, Barack, PER|Donald Trump, PER|less than one year, DATE|Republicans, NORP
+7886, Trump, PER|Hillary Clinton, PER|Vladimir Putin, PER|KGB, ORG|the White House, LOC
+7887, Barack, PER|Donald Trump, PER|less than one year, DATE
 7888, Donald Trump, PER|close to one year, DATE
-7889, half, CARDINAL|Donald Trump, PER|the Democratic Party, ORG
+7889, Donald Trump, PER|the Democratic Party, ORG
 7890, America, LOC|Donald Trump, PER
 7891, Eagleton, ORG
 7892, Spiro Agnew, PER|Richard Nixon, PER
 7893, Joseph Biden, PER|one, CARDINAL|Neil Kinnock, PER|Labour Party, ORG|Britain, LOC
 7894, Gerald Ford, PER|Jimmy Carter, PER|1976, DATE|Richard Nixon, PER|Jimmy Carter, PER|Soviet Union, LOC|Eastern Europe, LOC
-7895, George Bush, PER|Bill Clinton, PER|American, NORP
+7895, George Bush, PER|Bill Clinton, PER
 7896, Donald Trump, PER|America, LOC
-7898, Republicans, NORP|America, LOC
-7899, Republicans, NORP|Trump Plaza Building, FAC|New York, LOC
-7901, 5th Avenue, FAC|Manhattan, LOC
-7903, Republicans, NORP|American, NORP|American Bank, ORG
+7898, America, LOC
+7899, Trump Plaza Building, FAC|New York, LOC
+7901, Manhattan, LOC
+7903, American Bank, ORG
 7904, more than 20 years, DATE
-7905, Republicans, NORP|NATO, ORG|the White House, LOC|more than 70 years, DATE
-7906, KGB, ORG|American, NORP|CIA, ORG|FBI, ORG
-7907, Republicans, NORP|Harry Truman's, PER|second, ORDINAL|American, NORP|North Korea, LOC
-7908, Republicans, NORP|Vladimir Putin, PER
-7910, Republicans, NORP|the early hours of the morning, DATE
-7911, Wednesday, DATE|the Camp David Accord, LAW|Israel, LOC)|Jerusalem, LOC|the Middle East, LOC
-7912, Republicans, NORP|Jared Kushner, PER|the United States, LOC
-7913, Donald Trump, PER|only 33 percent, PERCENT
+7905, NATO, ORG|the White House, LOC|more than 70 years, DATE
+7906, KGB, ORG|CIA, ORG|FBI, ORG
+7907, Harry Truman's, PER|North Korea, LOC
+7908, Vladimir Putin, PER
+7910, the early hours of the morning, DATE
+7911, Wednesday, DATE|the Camp David Accord, LAW|Israel, LOC|Jerusalem, LOC|the Middle East, LOC
+7912, Jared Kushner, PER|the United States, LOC
+7913, Donald Trump, PER
 7915, CNN, ORG|New York Times, ORG|Washington Post, ORG|Wall Street Journal, ORG
 7916, less than one year, DATE
-7918, the Republican Party, ORG|Vladimir Putin, PER|American, NORP
-7919, 180 degrees, QUANTITY|America, LOC|Donald Trump, PER|the Mikhail Gorbachev, PER|American Politics, ORG|Americans, NORP
+7918, the Republican Party, ORG|Vladimir Putin, PER
+7919, America, LOC|Donald Trump, PER|the Mikhail Gorbachev, PER|American Politics, ORG
 7922, Wumi Akintide, PER
 7923, Buhari, PER
 7924, Omoyele Sowore's, PER|Buhari, PER
@@ -4702,22 +4663,22 @@
 7938, Richard Akinnola, PER
 7940, Friday, DATE
 7941, Richard Akinnola, PER
-7942, Dele Giwa, PER|October 19, 1986, DATE|two, CARDINAL|Ibrahim Babangida, PER
-7943, Nigerians, NORP|Dele, PER
+7942, Dele Giwa, PER|October 19, 1986, DATE|Ibrahim Babangida, PER
+7943, Dele, PER
 7944, 1986, DATE|Alozie Ogugbuaja, PER|Lagos, LOC
 7948, Gambo, PER
 7951, 1988, DATE|Babangida, PER|Gani Fawehinmi's, PER|Surulere, LOC|Lagos, LOC
 7953, Gani Fawehinmi, PER
-7954, Fawehinmi, PER|millions, CARDINAL
+7954, Fawehinmi, PER
 7955, 1996, DATE|Kudirat Abiola, PER|Abacha, PER|NADECO, ORG
-7956, Nigerians, NORP|Abacha, PER
+7956, Abacha, PER
 7957, the Federal High Court, ORG|Abuja, LOC|Friday, DATE|Omoyele Sowore, PER
-7958, one, CARDINAL|Mallam Jaji, PER
+7958, Mallam Jaji, PER
 7966, Friday, DATE
 7971, Osagie Ize-Iyamu's, PER|the All Progressives Congress, ORG|Etete, LOC|Benin, LOC
-7972, Two, CARDINAL|Edo State, LOC|Friday, DATE|morning, DATE
+7972, Edo State, LOC|Friday, DATE|morning, DATE
 7973, Osagie Ize-Iyamu's, PER|the All Progressives Congress, ORG|Etete, LOC|Benin, LOC
-7974, two, CARDINAL|Ovbiagele Ohimai, PER|Joshua Samuel, PER|seven, CARDINAL|11, CARDINAL
+7974, Ovbiagele Ohimai, PER|Joshua Samuel, PER
 7975, Benin, LOC
 7976, Ize-Iyamu's, PER
 7977, Tinubu, PER|Sanwo-Olu, PER
@@ -4727,9 +4688,9 @@
 7984, Sanwo-Olu, PER|Ibijoke, PER
 7985, Sanwo-Olu, PER|Hamzat, PER
 7986, Sam Olumekun, PER|Sanwo-Olu's, PER|Lagos, LOC
-7987, 45, CARDINAL|Olumekun, PER
-7988, Eti-Osa Constituency 1, ORG|a four per cent, MONEY
-7989, six-minute, TIME|Sanwo-Olu, PER
+7987, Olumekun, PER
+7988, Eti-Osa Constituency 1, ORG
+7989, Sanwo-Olu, PER
 7991, Muhammadu Buhari, PER|Tinubu, PER|APC, ORG|Lagos, LOC
 8000, Nigerian, NORP|the New York Times Square, ORG
 8003, Tiwa, PER
@@ -4746,143 +4707,141 @@
 8020, Abdullahi Haruna, PER|Tuesday, DATE|about 8:00hrs, CARDINAL|Kano, LOC
 8021, two, CARDINAL|Kano, LOC
 8022, Tuesday, DATE|Kano Club, ORG|Nasarawa Local Government, ORG
-8024, Abdullahi Haruna, PER|Tuesday, DATE|about 8:00hrs, CARDINAL|two, CARDINAL|Kano, LOC
+8024, Abdullahi Haruna, PER|Tuesday, DATE|Kano, LOC
 8026, Hannatu Musawa, PER
-8027, Ukraine, LOC|Trump, PER|Ukraine, LOC|the 2020 Democratic Party, EVENT|Joe Biden, PER
+8027, Ukraine, LOC|Trump, PER|Ukraine, LOC|Joe Biden, PER
 8028, Trump, PER|Rudy Giuliani, PER|Bill Barr, PER|Washington, LOC|2016, DATE
 8029, Hannatu Musawa, PER
 8030, a United States', LOC
-8033, the American civil war, EVENT|Abraham Lincoln, PER|Andrew Johnson, PER|17th, ORDINAL|US, LOC|Johnson, PER
-8034, 1867, DATE|Edwin Stanton, PER|Lincoln, PER|African Americans, NORP|eleven, CARDINAL|Johnson, PER
-8035, 1868, DATE|Johnson, PER|a two- thirds, CARDINAL|years later, DATE|the Supreme Court, ORG
-8036, Johnson, PER|seven, CARDINAL|Republicans, NORP|Democrats, NORP
-8037, Historian, NORP|Hans L. Trefousse, PER|Johnson, PER
+8033, Abraham Lincoln, PER|Andrew Johnson, PER|US, LOC|Johnson, PER
+8034, 1867, DATE|Edwin Stanton, PER|Lincoln, PER|Johnson, PER
+8035, 1868, DATE|Johnson, PER|years later, DATE|the Supreme Court, ORG
+8036, Johnson, PER
+8037, Hans L. Trefousse, PER|Johnson, PER
 8038, Washington, LOC|the U.S. Constitution, ORG
-8039, the White House, LOC|Democrats, NORP|Ukraine, LOC|U.S., LOC|Joe Biden, PER|Hunter Biden, PER|Trump, PER
-8040, Trump, PER|Democrats, NORP
-8042, 1972, DATE|Watergate, EVENT|37th, ORDINAL|US, LOC|Richard, PER|Nixon, PER|the Democratic National Committee, ORG|DNC, ORG|Watergate, EVENT|Washington, LOC
+8039, the White House, LOC|Ukraine, LOC|U.S., LOC|Joe Biden, PER|Hunter Biden, PER|Trump, PER
+8040, Trump, PER
+8042, 1972, DATE|US, LOC|Richard, PER|Nixon, PER|the Democratic National Committee, ORG|DNC, ORG|Washington, LOC
 8043, Nixon, PER
 8044, five, CARDINAL|DNC, ORG|Nixon, PER|Nixon, PER
 8045, the Supreme Court, ORG
 8046, Nixon, PER|DNC, ORG
 8047, 9 August 1974, DATE|Nixon, PER
 8048, Watergate, EVENT|the United States, LOC
-8049, October 8, 1998, DATE|the United States House of Representatives, ORG|Bill Clinton, PER|42nd, ORDINAL|U.S., LOC
+8049, October 8, 1998, DATE|the United States House of Representatives, ORG|Bill Clinton, PER|U.S., LOC
 8050, Clinton, PER|Paula Jones, PER
 8052, January 1999, DATE|William Rehnquist, PER
-8053, Bill Clinton, PER|February 12, 1999, DATE|thirds, CARDINAL
-8054, Bill Clinton, PER|second, ORDINAL
-8055, Donald J. Trump, PER|the Electoral College, ORG|304, CARDINAL|227, CARDINAL|Hillary Clinton, PER
+8053, Bill Clinton, PER|February 12, 1999, DATE
+8054, Bill Clinton, PER
+8055, Donald J. Trump, PER|the Electoral College, ORG|Hillary Clinton, PER
 8056, United States of America, LOC
-8058, Trump, PER|White House, ORG
+8058, Trump, PER
 8059, Hillary Clinton, PER
-8060, The White House, ORG
 8061, Russia, LOC|2016, DATE
 8063, Russia, LOC|James Comey, PER|FBI, ORG|Michael Flynn, PER
-8065, Ukraine, LOC|Trump, PER|Ukraine, LOC|the 2020 Democratic Party, EVENT|Joe Biden, PER
+8065, Ukraine, LOC|Trump, PER|Ukraine, LOC|Joe Biden, PER
 8066, Trump, PER|Rudy Giuliani, PER|Bill Barr, PER|Washington, LOC
 8067, 2016, DATE
 8068, the middle of September 2019, DATE|Trump, PER|2020, DATE|U.S., LOC|August 2019, DATE
 8069, 24 September 2019, DATE|the House of Representatives, ORG|31 October 2019, DATE
 8070, Trump, PER
-8071, Trump, PER|nine, CARDINAL
+8071, Trump, PER
 8072, Trump, PER|the United States, LOC
 8073, Hannatu Musawa, PER
 8074, Twitter, ORG
 8076, Turkish Airlines, ORG
 8077, Turkish Airlines, ORG|Nigeria, LOC|the Nigeria Civil Aviation Authority, ORG
 8078, Turkish Airlines, ORG|Nigeria, LOC|the Nigeria Civil Aviation Authority, ORG
-8079, Turkish Airlines, ORG|SaharaReporters, ORG|Nigeria, LOC
+8079, Turkish Airlines, ORG|Nigeria, LOC
 8080, Turkish Airlines, ORG|Nigeria, LOC|Nigeria Civil Aviation, ORG
 8083, Nigeria, LOC
 8085, Turkish Airlines, ORG|Nigeria, LOC|Lagos, LOC|Abuja, LOC
 8086, Turkish Airlines, ORG|the Nigerian Civil Aviation Authority, ORG|Lagos, LOC|Abuja, LOC
 8087, NCAA, ORG|Nigeria, LOC|Lagos, LOC|Abuja, LOC
-8088, Airbus, ORG|330, PRODUCT|the Nnamdi Azikiwe International Airport, ORG|Abuja, LOC
-8089, 150, CARDINAL|Istanbul, LOC|Turkey, LOC
+8088, Airbus, ORG|the Nnamdi Azikiwe International Airport, ORG|Abuja, LOC
+8089, Istanbul, LOC|Turkey, LOC
 8091, Hadi Sirika, PER
 8092, Turkish Air, ORG|Abuja, LOC|today, DATE
-8093, Turkish Airlines, ORG|Nigerian, NORP
-8094, Two, CARDINAL|Lagos Building Collapse, FAC|Number 9, CARDINAL|Amosun Street, FAC|Ijora Badia, PER
-8095, Two, CARDINAL|three, CARDINAL|Lagos, LOC|Saturday, DATE
-8096, Number 9, CARDINAL|Amosun Street, FAC|Ijora Badia, PER
+8093, Turkish Airlines, ORG
+8094, Lagos, LOC|Ijora Badia, PER
+8095, Lagos, LOC|Saturday, DATE
+8096, Ijora Badia, PER
 8097, Adesina Tiamiyu, PER|Lagos State Emergency Management Agency, ORG
 8099, LASEMA, ORG|Lagos, LOC
 8100, Uduaghan, PER|Ogboru, PER
 8101, Great Ogboru, PER|2019, DATE|the All Progressives Congress, ORG|APC, ORG|Delta State, LOC|INEC, ORG|Ifeanyi, PER|Delta State, LOC|March 9, DATE
-8102, Emmanuel Uduaghan, PER|Delta State, LOC|Delta South, LOC|APC, ORG|the Delta State Election Petitions Tribunal, FAC|James, PER|the Peoples Democratic Party, ORG|the Independent National Electoral Commission, ORG|February, DATE|23, CARDINAL|2019, DATE|National Assembly, ORG
+8102, Emmanuel Uduaghan, PER|Delta State, LOC|Delta South, LOC|APC, ORG|the Delta State Election Petitions Tribunal, FAC|James, PER|the Peoples Democratic Party, ORG|the Independent National Electoral Commission, ORG|February, DATE|2019, DATE|National Assembly, ORG
 8103, Great Ogboru, PER|2019, DATE|APC, ORG|INEC, ORG|Ifeanyi, PER|Delta State, LOC|March 9, DATE
 8104, The United States Government, ORG|the Tony Elumelu Foundation, ORG|Nigeria, LOC
-8105, Lagos, LOC|Thursday, DATE|U.S Consul General, ORG|Claire Pierangelo, PER|105, MONEY|the U.S. Consulate, FAC|2019, DATE|Tony Elumelu Entrepreneurship Program, EVENT
-8106, 20, CARDINAL|U.S., LOC|the U.S. Consulate General, ORG|the Mandela Washington Fellowship, ORG
+8105, Lagos, LOC|Thursday, DATE|U.S Consul General, ORG|Claire Pierangelo, PER|2019, DATE
+8106, U.S., LOC|the U.S. Consulate General, ORG|the Mandela Washington Fellowship, ORG
 8108, U.S, LOC
-8109, One, CARDINAL|U.S Mission's, ORG|Nigeria, LOC
+8109, U.S Mission's, ORG|Nigeria, LOC
 8110, the U.S Department, ORG|the Tony Elumelu Foundation, ORG
 8111, the Tony Elumelu Foundation, ORG|Nigeria, LOC|Nigeria, LOC
-8112, the Tony Elumelu Foundation, ORG|African, NORP
+8112, the Tony Elumelu Foundation, ORG
 8113, Kogi, LOC
-8115, 400, CARDINAL|Kogi State University, ORG|Apeh Joseph, PER|two, CARDINAL
+8115, Kogi State University, ORG|Apeh Joseph, PER
 8116, the Kogi State Command, ORG|the Nigeria Police, ORG|PUNCH, ORG
 8118, the Police Public Relations Officer, ORG|William Aya, PER|last month, DATE
-8119, the Kogi State University, ORG|Joseph Apeh, PER|400, CARDINAL|English Education Department, ORG|two, CARDINAL
+8119, the Kogi State University, ORG|Joseph Apeh, PER|English Education Department, ORG
 8122, Victor Uwaifo, PER
 8123, Uwaifo, PER
 8124, Victor Uwaifo, PER|Simi, LOC
-8125, Nigerian, NORP|Victor Uwaifo, PER|Nigerian, NORP|Simisola Bolatito Ogunleye, PER
+8125, Victor Uwaifo, PER|Nigerian, NORP|Simisola Bolatito Ogunleye, PER
 8126, Uwaifo, PER
-8127, SaharaReporters, ORG|Edo State, LOC
-8130, Sahara Reporters, PER|Simi, LOC
-8132, a year ago, DATE|Uwaifo, PER|SaharaReporters, ORG|Simi, LOC
+8127, Edo State, LOC
+8130, Simi, LOC
+8132, a year ago, DATE|Uwaifo, PER|Simi, LOC
 8133, Simi, LOC
 8136, Benin, LOC
 8141, Benin, LOC
 8142, Benin, LOC
 8146, Rudolf Ogoo, PER
-8147, Nigerian, NORP|America, LOC
+8147, America, LOC
 8149, Nigeria, LOC
-8150, Boston, LOC|Liberian, NORP|Nigerian, NORP
+8150, Boston, LOC
 8151, Walter, PER
 8153, America, LOC
 8160, America, LOC
 8166, America, LOC
 8170, 3 am, DATE
 8172, Peter, PER|Angela, PER|Peter, PER|Angela, PER
-8179, Nigerian, NORP|America, LOC
+8179, America, LOC
 8181, Nigeria, LOC
 8183, Walter, PER
 8185, People's Club, ORG
 8186, one day, DATE|Walter, PER
 8187, Walter, PER
-8189, Committee of Friends, ORG|one, CARDINAL|Committee of Friends, ORG
-8191, the day, DATE|Nigerians, NORP
-8193, morning, DATE|Walter, PER|50, MONEY
+8189, Committee of Friends, ORG|Committee of Friends, ORG
+8191, the day, DATE
+8193, morning, DATE|Walter, PER
 8195, Walter, PER
 8196, Walter, PER
 8197, Walter, PER|Walter, PER
-8199, Nigerians, NORP|Walter, PER|the years, DATE
+8199, Walter, PER|the years, DATE
 8200, Rudolf Ogoo Okonkwo, PER
-8201, 'The Secret Letters of President, WORK_OF_ART|Donald J. Trump, PER|72 1/6, CARDINAL
+8201, Donald J. Trump, PER
 8202, the Catalyst International, ORG
 8203, Pinnick, PER
 8204, Pinnick, PER
-8205, Nigerian, NORP
 8206, the Nigeria Football Federation, ORG|Amaju Pinnick, PER
 8207, Monday, DATE|Channels Television's, ORG|Sunrise Daily, ORG
 8208, NFF, ORG
-8209, few days, DATE|Federal High Court, ORG|Abuja, LOC|8.4, MONEY
-8210, NFF, ORG|16, CARDINAL|2014, DATE|Special Presidential Investigation Panel, ORG|Okon Obono-Obla, PER
+8209, few days, DATE|Federal High Court, ORG|Abuja, LOC
+8210, NFF, ORG|2014, DATE|Special Presidential Investigation Panel, ORG|Okon Obono-Obla, PER
 8211, Willie Obiano, PER
 8212, Agric Ministry, ORG
 8213, Okeke, PER
 8216, Emmanuel Ugolee, PER
 8217, Jos Plateau State, LOC|Emmanuel Ugolee, PER|Abia, LOC|1999, DATE|Minaj Broadcast Television, ORG
 8219, Ruggedman, PER|Plantation Boiz, PER|Sound Sultan, PER
-8220, 30, CARDINAL|London, LOC
-8221, hundreds, CARDINAL|Winter Wonderland, LOC|Hyde Park, LOC
-8222, Jackie Armstrong's, PER|the Zippos Christmas Circus Show, FAC
+8220, London, LOC
+8221, Winter Wonderland, LOC|Hyde Park, LOC
+8222, Jackie Armstrong's, PER
 8227, Chelsea, ORG|Man City, ORG
-8231, Zippos, ORG|British, NORP|Jackie Armstrong, PER|10 years, DATE
-8232, Jackie, PER|first, ORDINAL
+8231, Zippos, ORG|Jackie Armstrong, PER|10 years, DATE
+8232, Jackie, PER
 8234, that evening, DATE
 8235, Abia Warriors, ORG|MFM, ORG
 8236, Martin Burton, PER|MailOnline, ORG|Jackie, PER
@@ -4890,16 +4849,15 @@
 8240, the Nnamdi Azikiwe University, ORG|Anambra State, LOC|Nigeria, LOC
 8241, the Ninth World Philosophy Day, EVENT|the United Nations Educational, ORG|UNESCO, ORG|the Department of Philosophy, ORG| Faculty of Arts, ORG
 8242, the Faculty of Arts, ORG
-8243, Nigeria, LOC|Africa, LOC|Nigerians, NORP
-8244, English, LANGUAGE|State University, ORG|North Carolina, LOC|United States of America, LOC|Chimalu Nwankwo, PER|Africans, NORP
-8245, A. U. Igwe, PER|Nigerians, NORP
-8246, Igwe, PER|NAU, ORG|African, NORP|Burkina Faso, LOC|Thomas Sankara, PER
-8247, UNESCO, ORG|November 21 every year, DATE|World Philosophy Day, EVENT
-8248, Emmanuel Umezinwa, PER|the Department of Music, ORG|Africans, NORP
+8243, Nigeria, LOC|Africa, LOC
+8244, English, LANGUAGE|State University, ORG|North Carolina, LOC|United States of America, LOC|Chimalu Nwankwo, PER
+8245, A. U. Igwe, PER
+8246, Igwe, PER|NAU, ORG|Burkina Faso, LOC|Thomas Sankara, PER
+8247, UNESCO, ORG|November 21 every year, DATE
+8248, Emmanuel Umezinwa, PER|the Department of Music, ORG
 8250, Rommy Ezeonwuka, PER|Rojenny Stadium and Tourists Village, LOC
 8251, Sports Writers Association of Nigeria, ORG
 8252, the three day SWAN Week, DATE
-8253, Nigerian, NORP
 8255, GBV, ORG
 8256, Rojenny, PER|more than three decades, DATE
 8258, the National Stadium in Surulere, LOC
@@ -4907,45 +4865,45 @@
 8260, Rojenny, PER|35 years, DATE
 8263, Nigeria, LOC|Europe, LOC|America, LOC|Asia, LOC
 8264, next year, DATE|Rojenny, PER
-8265, Bahrain, LOC|about 10, CARDINAL|Nigerians, NORP|West, LOC
+8265, Bahrain, LOC|West, LOC
 8266, Rojenny, PER
 8268, 2020, DATE
-8269, Philip Balepo, PER|Rojenny, PER|Nigerian, NORP|Nigerian, NORP
-8271, SWAN, NORP|Anthony Oji, PER
+8269, Philip Balepo, PER|Rojenny, PER
+8271, SWAN, ORG|Anthony Oji, PER
 8273, Anambra, LOC
 8274, Willie Obiano, PER|NGO, ORG
 8275, Dikeorah Mandate Group, ORG
 8276, Board of Trustees, ORG|Morris Ebo, PER
-8277, Israel, LOC)|Nigeria, LOC
-8278, Israeli, NORP|Nigeria, LOC|Shimon Ben-Shoshan, PER
-8279, Israeli, NORP|Nigeria, LOC|Shimon Ben-Shoshan, PER|Israel, LOC)|Nigeria, LOC
+8277, Israel, LOC|Nigeria, LOC
+8278, Nigeria, LOC|Shimon Ben-Shoshan, PER
+8279, Nigeria, LOC|Shimon Ben-Shoshan, PER|Israel, LOC|Nigeria, LOC
 8280, Ben-Shoshan, PER|Thursday, DATE|Abuja, LOC|2019, DATE
-8281, Israel, LOC)|Nigeria, LOC|Christians, NORP|Israel, LOC)|CAN, ORG|Nigeria Pilgrims Board, ORG
-8282, Israel, LOC)|Nigeria, LOC
+8281, Israel, LOC|Nigeria, LOC|Israel, LOC|CAN, ORG|Nigeria Pilgrims Board, ORG
+8282, Israel, LOC|Nigeria, LOC
 8283, Ben-Shoshan, PER|year, DATE
 8285, last year's, DATE|next year, DATE
-8286, Israel, LOC)|Thousands, CARDINAL|Netanyahu, PER|Tel Aviv, LOC
-8287, 2020, DATE|second, ORDINAL|the beginning of this year, DATE
-8289, Chukwuowo Jerry, PER|18 years, DATE|Enugu, LOC|Bible, WORK_OF_ART|first, ORDINAL
-8293, Oyare Ayegba, PER|second, ORDINAL
-8294, Ayegba, PER|Akwa Ibom State, LOC|second, ORDINAL
+8286, Israel, LOC|Netanyahu, PER|Tel Aviv, LOC
+8287, 2020, DATE|the beginning of this year, DATE
+8289, Chukwuowo Jerry, PER|18 years, DATE|Enugu, LOC
+8293, Oyare Ayegba, PER
+8294, Ayegba, PER|Akwa Ibom State, LOC
 8295, last year, DATE
-8296, third, ORDINAL|Borno, LOC
+8296, Borno, LOC
 8299, March, DATE
-8301, News Agency of Nigeria, ORG|NAN, ORG|the International Bible Contest, FAC|Dec. 24, DATE|Jerusalem, LOC|Israel, LOC)
-8302, Chidi-Mbah, PER|Abia, LOC|Nigeria, LOC|1,800, CARDINAL|2018, DATE
+8301, News Agency of Nigeria, ORG|NAN, ORG|Dec. 24, DATE|Jerusalem, LOC|Israel, LOC
+8302, Chidi-Mbah, PER|Abia, LOC|Nigeria, LOC|2018, DATE
 8303, Nwagwu, PER
 8305, Ezenwa Nwagwu, PER|PEF, ORG|Orji Kalu, PER
 8306, the News Agency of Nigeria, ORG|NAN, ORG|Thursday, DATE|Abuja, LOC
-8307, NAN, ORG|Thursday, DATE|12 years, DATE|a Federal High Court, ORG|Lagos, LOC|billion, CARDINAL
+8307, NAN, ORG|Thursday, DATE|12 years, DATE|a Federal High Court, ORG|Lagos, LOC
 8308, the All Progressives Congress, ORG|APC, ORG
-8309, Magu, PER)
-8314, two, CARDINAL|Abia, LOC|Edo, LOC
+8309, Magu, PER
+8314, Abia, LOC|Edo, LOC
 8315, the World Health Organisation, ORG|Nigeria, LOC|December through June, DATE
-8316, the Nigeria Centre for Disease Control, ORG|NCDC, ORG|10, CARDINAL|five, CARDINAL|five, CARDINAL|Ondo, LOC|two, CARDINAL|Edo, LOC|Ebonyi, LOC|Bauchi, LOC|Abia, LOC
-8317, one, CARDINAL|Edo, LOC|Abia, LOC
-8318, 26, CARDINAL|National Stadium, ORG|Surulere, LOC
-8319, One, CARDINAL|Sodiq Yusuf, PER|Surulere, LOC|National Stadium, ORG|Surulere, LOC
+8316, the Nigeria Centre for Disease Control, ORG|NCDC, ORG|Ondo, LOC|Edo, LOC|Ebonyi, LOC|Bauchi, LOC|Abia, LOC
+8317, Edo, LOC|Abia, LOC
+8318, National Stadium, ORG|Surulere, LOC
+8319, Sodiq Yusuf, PER|Surulere, LOC|National Stadium, ORG|Surulere, LOC
 8320, Lagos, LOC|Sunday, DATE|Sodiq Yusuf, PER|National Stadium, ORG|Surulere, LOC
 8321, Lagos Police Public Relations, ORG|Bala Elkana, PER
 8322, Abia, LOC
@@ -4965,36 +4923,36 @@
 8343, Central Bank of Nigeria, ORG|CBN, ORG
 8344, Chukwuma Soludo, PER|the Federal Government, ORG
 8345, Abuja, LOC
-8347, The United Nations, ORG|3, CARDINAL|2030, DATE
+8347, The United Nations, ORG|2030, DATE
 8349, Nigeria, LOC|2030, DATE
 8350, Nigeria, LOC
 8352, Anambra State, LOC
 8354, LAPO Board of Directors, ORG
 8355, Osarenren Emokpae, PER
-8357, 2018, DATE|Nigeria, LOC|187, CARDINAL|191, CARDINAL|LAPO, ORG
+8357, 2018, DATE|Nigeria, LOC|LAPO, ORG
 8358, LAPO, ORG|Godwin Ehigiamusoe, PER
 8359, Nnamdi Kanu's, PER
 8360, Anambra State, LOC|Ifeanyi Ejiofor, PER|the Indigenous People of Biafra, LOC|IPOB, ORG|Nnamdi Kanu, PER
-8361, Nigerians, NORP|Ejiofor, PER|John Abang, PER|Tuesday, DATE
-8362, Nigerians, NORP|North, LOC|South, LOC|East, LOC|West, LOC
-8363, One, CARDINAL|two, CARDINAL|Lagos-Abeokuta, LOC
-8364, The Ogun Traffic Compliance and Enforcement Corps, ORG|TRACE, ORG|Sunday, DATE|one, CARDINAL|two, CARDINAL|Owode-Ijako, LOC
+8361, Ejiofor, PER|John Abang, PER|Tuesday, DATE
+8362, North, LOC|South, LOC|East, LOC|West, LOC
+8363, Lagos-Abeokuta, LOC
+8364, The Ogun Traffic Compliance and Enforcement Corps, ORG|TRACE, ORG|Sunday, DATE|Owode-Ijako, LOC
 8365, Temitope Oseni, PER|TRACE, ORG|Owode-Ijako, LOC|the News Agency of Nigeria, ORG|NAN, ORG|about 6:15 am, DATE|Sunday, DATE
 8366, Sango-Ota, LOC|Abeokuta, LOC
-8367, Oseni, PER|one, CARDINAL
-8368, One, CARDINAL|nine, CARDINAL|Anambra, LOC
+8367, Oseni, PER
+8368, Anambra, LOC
 8369, Oseni, PER
 8370, Ifo, LOC
 8371, TRACE, ORG
-8373, Nwodo, PER|World Eri Festival, EVENT
+8373, Nwodo, PER
 8375, Onitsha, LOC
 8376, Niger, LOC
 8378, Aguleri, LOC|Anambra State, LOC|Eze Chukwuemeka Eri, PER|Adeyeye Enitan Ogunwusi, PER
 8379, the World Eri Festival, EVENT|Enugwu Aguleri, LOC|Anambra State, LOC|Onitsha, LOC|Ohanaeze Ndigbo, ORG|Nnia Nwodo, PER
 8380, Mbaukwu, LOC|Peter Anugwu, PER|Patrick Okolo, PER|Nsukka Urban, LOC|Chile, LOC|Obidigbo, PER|Anambra East Local Government Area, LOC|Obi Nweke, PER|Ogbaru LGA, LOC|Arinze Awogu, PER|Anambra East, LOC|the Anambra State House of Assembly, ORG
-8381, Eze Chukwuemeka Eri, PER|Eri, PER|Israel, LOC)|Aguleri, LOC
+8381, Eze Chukwuemeka Eri, PER|Eri, PER|Israel, LOC|Aguleri, LOC
 8382, Today, DATE|African, NORP|Eri, PER
-8383, Today, DATE|Oba Adeyeye, PER|51st, ORDINAL
+8383, Today, DATE|Oba Adeyeye, PER
 8385, Abia Warriors, ORG|Enaholo, PER
 8386, Nigeria Professional Football League, ORG|Kano Pillars, ORG|Abia Warriors, ORG|Flying Eagles, ORG|Joshua Enaholo, PER
 8388, Enaholo, PER|summer, DATE|Abia Warriors, ORG|LMC, ORG
@@ -5018,29 +4976,29 @@
 8413, Kanu, PER
 8414, yesterday, DATE
 8415, Ifeanyi Ejiofor, PER|the Indigenous People of Biafra, LOC|Nnamdi Kanu, PER|Oliver Innoma Abbey, PER|Patrick Agbazue, PER
-8416, two, CARDINAL|Oraifite, LOC|three, CARDINAL|IPOB, ORG
+8416, Oraifite, LOC|IPOB, ORG
 8417, Kanu, PER|three days earlier, DATE|Abbey, PER
 8419, Madueke, PER
-8420, Allison MaduekeNo, PER|Nigerian Civil War of 1967, EVENT|Nigeria, LOC
+8420, Allison MaduekeNo, PER|Nigeria, LOC
 8421, June 12, 1993, DATE|Abiola, PER|Ibrahim Babangida, PER
 8423, Nigeria, LOC
-8425, one, CARDINAL|Allison Madueke, PER|last week, DATE
-8426, Riding the Storms, WORK_OF_ART|MUSON Centre, ORG|Onikan, LOC|Lagos, LOC
-8429, South, LOC|Northeast, LOC|three, CARDINAL
+8425, Allison Madueke, PER|last week, DATE
+8426, MUSON Centre, ORG|Onikan, LOC|Lagos, LOC
+8429, South, LOC|Northeast, LOC
 8431, Wednesday, DATE|the South East Development Commission, ORG
 8432, Stella Oduah, PER|Anambra North, LOC|December 12, 2018, DATE|Muhammadu Buhari's, PER
-8433, the Federal Government, ORG|Nigerian, NORP
-8435, 15, CARDINAL|10 per cent, MONEY|monthly, DATE
+8433, the Federal Government, ORG
+8435, monthly, DATE
 8436, Willie Obiano, PER
 8437, Okpala, PER|the National Coordination Centre, ORG
-8438, Ikpeazu, PER)|Anambra State, LOC|Enugu, LOC
-8443, Emeka Etiaba, PER|the Court of Appeal, ORG|60 per cent, MONEY|Enugu, LOC
+8438, Ikpeazu, PER|Anambra State, LOC|Enugu, LOC
+8443, Emeka Etiaba, PER|the Court of Appeal, ORG|Enugu, LOC
 8447, Nnamdi Ibegbu, PER
 8449, the Nigerian Bar Association, ORG|NBA, ORG|Paul Usoro, PER
 8450, C.E Nwosu-Iheme JCA, PER
 8456, Okpala, PER
 8457, Nigerian Union of Local Government Employees, ORG|NULGE, ORG|Anambra State Chapter, ORG|Anambra State Government, ORG|Local Government Service, ORG
-8458, Chikwelu Adigwe, PER|NULGE, ORG|Anambra Chapter, PER|21, CARDINAL|Ojoto, Idemili South Local Government Area, LOC
+8458, Chikwelu Adigwe, PER|NULGE, ORG|Anambra Chapter, PER|Ojoto, Idemili South Local Government Area, LOC
 8459, January, DATE
 8460, January, DATE
 8463, Feb. 5, DATE|Adigwe, PER
@@ -5073,27 +5031,27 @@
 8504, TBWA/Concept Unit, ORG|Kelechi Nwosu, PER|Nnewi, LOC|Anambra, LOC|Nigeria, LOC
 8505, Nwosu, PER|Nnewi, LOC|Nigeria, LOC
 8506, Nnewi, LOC|Africa, LOC
-8507, 18TH, CARDINAL|John Ndu, PER
-8508, Obiano, PER|Homecoming Festival, EVENT|between last December and January, DATE
+8507, John Ndu, PER
+8508, Obiano, PER|between last December and January, DATE
 8510, Mbanefo, PER|2020, DATE
 8511, the 18th, DATE|Anambra State, LOC
-8513, Court Road, FAC|Willie Obiano, PER
-8515, 70 per cent, MONEY|Enugu, LOC|Anambra, LOC
+8513, Willie Obiano, PER
+8515, Enugu, LOC|Anambra, LOC
 8516, this day, DATE
 8518, Obiano, PER
-8519, the Court of Appeal, ORG|Zainab Bulkachuwa, PER|Nigerian, NORP
+8519, the Court of Appeal, ORG|Zainab Bulkachuwa, PER
 8520, Willie Obiano, PER
 8521, Anambra State, LOC|Onochie Anyachebelu, PER|Anambra State, LOC|Anambra State, LOC
 8522, Enugu, LOC
 8523, Anyachebelu, PER
 8524, the Court of Appeal, ORG
-8525, two, CARDINAL|five, CARDINAL|the Court of Appeal, ORG|Anambra State, LOC
+8525, the Court of Appeal, ORG|Anambra State, LOC
 8526, John Ndu, PER
-8527, Transition Committee, ORG|Onitsha North Local Government Area, LOC|Patrick Agha-Mba, PER|Nigerian, NORP
-8528, Agha-Mba, PER|Awka, LOC|more than 65, CARDINAL
+8527, Transition Committee, ORG|Onitsha North Local Government Area, LOC|Patrick Agha-Mba, PER
+8528, Agha-Mba, PER|Awka, LOC
 8530, Anambra State Association of Town Unions, ORG|Willie Obiano, PER
 8533, tomorrow, DATE
-8534, Anambra, LOC|Obiano, PER|about 70 per cent, MONEY
+8534, Anambra, LOC|Obiano, PER|
 8536, Obiano, PER
 8539, the United Anambra Youths Assembly, ORG|Chinedu Obidigwe, PER|Anambra East, LOC|West, LOC|the National Assembly, ORG
 8540, Obiano, PER
@@ -5101,9 +5059,9 @@
 8542, Anambra State House of Assembly, ORG|Uchenna Okafor, PER
 8543, Okafor, PER|Feb. 3, DATE|Anambra State Command, ORG
 8549, Nwakaeze, PER
-8550, Okafor, PER|Nigerian, NORP
+8550, Okafor, PER
 8552, the Ministry of Information and Public Enlightenment, ORG
-8553, Volunteer Community Mobilisers, WORK_OF_ART|Nteje, LOC|Oyi Local Government Area, LOC
+8553, Nteje, LOC|Oyi Local Government Area, LOC
 8558, George-Ileka, PER
 8560, VCM, ORG|UNICEF, ORG
 8562, AGF, ORG|Sowore, PER|DSS, ORG
@@ -5121,29 +5079,29 @@
 8577, APC, ORG
 8578, APC, ORG|Oyetola, PER|October 16, 2018, DATE|PDP, ORG|Adeleke, PER
 8579, The All Progressives Congress, ORG|APC, ORG|Gboyega Oyetola, PER|Osun State, LOC|the Osun Election Petition Tribunal, ORG
-8580, March 22, 2019, DATE|two, CARDINAL|three, CARDINAL|Ademola Adeleke, PER|the Peoples Democratic Party, ORG
+8580, March 22, 2019, DATE|Ademola Adeleke, PER|the Peoples Democratic Party, ORG
 8581, Adeleke, PER|the Independent National Electoral Commission, ORG
 8582, APC, ORG|the Court of Appeal, ORG
-8583, Wole Olanipekun, PER|APC, ORG|39, CARDINAL|Peter Obiora, PER|Anyinla Gbolagunte, PER
+8583, Wole Olanipekun, PER|APC, ORG|Peter Obiora, PER|Anyinla Gbolagunte, PER
 8584, APC, ORG|Oyetola, PER|October 16, 2018, DATE|PDP, ORG|Adeleke, PER
 8585, Adamawa, LOC
 8586, Abdulaziz Waziri, PER
 8587, Yola, LOC|Adamawa State, LOC|Tuesday, DATE|the Independent National Electoral Commission, ORG
 8588, Abdulaziz Waziri, PER
 8589, Wednesday March 27 2019, DATE
-8590, Ahmed Umar Fintiri, PER|the Peoples Democratic Party, ORG|second, ORDINAL|third, ORDINAL
-8591, Joe Kyari Gadzama, PER|Half, CARDINAL
+8590, Ahmed Umar Fintiri, PER|the Peoples Democratic Party, ORG
+8591, Joe Kyari Gadzama, PER
 8593, the Federal High Court, ORG|Abuja, LOC|yesterday, DATE|Bauchi, LOC
-8595, Andrew Haruna, PER|4,988, CARDINAL|44, CARDINAL|14, CARDINAL
+8595, Andrew Haruna, PER
 8597, atleast six months, DATE
-8598, CBN, ORG|fifty five billion naira, MONEY
-8599, UN, ORG|Guterres, PER|Syrian, NORP
-8601, Willie Obiano, PER|five kilometer, QUANTITY|St Anthony, PER|Padua, LOC
+8598, CBN, ORG
+8599, UN, ORG|Guterres, PER
+8601, Willie Obiano, PER|St Anthony, PER|Padua, LOC
 8602, late last year, DATE
 8603, Obiano, PER
 8604, Igbariam, LOC|Chukwuemeka Odumegwu Ojukwu University, ORG
 8605, November last year, DATE
-8606, forty, CARDINAL|late last year, DATE
+8606, late last year, DATE
 8607, Law Chinwuba, PER|Obiano, PER
 8608, Neville Uchendu, PER|Obiano, PER
 8609, Igbariam, LOC|Kelly Nzekwe, PER|Obiano, PER
@@ -5153,22 +5111,22 @@
 8616, Okafor, PER
 8618, Maria Ejiofor, PER
 8619, Ejiofor, PER
-8622, 10, CARDINAL|Awada, LOC
+8622, Awada, LOC
 8624, Meers Herbert Okolie, PER|Nathaniel Obiefuna, PER|Abuchi Chinedu, PER|Emenike Alaneme, PER
-8625, Comfort Alaneme, PER|1lead, CARDINAL
+8625, Comfort Alaneme, PER
 8626, Imo State, LOC
-8627, four, CARDINAL|last week, DATE|Saturday, DATE
+8627, last week, DATE|Saturday, DATE
 8629, Abakaliki, LOC|Ebonyi, LOC
-8631, One, CARDINAL|Prince Sam Ezeanyika, PER
-8633, CBN, ORG|fifty five billion naira, MONEY
-8634, UN, ORG|Guterres, PER|Syrian, NORP
+8631, Prince Sam Ezeanyika, PER
+8633, CBN, ORG
+8634, UN, ORG|Guterres, PER
 8635, The Central Bank of Nigeria, ORG|CBN, ORG|Greenfield Integrated Poultry, ORG
 8636, CBN, ORG
 8637, CBN, ORG|Godwin Emefiele, PER|Emere-Ile, LOC|Ondo State, LOC
 8638, CBN, ORG|Nigeria, LOC
 8639, The Nigerian Unions of Journalist, ORG|NUJ, ORG|Muhammadu Buhari's, PER
 8640, Nigeria, LOC|2017, DATE
-8641, one hundred, CARDINAL|Nigeria, LOC|seven, CARDINAL|NUJ, ORG|Nigeria, LOC
+8641, Nigeria, LOC|NUJ, ORG|Nigeria, LOC
 8642, Muhammadu Buhari's, PER
 8643, All Progressives Congress, ORG
 8645, Dubai, LOC|Bollywood, ORG|Sridevi Kapoor, PER
@@ -5176,21 +5134,21 @@
 8647, Dubai, LOC
 8648, Dubai, LOC
 8650, United Nations, ORG|Antonio Guterres, PER|Security Council, ORG|Syria, LOC
-8651, the UN Human Rights Council, ORG|Geneva, LOC|Switzerland, LOC|Guterres, PER|Eastern Ghouta, LOC|Syrian, NORP
+8651, the UN Human Rights Council, ORG|Geneva, LOC|Switzerland, LOC|Guterres, PER|Eastern Ghouta, LOC
 8653, AI-Shifaniyah, LOC|Eastern Ghouta, LOC
-8654, Syria, LOC|Civil Defense, ORG|the White Helmets, FAC|at least one, CARDINAL
+8654, Syria, LOC|Civil Defense, ORG
 8655, Ezinne Maria Oyibo Okafor, PER|Adagbe Orofia, LOC|Abagana, LOC
 8656, Ezinne Oyibo Okafor, PER|eighty, CARDINAL|Dennis Okafor, PER
 8657, Saint Francis, PER|Assisi, LOC|Abagana, LOC|Road Safety Corps RS5 Enugu, LOC|Samuel Obayemi, PER|Nollywood, ORG|Okafor, PER
 8658, Boniface Ezeoke, PER
 8659, this season, DATE
-8660, RS5 Enugu, LOC|Samuel Obayemi, PER|one, CARDINAL|Okafor, PER
-8661, Nollywood, ORG|Pete Edochie, PER|eighty, CARDINAL
-8662, first, ORDINAL|Florence Nwude, PER
+8660, RS5 Enugu, LOC|Samuel Obayemi, PER|Okafor, PER
+8661, Nollywood, ORG|Pete Edochie, PER
+8662, Florence Nwude, PER
 8663, Dennis Okafor, PER
 8664, Amaka Chibuzor Okoye, PER
-8667, CBN, ORG|fifty five billion naira, MONEY
-8668, UN, ORG|Guterres, PER|Syrian, NORP
+8667, CBN, ORG
+8668, UN, ORG|Guterres, PER
 8669, Anambra, LOC|States, LOC
 8670, Federal Road Safety Corps, ORG
 8671, National Assembly, ORG
@@ -5218,9 +5176,8 @@
 8698, today, DATE
 8699, 1991, DATE|the International Diabetes Federation, ORG|the World Health Organization, ORG
 8700, Ekwi Ajide, PER
-8701, World Diabetes Day, EVENT|November every year, DATE
-8702, two, CARDINAL|one, CARDINAL|two, CARDINAL|two, CARDINAL
-8703, Orthopeadic, NORP|Amaechi Nwachukwu, PER
+8701, November every year, DATE
+8703, Amaechi Nwachukwu, PER
 8705, Nwachukwu, PER
 8706, Eucharia Okeke, PER|Juliana Ogbaka, PER
 8707, Ngozi Nwosu, PER
@@ -5230,14 +5187,14 @@
 8712, National Assembly, ORG
 8713, China, LOC
 8714, The National Assembly, ORG
-8715, Bukola Saraki, PER|Abuja, LOC|Nigerians, NORP|Nigerians, NORP
+8715, Bukola Saraki, PER|Abuja, LOC
 8716, Saraki, PER
 8717, the Police Service Commission, ORG|the Nigeria Police Force, ORG
 8720, the State House of Assembly, ORG|Rita Maduagwu, PER
 8721, yesterday, DATE
 8722, Chukwuemeka Modilim, PER
 8726, Paul University Awka, LOC|Emmanuel Chukwuma, PER|Governing Council of the University, ORG
-8728, the Governing Council, ORG|five, CARDINAL|Ecclesiastical Provinces, NORP
+8728, the Governing Council, ORG
 8729, Benjamin Njemanze, PER|Paul University, ORG|2008, DATE
 8730, Uche Isiugo-Abanihe, PER
 8731, Alexander Ibezim, PER
@@ -5252,9 +5209,9 @@
 8746, China, LOC
 8748, Abuchi Nwozor, PER
 8750, atleast six months, DATE
-8751, CBN, ORG|fifty five billion naira, MONEY
-8752, UN, ORG|Guterres, PER|Syrian, NORP
-8754, Willie Obiano, PER|five kilometer, QUANTITY|St Anthony, PER
+8751, CBN, ORG
+8752, UN, ORG|Guterres, PER
+8754, Willie Obiano, PER|St Anthony, PER
 8755, late last year, DATE
 8756, Obiano, PER
 8757, Igbariam, LOC|Chukwuemeka Odumegwu Ojukwu University, ORG
@@ -5273,19 +5230,19 @@
 8776, Meers Herbert Okolie, PER|Nathaniel Obiefuna, PER|Abuchi Chinedu, PER|Emenike Alaneme, PER
 8777, Comfort Alaneme, PER
 8778, Imo State, LOC
-8779, four, CARDINAL|last week, DATE|Saturday, DATE
+8779, last week, DATE|Saturday, DATE
 8781, Abakaliki, LOC|Ebonyi, LOC
 8782, South East', LOC
-8783, One, CARDINAL|Prince Sam Ezeanyika, PER|the Affirmative Action, ORG
-8787, CBN, ORG|fifty five billion naira, MONEY
+8783, Prince Sam Ezeanyika, PER|the Affirmative Action, ORG
+8787, CBN, ORG
 8788, UN, ORG|Guterres, PER|Syrian, NORP
 8789, The Central Bank of Nigeria, ORG|CBN, ORG|forty-two billion naira, MONEY|Greenfield Integrated Poultry, ORG
 8790, CBN, ORG
 8791, CBN, ORG|Godwin Emefiele, PER|Emere-Ile, LOC|Ondo State, LOC
 8793, CBN, ORG|Nigeria, LOC
-8794, The Nigerian Unions of Journalist, ORG|NUJ, ORG|Muhammadu Buhari's, PER|second, ORDINAL|Transparency International, ORG|Nigerian, NORP
-8795, Nigeria, LOC|one hundred, CARDINAL|eight, CARDINAL|one hundred and eighty, CARDINAL|2017, DATE
-8796, one hundred, CARDINAL|Nigeria, LOC|seven, CARDINAL
+8794, The Nigerian Unions of Journalist, ORG|NUJ, ORG|Muhammadu Buhari's, PER|Transparency International, ORG
+8795, Nigeria, LOC|2017, DATE
+8796, one hundred, CARDINAL|Nigeria, LOC
 8797, NUJ, ORG|Nigeria, LOC
 8798, Muhammadu Buhari's, PER
 8799, All Progressives Congress, ORG
@@ -5302,13 +5259,13 @@
 8814, Saint Francis of Assisi parish Abagana, LOC|Road Safety Corps RS5 Enugu, LOC|Samuel Obayemi, PER|Nollywood, ORG|Okafor, PER
 8815, Boniface Ezeoke, PER
 8816, this season, DATE
-8817, RS5 Enugu, LOC|Samuel Obayemi, PER|one, CARDINAL|Okafor, PER|Corpse, PRODUCT|Odugo, EVENT
-8818, Nollywood, ORG|Pete Edochie, PER|eighty, CARDINAL
-8819, first, ORDINAL|Florence Nwude, PER
+8817, RS5 Enugu, LOC|Samuel Obayemi, PER|Okafor, PER
+8818, Nollywood, ORG|Pete Edochie, PER
+8819, Florence Nwude, PER
 8820, Dennis Okafor, PER
 8821, Amaka Chibuzor Okoye, PER
-8824, CBN, ORG|fifty five billion naira, MONEY
-8825, UN, ORG|Guterres, PER|Syrian, NORP
+8824, CBN, ORG
+8825, UN, ORG|Guterres, PER
 8826, Anambra, LOC
 8827, Federal Road Safety Corps, ORG
 8828, National Assembly, ORG
@@ -5329,8 +5286,7 @@
 8845, the Nigeria Union of the Journalists, ORG|Emmanuel lfesinachi, PER|Emmanuel Udeagha, PER
 8846, Federal Road Safety Corps, ORG|FRSC, ORG
 8847, Sunday, DATE|Abuchi Nwozor, PER
-8849, the Federal Road Safety Corps, ORG|the Operation Clean, EVENT|Anambra State Traffic Management Agency, ORG|ATMA, ORG
-8850, Motorists, NORP
+8849, the Federal Road Safety Corps, ORG|Anambra State Traffic Management Agency, ORG|ATMA, ORG
 8851, the State Command of the Federal Road Safety Corps, ORG|Radio and Television, ORG
 8853, today, DATE
 8854, 1991, DATE|the World Health Organization, ORG
@@ -5345,7 +5301,7 @@
 8867, National Assembly, ORG
 8868, China, LOC
 8869, The National Assembly, ORG
-8870, Bukola Saraki, PER|Abuja, LOC|Nigerians, NORP|Nigerians, NORP
+8870, Bukola Saraki, PER|Abuja, LOC
 8871, Saraki, PER
 8872, the Police Service Commission, ORG|the Nigeria Police Force, ORG
 8875, the State House of Assembly, ORG|Rita Maduagwu, PER
@@ -5353,7 +5309,7 @@
 8877, Chukwuemeka Modilim, PER
 8880, One, CARDINAL|House, ORG|the Executive Arm of Government, ORG
 8881, Paul University Awka, LOC|Emmanuel Chukwuma, PER|Governing Council of the University, ORG
-8883, the Governing Council, ORG|five, CARDINAL|Ecclesiastical Provinces, NORP3
+8883, the Governing Council, ORG
 8884, the Board of Trustees of the University, ORG|Benjamin Njemanze, PER|Paul University, ORG|2008, DATE
 8885, Uche Isiugo-Abanihe, PER
 8886, Alexander Ibezim, PER
@@ -5362,7 +5318,7 @@
 8891, 2017, DATE
 8893, China, LOC|twenty-five-year-old, DATE
 8897, China, LOC|last month, DATE
-8900, Nigeria, LOC|Muslims, NORP|Islamic, NORP
+8900, Nigeria, LOC
 8903, Bukola Saraki, PER|several quarters, DATE|yesterday, DATE
 8904, Moghalu, PER
 8906, Guardian, ORG|the All Progressives Congress, ORG|APC, ORG|the Peoples Democratic Party, ORG
@@ -5388,20 +5344,20 @@
 8930, SRP, ORG
 8931, Nigeria, LOC
 8932, Mohammed Shehu, PER
-8934, Smile Communications, ORG|Nigeria, LOC|4, CARDINAL
-8948, TRUEUnlimited, CARDINAL|Smile Communications, ORG|Akin Alayoku, PER
+8934, Smile Communications, ORG|Nigeria, LOC
+8948, Smile Communications, ORG|Akin Alayoku, PER
 8950, March 3, 2020, DATE|MOI, ORG|Anambra State Internal Revenue Service, ORG|AIRS, ORG|David Nzekwu, PER
-8952, Nigerians, NORP|the broadband revolution, EVENT|Alayoku, PER
-8956, Nzekwu, PER|Awka, LOC|AIRS, ORG|Anambra Tax Awareness Week, LAW
+8952, Alayoku, PER
+8956, Nzekwu, PER|Awka, LOC|AIRS, ORG
 8958, a year, DATE|Nzekwu, PER
-8959, Nigerians, NORP|Alayoku, PER
-8961, Nigerian, NORP|Abuja, LOC|Benin, LOC|Ibadan, LOC|Kaduna, LOC|Lagos, LOC|Onitsha, LOC|Port-Harcourt, LOC
+8959, Alayoku, PER
+8961, Abuja, LOC|Benin, LOC|Ibadan, LOC|Kaduna, LOC|Lagos, LOC|Onitsha, LOC|Port-Harcourt, LOC
 8962, Smile, ORG
 8964, Anambra Government Business Tax Office, ORG|AGBTO, ORG|Federal Inland Revenue Services, ORG|FIRS, ORG|Awka, LOC|Ikpo Okereke, PER|Nigeria, LOC|CITN, ORG|FIRS, ORG|AIRS, ORG
 8966, The Nigeria Institute of Soil Science, ORG|NISS, ORG
 8968, NISS, ORG|Victor Chude, PER|Abuja, LOC
 8969, Chude, PER
-8974, NISS, ORG|Ayo Ogunkunle, PER|millions, CARDINAL|several years, DATE
+8974, NISS, ORG|Ayo Ogunkunle, PER|several years, DATE
 8975, Ogunkunle, PER
 8976, Nigeria, LOC
 8980, Okereke, PER|Anambra State, LOC
@@ -5414,59 +5370,58 @@
 8993, SON, ORG
 8995, Mary Amos, PER
 8996, the Manufacturers Association of Nigeria, ORG
-8997, Liquefied Petroleum Gas, ORG
 8999, Okereke, PER|Anambra State, LOC
 9000, Nigeria, LOC
-9001, Nigeria, LOC|over 40 billion barrels, QUANTITY|about 3 million barrels, QUANTITY
-9002, second, ORDINAL|Nigeria, LOC
-9003, over 93 per cent, MONEY|Nigeria, LOC|Niger Delta, LOC|Bida, LOC|Gongola, LOC|Benue Trough, LOC|Anambra, LOC|Dahomey, LOC
+9001, Nigeria, LOC
+9002, Nigeria, LOC
+9003, Nigeria, LOC|Niger Delta, LOC|Bida, LOC|Gongola, LOC|Benue Trough, LOC|Anambra, LOC|Dahomey, LOC
 9004, the Nigerian National Petroleum Corporation, ORG|NNPC, ORG|Gongola, LOC
-9005, 11, CARDINAL|Nigeria, LOC|Frontier Basins, ORG
+9005, Nigeria, LOC|Frontier Basins, ORG
 9006, the National Centre for Petroleum Research and Development, ORG|NCPRD, ORG|Energy Commission of Nigeria, ORG|NNPC, ORG|Nigerian Geological Survey Agency, ORG|the Abubakar Tafawa Balewa University, ORG|Bauchi, LOC|NNPC, ORG|Mele Kyari, PER
 9007, Kyari, PER|NNPC, ORG
 9009, Taxpayer Education and Enlightenment Team, ORG|Sylvia Tochukwu-Ngige, PER|March 2 to March 7, DATE
 9011, Kyari, PER|NNPC, ORG
 9012, Energy Commission of Nigeria, ORG|Eli Jidere Bala, PER|NNPC, ORG
 9013, the week, DATE|CITN, ORG|Dame Gladys Simplice, PER
-9014, Abubakar Tafawa Balewa University, ORG|Abdulazeez Muhammad Ahmad, PER|late 1990s, DATE|North-East Nigeria, LOC|Kolmani, PER|PhD, WORK_OF_ART
+9014, Abubakar Tafawa Balewa University, ORG|Abdulazeez Muhammad Ahmad, PER|late 1990s, DATE|North-East Nigeria, LOC|Kolmani, PER
 9015, AIRS, ORG|FIRS, ORG
-9016, NUC, ORG|PhD, WORK_OF_ART|Nigerian, NORP|the year 2006, DATE|NMGS, ORG|the same year, DATE
-9017, Over 100, CARDINAL|Abuja, LOC|November 19, 2019, DATE|Nigeria, LOC
+9016, NUC, ORG|the year 2006, DATE|NMGS, ORG|the same year, DATE
+9017, Abuja, LOC|November 19, 2019, DATE|Nigeria, LOC
 9018, Propcom, ORG|UK, LOC|Northern Nigeria, LOC
-9019, 77 million, CARDINAL|Nigeria, LOC|Nigeria, LOC
+9019, Nigeria, LOC|Nigeria, LOC
 9022, Nigeria, LOC|Nigeria, LOC|Ogheneovo Ugbebor, PER|Propcom, ORG
 9023, Nigeria, LOC
 9024, Nigeria, LOC|Federal University of Technology, ORG|Owerri, LOC
 9025, Nigeria, LOC
 9026, Propcom, ORG|the next 5 years, DATE
 9027, Felicia Nzomisaki, PER|the State Ministry of Agriculture, ORG|Adamawa State, LOC
-9028, one, CARDINAL|the National Policy on Agricultural Mechanisation, WORK_OF_ART|Ayoola Gboladade, PER|Farm and Infrastructure Foundation, ORG|FIF, ORG
+9028, Ayoola Gboladade, PER|Farm and Infrastructure Foundation, ORG|FIF, ORG
 9029, Anambra, LOC
 9030, Hadi Bala Yahaya, PER|the Agriculture and Food Security Policy Commission, ORG|the Nigeria Economic Summit Group, ORG|Gloria Ekpo, PER|the National Centre for Agricultural Mechanisation, ORG|NCAM, ORG|Isaac Ozumba, PER|Tractor Owners and Hiring Facilities Association of Nigeria, ORG|Alhaji Danladi Garba, PER
 9031, March 3, 2020, DATE|Vincent Okpala, PER
 9032, the Jerome Udoji Secretariat Complex, LOC|Awka, LOC
 9033, Okpala, PER
-9035, the National Centre on Agricultural Mechanisation, ORG|the Federal Ministry of Agriculture and Rural Development, ORG|the National Policy on Agricultural Mechanisation, WORK_OF_ART
+9035, the National Centre on Agricultural Mechanisation, ORG|the Federal Ministry of Agriculture and Rural Development, ORG
 9038, the Nigerian Communications Commission, ORG
 9039, Umar Danbatta, PER|the weekend, DATE|Abuja, LOC
 9040, Consumer Affairs Bureau, ORG|CAB, ORG|NCC, ORG|Felicia Onwuegbuchulam, PER
 9042, Danbatta, PER|NCC, ORG
 9043, Anambra, LOC
-9045, NCC, ORG|NCC, ORG|622, CARDINAL|NCC, ORG
+9045, NCC, ORG|NCC, ORG|NCC, ORG
 9046, Danbatta, PER
 9047, NCC, ORG
 9048, Danbatta, PER
-9050, 19,977, CARDINAL|between January and October this year, DATE
-9051, January, DATE|five, CARDINAL|China, LOC
+9050, between January and October this year, DATE
+9051, January, DATE|China, LOC
 9055, NCC, ORG|yesterday, DATE
 9056, January to October 2019, DATE|Consumer Affairs Bureau, ORG
-9057, 19,977, CARDINAL|NCC, ORG
+9057, NCC, ORG
 9058, 2018, DATE|this year, DATE
 9059, Guardian, ORG|2018, DATE
-9060, 2018, DATE|39.01 percent, PERCENT
-9061, the 65.5 percent, PERCENT|2018, DATE|88.07 per cent, MONEY|2019, DATE|22.57 per cent, MONEY
-9062, 50.56 per cent, MONEY|2018, DATE|74.93 per cent, MONEY|this year, DATE|24.37 per cent, MONEY
-9063, 2018, DATE|33.25 percent, PERCENT
+9060, 2018, DATE
+9061, 2018, DATE|2019, DATE
+9062, 2018, DATE|this year, DATE
+9063, 2018, DATE
 9064, Umar Danbatta, PER|Nigeria, LOC
 9065, Okpala, PER
 9066, China, LOC
@@ -5488,9 +5443,9 @@
 9098, CBN, ORG|CBN, ORG
 9099, 1 years' time, DATE
 9100, CBN, ORG|one year, DATE
-9101, 2018, DATE|CBN, ORG|N22.4trn, CARDINAL|62bn, MONEY
+9101, 2018, DATE|CBN, ORG
 9102, All Progressives Grand Alliance, ORG
-9103, Nigerian, NORP|the year, DATE|CBN, ORG
+9103, the year, DATE|CBN, ORG
 9104, Nigeria, LOC|today, DATE
 9105, Nigeria, LOC
 9106, Nigeria, LOC
@@ -5500,8 +5455,8 @@
 9110, CBN, ORG|Nigeria, LOC
 9111, 1999-2003, DATE
 9112, Michael Akinwale, PER
-9114, BENJAMIN, PER|Nigerians, NORP
-9118, New York Stock Exchange, ORG|London Stock Exchange, ORG|French, NORP|German, NORP|Nigeria, LOC
+9114, BENJAMIN, PER
+9118, New York Stock Exchange, ORG|London Stock Exchange, ORG|Nigeria, LOC
 9122, Nigeria, LOC
 9123, Nigeria, LOC
 9138, Nigeria, LOC
@@ -5510,7 +5465,7 @@
 9147, Muhammadu Buhari, PER|Daura, LOC|Friday, DATE
 9148, Muhammadu Buhari, PER|Daura, LOC|Katsina State, LOC|Friday, DATE
 9149, the week, DATE
-9150, Felix Idiga, PER|Nigeria, LOC|ALGON, ORG|Katsina State, LOC|the Christian Association of Nigeria, ORG|Katsina State, LOC|the Kano Traders Association, ORG|five, CARDINAL|Daura Emirate, ORG
+9150, Felix Idiga, PER|Nigeria, LOC|ALGON, ORG|Katsina State, LOC|the Christian Association of Nigeria, ORG|Katsina State, LOC|the Kano Traders Association, ORG|Daura Emirate, ORG
 9151, Garba Shehu, PER|Buhari, PER|Daura, LOC|earlier today, 24th, DATE|Buhari, PER|Garba Shehu, PER|August 24, 2018, DATE
 9152, Buhari, PER|Daura, LOC|earlier today, 24th, DATE|Buhari, PER
 9153, Saturday, DATE|morning, DATE
@@ -5525,30 +5480,30 @@
 9169, Soyinka, PER
 9173, Buhari, PER|Nigeria, LOC|Aisha, PER
 9174, Monday, DATE|Muhammadu Buhari, PER|Nigeria, LOC|30 years, DATE|Aisha, PER
-9175, Buhari, PER|First, ORDINAL|Nigeria, LOC
+9175, Buhari, PER|Nigeria, LOC
 9176, Buhari, PER|Muhammadu Buhari, PER|December 2, 2019, DATE
 9177, Today, DATE
 9179, Buhari, PER
-9180, Thursday, DATE|Akure, LOC|Giwa, PER|All Progressives Congress, ORG|Buhari, PER|Nigerians, NORP|2015, DATE
+9180, Thursday, DATE|Akure, LOC|Giwa, PER|All Progressives Congress, ORG|Buhari, PER|2015, DATE
 9181, Akure, LOC|Ondo State, LOC|Adewale Giwa, PER|Muhammadu Buhari, PER|Nigeria, LOC|Nigeria, LOC
-9182, Thursday, DATE|Akure, LOC|Giwa, PER|All Progressives Congress, ORG|Buhari, PER|Nigerians, NORP|2015, DATE
+9182, Thursday, DATE|Akure, LOC|Giwa, PER|All Progressives Congress, ORG|Buhari, PER|2015, DATE
 9183, Nigeria, LOC
 9187, Nigeria, LOC
 9188, Buhari, PER
 9189, Muhammadu Buhari's, PER
-9190, 25th, ORDINAL|Lagos State, LOC|Mohammad Bambado II, PER
+9190, Lagos State, LOC|Mohammad Bambado II, PER
 9191, Boko Haram, ORG
 9194, Daily Trust, ORG
 9195, Buhari, PER|Sowore, PER|Bayo Oluwasanmi, PER
 9196, Buhari, PER
 9199, Hitler, PER|D-Day, DATE
 9200, The Soviet Empire, LOC
-9202, Last week, DATE|Premium Times, ORG|Muhammadu Buhari, PER|two, CARDINAL|Omoyele Sowore, PER
+9202, Last week, DATE|Premium Times, ORG|Muhammadu Buhari, PER|Omoyele Sowore, PER
 9205, Ministry Of Environment, ORG|Nigeria, LOC
-9206, 2019, DATE|Madrid, LOC|Spain, LOC|net-zero, CARDINAL|2030, DATE
-9207, Nigeria, LOC|African, NORP|the Federal Ministry of Environment, ORG
-9208, 2019, DATE|Madrid, LOC|Spain, LOC|net-zero, CARDINAL|2030, DATE
-9209, Spain, LOC|African, NORP|Nigeria, LOC
+9206, 2019, DATE|Madrid, LOC|Spain, LOC|2030, DATE
+9207, Nigeria, LOC|the Federal Ministry of Environment, ORG
+9208, 2019, DATE|Madrid, LOC|Spain, LOC|2030, DATE
+9209, Spain, LOC|Nigeria, LOC
 9210, West Africa, LOC|Nigeria, LOC
 9213, the Ministry of Environment, ORG|Nigeria, LOC
 9216, UN, ORG|Eugene Itua, PER|Lagos State, LOC
@@ -5563,26 +5518,26 @@
 9231, Sowore-Bakare, PER
 9232, Boko Haram, ORG
 9233, the Department of State Services, ORG
-9235, DSS, ORG|Omoyele Sowore's, PER|two, CARDINAL|Abuja, LOC
+9235, DSS, ORG|Omoyele Sowore's, PER|Abuja, LOC
 9236, Muhammadu Buhari, PER
 9237, Abubakar Malami, PER|Sowore, PER|Bakare, PER
 9238, Lagos, LOC|Lagos, LOC
-9241, Sowore, PER|millions, CARDINAL|millions, CARDINAL
-9242, Nigerians, NORP|DSS, ORG
+9241, Sowore, PER
+9242, DSS, ORG
 9243, Nigeria, LOC|Sowore, PER
 9244, the Nigerian Government, ORG|DSS, ORG|Omoyele Sowore, PER
 9246, Goliath, PER
 9248, Omoyele Sowore, PER
 9249, Nigeria, LOC
-9252, October 4, DATE|N100m, PRODUCT|two, CARDINAL|Abuja, LOC
+9252, October 4, DATE|Abuja, LOC
 9253, Abuja, LOC
-9254, DSS, ORG|one, CARDINAL|Abuja, LOC
-9260, Dammy Krane Granted N50,000, PER
-9261, the Igbosere Magistrate Court, ORG|Lagos, LOC|three, CARDINAL
-9262, Johnson Oyindamola, PER|Dammy Krane, PER|one, CARDINAL
-9263, the Igbosere Magistrate Court, ORG|Lagos, LOC|three, CARDINAL
+9254, DSS, ORG|Abuja, LOC
+9260, Dammy Krane, PER
+9261, the Igbosere Magistrate Court, ORG|Lagos, LOC
+9262, Johnson Oyindamola, PER|Dammy Krane, PER
+9263, the Igbosere Magistrate Court, ORG|Lagos, LOC
 9264, Merrybet Gold Limited, ORG|July 25, DATE
-9265, 301, CARDINAL|412, CARDINAL|168, CARDINAL|the Criminal Law of Lagos State of Nigeria, LAW|2015, DATE
+9265, 2015, DATE
 9267, Adebayo Oniyelu, PER
 9268, Dami Krane, PER|Friday, DATE
 9269, J. I Enang, PER
@@ -5591,19 +5546,19 @@
 9272, Oniyelu, PER
 9275, A. F. O Botoku, PER|October 11, DATE
 9277, Wednesday night, DATE
-9278, one, CARDINAL|Nigeria, LOC|Oghenemaro Emeofa, PER|'Mad Melon', WORK_OF_ART
+9278, Nigeria, LOC|Oghenemaro Emeofa, PER
 9279, Wednesday night, DATE
 9280, Oghenemaro Emeofa, PER
 9281, Mountain Black, ORG
-9283, second, ORDINAL|the last seven years, DATE|South Africa, LOC|Tiger Foods, ORG|2012, DATE|three years later, DATE
+9283, the last seven years, DATE|South Africa, LOC|Tiger Foods, ORG|2012, DATE|three years later, DATE
 9284, The Nigeria Stock Exchange, ORG|Tuesday, DATE|Flour Mills, ORG|Crown Flour Mills, ORG
-9285, second, ORDINAL|the last seven years, DATE|South Africa, LOC|Tiger Foods, ORG|2012, DATE|three years later, DATE
-9286, Crown Flour Mills Limited, ORG|50, CARDINAL|NSE, ORG
+9285, the last seven years, DATE|South Africa, LOC|Tiger Foods, ORG|2012, DATE|three years later, DATE
+9286, Crown Flour Mills Limited, ORG|NSE, ORG
 9287, April, DATE|Crown Flour Mill, ORG
-9288, five billion, CARDINAL|DFM, ORG
+9288, DFM, ORG
 9289, August 5, DATE|October 14, DATE
-9290, Tiger Foods, ORG|2015, DATE|200, MONEY
-9291, the years, DATE|South African, NORP
+9290, Tiger Foods, ORG|2015, DATE
+9291, the years, DATE
 9292, Olam, PER
 9293, Olam, PER|2010, DATE
 9296, Olam, PER
@@ -5611,112 +5566,111 @@
 9298, the quarter ending September 30, DATE
 9299, the period ending June 30, DATE
 9305, April, DATE|Olam, PER
-9306, over 60 per cent, CARDINAL|South Africa, LOC|Tiger Foods, ORG|2012, DATE
+9306, South Africa, LOC|Tiger Foods, ORG|2012, DATE
 9308, Africa, LOC
 9309, 2013, DATE|2014, DATE
 9310, 2018, DATE
 9311, the Dangote Group, ORG
-9313, two, CARDINAL|last week, DATE
-9314, Nigerian, NORP|David Adeleke, PER|Davido, PER|two, CARDINAL
-9315, two, CARDINAL|last week, DATE
-9318, two, CARDINAL|Tuesday, DATE
-9319, Davido, PER|Instagram, ORG|First, ORDINAL
+9313, last week, DATE
+9314, David Adeleke, PER|Davido, PER
+9315, last week, DATE
+9318, Tuesday, DATE
+9319, Davido, PER|Instagram, ORG
 9320, Davido, PER|Chioma, PER
 9321, Sunday, DATE|United Kingdom, LOC
-9322, Nigerian, NORP|Davido, PER|Chioma, PER
+9322, Davido, PER|Chioma, PER
 9323, Instagram, ORG
 9324, Omoba, PER|David Adedeji, PER|Ifeanyi Adeleke Jr, PER
 9325, Davido, PER|Wizkid, PER
 9326, Wednesday, DATE|Burna, PER
-9327, Nigerian, NORP|Burna Boy, PER
+9327, Burna Boy, PER
 9328, Wednesday, DATE|Burna, PER
-9330, Banky W, PER|African, NORP
-9334, Don Jazzy, PER|African, NORP
+9330, Banky W, PER
+9334, Don Jazzy, PER
 9335, couple of years, DATE
 9337, Nathalie Joachim, PER|Spektral Quartet, PER|Fanm D'Ayiti, PER|Angelique Kidjo, PER|Celia, PER
-9338, Nigerian, NORP|Chido Onumah, PER
-9342, Marxist, NORP|Edwin Madunagu, PER
+9338, Chido Onumah, PER
+9342, Edwin Madunagu, PER
 9343, Nigeria, LOC
 9344, October 1, 1960, DATE|Britain, LOC
-9345, January 15, 1966, DATE|first, ORDINAL
+9345, January 15, 1966, DATE
 9346, July 6, 1967, DATE
-9347, January 15, 1970, DATE|the civil war, EVENT
-9348, May 27, DATE|Yakubu Gowon, PER|Nigeria, LOC|1966 to 1975, DATE|the Eastern Region of Nigeria, LOC|Ojukwu, PER|Nigeria, LOC|12, CARDINAL|four, CARDINAL
-9349, Nigeria, LOC|12, CARDINAL|Ojukwu, PER
+9347, January 15, 1970, DATE
+9348, May 27, DATE|Yakubu Gowon, PER|Nigeria, LOC|1966 to 1975, DATE|the Eastern Region of Nigeria, LOC|Ojukwu, PER|Nigeria
+9349, Nigeria, LOC|Ojukwu, PER
 9350, Gowon, PER|Nigeria, LOC|Nigerian, NORP
 9351, Nigeria, LOC
 9352, May 27, 1967, DATE|May 27, 1967, DATE
 9353, Three days later, DATE|May 30, 1967, DATE|Ojukwu, PER|the Republic of Biafra, LOC
 9354, the Eastern Region, LOC|Nigeria, LOC
 9355, Ojukwu, PER|four days earlier, DATE|May 26, 1967, DATE
-9357, First, ORDINAL|the January 15, 1966, DATE
+9357, the January 15, 1966, DATE
 9358, Abubakar Tafawa Belewa, PER|first, ORDINAL|Ahmadu Bello, PER
 9359, Edwin Madunagu, PER|Biafra, LOC|Guardian, ORG|May 4, 2000, DATE
-9360, One, CARDINAL|1960-1965, DATE
-9361, Two, CARDINAL|five, CARDINAL|Adewale Ademoyega, PER
-9363, Four, CARDINAL|Nigeria, LOC
+9360, 1960-1965, DATE
+9361, Adewale Ademoyega, PER
+9363, Nigeria, LOC
 9365, July 29, 1966, DATE|Northern Nigeria, LOC|Yakubu Gowon, PER
-9366, Madunagu, PER|Nigeria, LOC|One, CARDINAL
+9366, Madunagu, PER|Nigeria, LOC
 9367, Ojukwu, PER|Gowon, PER
-9368, second, ORDINAL|first, ORDINAL|Aguiyi Ironsi, PER|Adekunle Fajuyi, PER
+9368, Aguiyi Ironsi, PER|Adekunle Fajuyi, PER
 9369, Madunagu, PER
-9370, May 1966, DATE|50, CARDINAL|at least five months, DATE
-9371, Nigerian, NORP|Eastern Nigeria, LOC|Aburi, LOC|Ghana, LOC|Yakubu Gowon, PER|Emeka Ojukwu, PER|Ankrah, PER|Ghana, LOC
+9370, May 1966, DATE|at least five months, DATE
+9371, Eastern Nigeria, LOC|Aburi, LOC|Ghana, LOC|Yakubu Gowon, PER|Emeka Ojukwu, PER|Ankrah, PER|Ghana, LOC
 9372, Nigeria, LOC
 9374, May 27 and 30, 1967, DATE|today, DATE
-9375, one, CARDINAL|Nigeria, LOC
+9375, Nigeria, LOC
 9376, Ojukwu, PER
 9377, barely a year earlier, DATE|the January 15, 1966, DATE|Nigeria, LOC|34 of 1966, DATE
 9380, Nigeria, LOC
 9381, Biafra, LOC
-9382, a few days, DATE|Nigeria, LOC|50th, ORDINAL|May 30, 1967, DATE
+9382, a few days, DATE|Nigeria, LOC|May 30, 1967, DATE
 9384, today, DATE
 9387, 2017, DATE|50 years ago, DATE
 9388, S.M. Sigerson, PER|Michael Collins, PER
 9392, Seventeen years ago, DATE|Edwin Madunagu, PER
-9393, Nigerians, NORP|Biafra, LOC
-9397, Biafra, LOC|second, ORDINAL|first, ORDINAL
+9393, Biafra, LOC
+9397, Biafra, LOC
 9399, Biafra, LOC
 9400, Biafra, LOC
 9402, Madunagu, PER
 9403, 47 years ago, DATE
 9404, Biafra, LOC|Biafra, LOC
-9406, Gowon, PER|Nigeria, LOC|12, CARDINAL
+9406, Gowon, PER|Nigeria, LOC
 9407, the Eastern Region, LOC
 9408, Nigeria, LOC|1960, DATE
 9409, Nigeria, LOC
-9410, Gowon, PER|May 27, 1967, DATE|Nigeria, LOC|12, CARDINAL
+9410, Gowon, PER|May 27, 1967, DATE|Nigeria, LOC
 9411, the Nigerian Federation, LOC
-9413, first, ORDINAL|the Supreme Military Council, ORG|last month, DATE
+9413, the Supreme Military Council, ORG|last month, DATE
 9417, the Supreme Military Council, ORG|last month, DATE
-9421, the Willink Commission, ORG|British, NORP|1958, DATE
+9421, the Willink Commission, ORG|1958, DATE
 9423, Lagos, LOC
 9424, the Eastern Military Government, ORG
-9425, Nigerians, NORP
-9427, the Federal Republic, LOC|12, CARDINAL
-9428, 12, CARDINAL|six, CARDINAL|Northern Region, LOC|three, CARDINAL|Eastern Region, LOC|the Western Region, LOC|Lagos, LOC|Lagos State, LOC|the Western Region, LOC
+9427, the Federal Republic, LOC
+9428, Northern Region, LOC|Eastern Region, LOC|the Western Region, LOC|Lagos, LOC|Lagos State, LOC|the Western Region, LOC
 9429, Gowon, PER
 9430, Nigeria, LOC
 9431, Gowon, PER
 9439, Nigeria, LOC
-9445, Murtala Muhammed, PER|seven, CARDINAL|Abuja, LOC|February 3, 1976, DATE|February 13, DATE
+9445, Murtala Muhammed, PER|Abuja, LOC|February 3, 1976, DATE|February 13, DATE
 9446, Gowon, PER|Nigeria, LOC
 9447, Cross River, LOC|Akwa Ibom States, LOC|Cross River State, LOC
 9449, Ten years later, DATE|1986, DATE|Ibrahim Babangida, PER|Akwa Ibom State, LOC
 9450, Babangida, PER
 9451, Akwa Ibom State, LOC|Katsina State, LOC
 9452, 1991, DATE|Babangida, PER|1996, DATE|Sani Abacha, PER
-9453, today, DATE|Nigeria, LOC|36, CARDINAL|19, CARDINAL|17, CARDINAL
+9453, today, DATE|Nigeria, LOC
 9458, Nigeria, LOC
 9461, Nigeria, LOC
 9462, Nigeria, LOC
 9463, Nigeria, LOC
-9464, three, CARDINAL|Nigeria, LOC
-9465, Eastern, NORP|Western, NORP|1957, DATE|1959, DATE
+9464, Nigeria, LOC
+9465, 1957, DATE|1959, DATE
 9466, 1960, DATE
 9468, Nigeria, LOC
-9469, one, CARDINAL|Nigeria, LOC
-9470, 1963, DATE|50 percent, PERCENT
+9469, Nigeria, LOC
+9470, 1963, DATE
 9471, Today, DATE
 9475, Biafra, LOC
 9476, 1967, DATE
@@ -5728,17 +5682,17 @@
 9484, five, CARDINAL|Abia, LOC|Anambra, LOC|south-east Nigeria, LOC
 9485, Biafra, LOC|Nigeria, LOC|present-day, DATE|Bayelsa, LOC|Delta, LOC|Akwa Ibom, LOC|Cross River, LOC|Benue States, LOC
 9487, May 30, 1967, DATE|Biafra, LOC
-9488, West African, NORP|the Gulf of Guinea, LOC|Cape Lopez, LOC|Gabon, LOC|Britain, LOC|1849, DATE
+9488, the Gulf of Guinea, LOC|Cape Lopez, LOC|Gabon, LOC|Britain, LOC|1849, DATE
 9490, January 15, 1966, DATE
 9492, July 29, 1966, DATE
-9493, Nigerian, NORP|July 29, DATE
-9494, first, ORDINAL|the Nigerian Army, ORG|January 15, DATE
+9493, July 29, DATE
+9494, the Nigerian Army, ORG|January 15, DATE
 9495, January 15, DATE
-9496, Ironsi, PER|34, CARDINAL
-9497, 'January 15, DATE|one, CARDINAL|Obafemi Awolowo, PER
-9498, Nigerian, NORP|Gowon, PER|Aburi, LOC
+9496, Ironsi, PER
+9497, 'January 15, DATE|Obafemi Awolowo, PER
+9498, Gowon, PER|Aburi, LOC
 9499, Omoyele Sowore, PER|the Nigerian Government, ORG
-9500, first, ORDINAL|August 3, 2019, DATE|DSS, ORG|Nigerians, NORP|Muhammadu Buhari, PER
+9500, August 3, 2019, DATE|DSS, ORG|Muhammadu Buhari, PER
 9501, Buhari, PER
 9502, DSS, ORG|Friday, DATE|less than 24 hours, DATE
 9503, Opeyemi Bamidele, PER|DSS, ORG
@@ -5762,7 +5716,7 @@
 9547, Rotimi Amaechi, PER|Nigeria, LOC
 9551, Amaechi, PER|the ministry of education, ORG|the National Universities Commission, ORG
 9552, Nigeria, LOC
-9553, the China Civil Engineering Construction Company, ORG|Lagos-Ibadan, LOG|Nigerians, NORP|China, LOC
+9553, the China Civil Engineering Construction Company, ORG|Lagos-Ibadan, LOG|China, LOC
 9554, the Federal Ministry of Transportation, ORG|Mohammed Babakobi, PER
 9555, Amaechi, PER
 9556, Amaechi, PER
@@ -5771,12 +5725,12 @@
 9560, CCECC, ORG|Amaechi, PER
 9562, The Institute of Transportation, ORG|Zaria, LOC
 9563, The Federal Government, ORG
-9566, Buhari, PER|first, ORDINAL
+9566, Buhari, PER
 9568, Buhari, PER|the Transportation University, ORG
 9570, Federal Government, ORG
 9571, Nigeria, LOC
-9574, the University of Ibadan, ORG|Idowu Olayinka, PER|N100m, PRODUCT|N800, ORG
-9575, Nigeria, LOC|tertiary, ORDINAL
+9574, the University of Ibadan, ORG|Idowu Olayinka, PER
+9575, Nigeria, LOC
 9576, VC, ORG|the Federal Government, ORG|one year, DATE|a month, DATE
 9577, Transportation University, ORG
 9578, Nigeria, LOC
@@ -5786,7 +5740,7 @@
 9585, today, DATE|Africa, LOC|one per cent, MONEY
 9586, Africa, LOC
 9587, the African Research Universities Alliance, ORG|Africa, LOC
-9590, Transportation University, ORG|Nigerians, NORP
+9590, Transportation University, ORG
 9592, the National Universities Commission, ORG
 9593, NUC, ORG
 9595, NUC, ORG
@@ -5798,42 +5752,42 @@
 9602, The Federal Government, ORG
 9605, Olabisi Deji-Folutile, PER|the Nigerian Guild of Editors, ORG
 9606, the first week of this month, DATE
-9607, four, CARDINAL|Nigerian, NORP|1979, DATE
+9607, 1979, DATE
 9609, Nigeria, LOC
 9610, Nigeria, LOC
 9611, The day, DATE|Wumi Raji, PER|the Obafemi Awolowo University, ORG
 9619, a day later, DATE
-9621, four, CARDINAL|Nigeria, LOC|Civil War, EVENT|1970, DATE|1979, DATE|1979-1983, DATE|Leftist Revolutionary Party, ORG
+9621, Nigeria, LOC|1970, DATE|1979, DATE|1979-1983, DATE|Leftist Revolutionary Party, ORG
 9622, Nigeria, LOC
-9624, Nigeria, LOC|two, CARDINAL
+9624, Nigeria, LOC
 9626, Guardian, ORG|October 4, 2018, DATE
 9628, the last two years, DATE
 9635, the past two years, DATE
 9638, Soviet Union, LOC|Yugoslavia, LOC|Czechoslovakia, LOC|decades, DATE
-9639, Marxist, NORP|China, LOC
+9639, China, LOC
 9640, the last quarter of last century, DATE
-9642, between two, CARDINAL|Nigerian, NORP|Darah, PER|Bala Usman, PER|about a decade ago, DATE
-9644, Rosa Luxembourg, PER|Marxist, NORP
-9645, Marxist, NORP|Nigeria, LOC|Nigeria, LOC
+9642, Darah, PER|Bala Usman, PER|about a decade ago, DATE
+9644, Rosa Luxembourg, PER
+9645, Nigeria, LOC|Nigeria, LOC
 9647, Nigeria, LOC
-9648, Dikwa, LOC|500, CARDINAL
-9652, four, CARDINAL|Fatima Mohammed, PER|30, CARDINAL
-9653, Adamawa State, LOC|three, CARDINAL|duringthe rainy season, DATE
-9654, August 16, DATE|633, CARDINAL
+9648, Dikwa, LOC
+9652, Fatima Mohammed, PER
+9653, Adamawa State, LOC|duringthe rainy season, DATE
+9654, August 16, DATE
 9656, the coming weeks, DATE|NRC, ORG
 9658, Batonon, PER
-9659, the United Nations, ORG|848million, MONEY|Nigeria, LOC|this year, DATE
-9660, About eight months, DATE|the year, DATE|less than 40, CARDINAL
+9659, the United Nations, ORG|Nigeria, LOC|this year, DATE
+9660, About eight months, DATE|the year, DATE
 9661, 2019, DATE
 9662, Batonon, PER
-9664, Tuesday night, DATE|August 20, DATE|Dikwa, LOC|four, CARDINAL
-9665, first, ORDINAL|December 2018, DATE
-9666, DSS, ORG|6th, ORDINAL|December, DATE|Federal High Court, ORG|Ighoyota, LOC
+9664, Tuesday night, DATE|August 20, DATE|Dikwa, LOC
+9665, December 2018, DATE
+9666, DSS, ORG|December, DATE|Federal High Court, ORG|Ighoyota, LOC
 9667, the Federal High Court, ORG|Friday, DATE|DSS, ORG|Omoyele Sowore, PER|Olawale Bakare, PER|less than 24 hours, DATE
 9668, Saturday, December 7, DATE|the Federal High Court, ORG|Abuja, LOC|the Department of State Services, ORG
 9669, DSS, ORG
 9670, the Federal High Court, ORG|Friday, DATE|DSS, ORG|Omoyele Sowore, PER|Olawale Bakare, PER|less than 24 hours, DATE
-9671, two, CARDINAL|Omoyele Sowore, PER|Ijeoma Ojukwu, PER|Sowore, PER
+9671, Omoyele Sowore, PER|Ijeoma Ojukwu, PER|Sowore, PER
 9672, the day, DATE|Femi Falana, PER|DSS, ORG|Sowore, PER
 9673, Sowore, PER|DSS, ORG|DSS, ORG|Sowore, PER|barely 24 hours, DATE
 9674, DSS, ORG|Ojukwu, PER
@@ -5841,7 +5795,7 @@
 9677, Sowore, PER|DSS, ORG|December 6, DATE
 9678, Sowore, PER|December 5, DATE
 9679, DSS, ORG|DSS, ORG
-9680, One, CARDINAL|Marshall, PER|DSS, ORG
+9680, Marshall, PER|DSS, ORG
 9681, Marshall, PER|DSS, ORG
 9682, Sowore, PER|Marshall, PER
 9683, 24 hours, TIME|DSS, ORG
@@ -5850,23 +5804,23 @@
 9686, DSS, ORG
 9687, DSS, ORG|Sowore, PER|Ojukwu, PER|DSS, ORG
 9688, DSS, ORG
-9690, DSS, ORG|one, CARDINAL
-9691, one, CARDINAL|Omoyele Sowore, PER
-9693, DSS, ORG|Nigerians, NORP
+9690, DSS, ORG
+9691, Omoyele Sowore, PER
+9693, DSS, ORG
 9696, Omoyele Sowore, PER
 9698, this year, DATE
 9702, Nollywood, ORG|GenevieveNnaji, PER|the Los Angeles Times, ORG
 9703, this year, DATE
-9705, recent years, DATE|2015, DATE|Los AngelesTimes, LOC
+9705, recent years, DATE|2015, DATE|Los AngelesTimes, ORG
 9706, Oscar, PER
-9707, American, NORP|Ava Duvernay, PER|Nigeria, LOC|English, LANGUAGE
-9708, Nigeria, LOC|first, ORDINAL|Best International Feature, ORG|English, LANGUAGE
-9709, English, LANGUAGE|Nigeria, LOC
+9707, Ava Duvernay, PER|Nigeria, LOC
+9708, Nigeria, LOC|Best International Feature, ORG
+9709, Nigeria, LOC
 9710, Oscar, PER
 9711, Ava Duvernay's, PER|Genevieve Nnaji, PER|Lionheart, ORG
-9713, English, LANGUAGE|one, CARDINAL|Nigeria, LOC
-9717, Nigerian, NORP|Deyemi, PER|Lionheart, ORG|the end of today, DATE
-9719, Nigerians, NORP|Lionheart, ORG
+9713, Nigeria, LOC
+9717, Deyemi, PER|Lionheart, ORG|the end of today, DATE
+9719, Lionheart, ORG
 9723, Twitter, ORG|Steven Chuks, PER
 9724, Britain Danielle, PER
 9726, Nigeria, LOC|English, LANGUAGE
@@ -5875,37 +5829,37 @@
 9729, Nigeria, LOC
 9730, Nigeria, LOC
 9731, Nigeria, LOC|2019, DATE|Kogi, LOC|Bayelsa, LOC|Tai Solarin, PER|about 40 years ago, DATE|1979, DATE
-9734, Tai Solarin, PER|Nigerians, NORP
-9736, Tai Solarin, PER|Nigerian, NORP
-9737, Tai Solarin, PER|Marxist, NORP
+9734, Tai Solarin, PER
+9736, Tai Solarin, PER
+9737, Tai Solarin, PER
 9739, the present-day, DATE|Nigeria, LOC
 9740, Tai Solarin, PER
 9743, Nigeria, LOC|October 1, 1979, DATE|1966-1979, DATE
-9744, Shehu Shagari, PER|the National Party of Nigeria, ORG|NPN, ORG|Obafemi Awolowo, PER|the Unity Party of Nigeria, ORG|UPN, ORG|second, ORDINAL
+9744, Shehu Shagari, PER|the National Party of Nigeria, ORG|NPN, ORG|Obafemi Awolowo, PER|the Unity Party of Nigeria, ORG|UPN, ORG
 9746, Tai Solarin, PER
 9747, UPN, ORG
-9749, November 4, 1979, DATE|Shehu Shagari, PER|Sunday, DATE|Tribune, ORG|Tai Solarin, PER|The Stolen Presidency., WORK_OF_ART
+9749, November 4, 1979, DATE|Shehu Shagari, PER|Sunday, DATE|Tribune, ORG|Tai Solarin, PER
 9750, four years, DATE|four-year-old, DATE|NPN, ORG|Government Party, ORG|UPN, ORG|NPP, ORG|PRP, ORG
 9751, 1983, DATE|NPN, ORG|the Revolutionary Party, ORG
 9756, the Nigerian Chronicle, ORG|daily, DATE|Cross River State, LOC
 9757, the University of Ife, ORG|Obafemi Awolowo University, ORG|November 1980, DATE|Alliance of Progressive Students, ORG|ALPS, ORG|Enugu, LOC
 9758, May 1981, DATE
 9759, Nigeria, LOC
-9760, Tai Solarin's, PER|two, CARDINAL
-9761, first, ORDINAL|Tai Solarin, PER|UPN, ORG
-9762, second, ORDINAL|Revolutionary Party, ORG
+9760, Tai, PER
+9761, Tai Solarin, PER|UPN, ORG
+9762, Revolutionary Party, ORG
 9763, Tai Solarin's, PER|the Revolutionary Party, ORG
 9764, NPN, ORG|today, DATE
 9767, Tai Solarin, PER
 9770, Leon Trotsky, PER
-9771, Tai Solarin's, PER|the Revolutionary Party, ORG
+9771, Tai, PER|the Revolutionary Party, ORG
 9773, Tai Solarin, PER
 9774, Tai Solarin, PER|Revolutionary Party, ORG
 9776, NPN, ORG|NPN, ORG
-9778, Tai Solarin's, PER
+9778, Tai, PER
 9784, NPN, ORG
-9785, almost 40 years, DATE|1979, DATE|Tai Solarin's, PER
-9786, Nigerian, NORP|1979, DATE|a Revolutionary Party, ORG
+9785, almost 40 years, DATE|1979, DATE|Tai, PER
+9786, 1979, DATE|a Revolutionary Party, ORG
 9788, Nigeria, LOC
 9789, Nigeria, LOC
 9790, Nigeria, LOC
@@ -5913,29 +5867,28 @@
 9792, Africa, LOC|Phumlani Majozi, PER
 9793, 30 years ago, DATE
 9795, African Liberty, ORG|Alexander Hammond, PER|the Cato Institute, ORG
-9798, Russia, LOC|the Soviet Union, LOC|the United States, LOC|US, LOC|the Soviet Union's, LOC
-9799, two, CARDINAL|Russia, LOC|the United States, LOC
-9802, the United Nations, ORG|two, CARDINAL
+9798, Russia, LOC|the Soviet Union, LOC|the United States, LOC|US, LOC
+9799, Russia, LOC|the United States, LOC
+9802, the United Nations, ORG
 9804, Today, DATE|decades, DATE
 9807, South Africa, LOC
 9808, Nelson Mandela, PER|the African National Congress, ORG|Moscow, LOC
-9809, US, LOC|Britain, LOC|South Africa, LOC|South Africa's, LOC|the Cold War, EVENT
+9809, US, LOC|Britain, LOC|South Africa, LOC|South Africa's, LOC
 9810, Zaire, LOC|the Democratic Republic of Congo, LOC
 9811, Patrice Lumumba's, PER|1961, DATE|Russia, LOC|US, LOC
 9812, Mobuto Sese Seko, PER|1965, DATE|Zaire, LOC|the United States, LOC|the Soviet Union, LOC
-9813, Cold War, EVENT|South Africa, LOC|DRC, ORG|Africa, LOC
+9813, South Africa, LOC|DRC, ORG|Africa, LOC
 9815, US, LOC
 9821, Africa, LOC
 9824, the early 1990s, DATE|Africa, LOC
 9825, Africa, LOC
-9827, Ethiopian, NORP|Abiy Ahmed, PER|2019, DATE|Nobel Peace Prize, WORK_OF_ART|Africa, LOC
+9827, Abiy Ahmed, PER|2019, DATE|Africa, LOC
 9831, Phumlani M., PER
 9832, Majozi, PER
 9835, Lagos, LOC
 9836, Shi Shi, PER
 9837, afternoon, DATE
-9839, SaharaReporters, ORG
-9842, Shi Shi, PER|Chinese, NORP|Thursday, DATE|Nigerian, NORP|Ikeja, LOC|Lagos, LOC
+9842, Shi Shi, PER|Chinese, NORP|Thursday, DATE|Ikeja, LOC|Lagos, LOC
 9844, Shi Shi, PER
 9845, afternoon, DATE
 9847, SaharaReporters, ORG
@@ -5948,49 +5901,49 @@
 9892, The House of Representatives, ORG|Apapa, LOC|Lagos, LOC
 9893, the Nigerian Ports Authority, ORG
 9894, Benjamin Bem, PER|annually, DATE
-9895, Nigeria, LOC|Nigerians, NORP
-9898, Second, ORDINAL|the Nigeria Football Federation, ORG|Shehu Dikko, PER|Bichi, PER|Manu Garba, PER|50, CARDINAL
-9899, Bichi, PER|the Department of State Services, ORG|Nigeria, LOC|U-17, PRODUCT|Bichi, PER
-9900, Second, ORDINAL|the Nigeria Football Federation, ORG|Shehu Dikko, PER|Bichi, PER|Manu Garba, PER|50, CARDINAL
+9895, Nigeria, LOC
+9898, the Nigeria Football Federation, ORG|Shehu Dikko, PER|Bichi, PER|Manu Garba, PER
+9899, Bichi, PER|the Department of State Services, ORG|Nigeria, LOC|Bichi, PER
+9900, the Nigeria Football Federation, ORG|Shehu Dikko, PER|Bichi, PER|Manu Garba, PER
 9901, NFF, ORG|Garba, PER|Bichi, PER
 9902, Garba, PER
 9903, DSS, ORG|Bichi, PER|Into U-17 World Cup Team, ORG
-9904, Bichi, PER|Garba, PER|one, CARDINAL
+9904, Bichi, PER|Garba, PER
 9905, Dikko, PER|NFF, ORG
-9906, SaharaReporters, ORG|Dikko, PER|the Economic and Financial Crimes Commission, ORG
+9906, Dikko, PER|the Economic and Financial Crimes Commission, ORG
 9907, ICPC, ORG|Dikko, PER|NFF, ORG
 9908, ICPC, ORG|September, DATE|Dikko, PER
 9909, DSS, ORG
 9910, NFF, ORG|EFCC, ORG|ICPC, ORG
 9911, NFF, ORG
-9912, Amaju Pinnick, PER|First, ORDINAL|Seyi Akinwunmi, PER|Dikko, PER|Yusuf, PER
+9912, Amaju Pinnick, PER|Seyi Akinwunmi, PER|Dikko, PER|Yusuf, PER
 9913, NFF, ORG|November 5 2019, DATE
 9914, NFF, ORG|Oduko, PER
 9915, Bichi, PER|Oduko, PER
 9916, Oduko, PER|Charles Etim, PER
-9917, Oduko, PER|Guinea, LOC|AFCON, ORG|Tanzania, LOC|third, ORDINAL|NFF, ORG|Demola Olajire, PER
-9918, The Golden Eaglets, ORG|two, CARDINAL|Bichi, PER
+9917, Oduko, PER|Guinea, LOC|AFCON, ORG|Tanzania, LOC|NFF, ORG|Demola Olajire, PER
+9918, The Golden Eaglets, ORG|Bichi, PER
 9919, March 9, DATE
 9921, The Police Command, ORG|Port Harcourt-Aba, LOC|the Independent National Electoral Commission, ORG
 9922, Nnamdi Omoni, PER|the Rivers Police Command, ORG|Port Harcourt, LOC|Rivers State, LOC
 9923, Omoni, PER
 9924, the March 9, 2019, DATE
 9928, the next 48 hours, DATE|Mahmood Yakubu, PER|the Independent National Electoral Commission, ORG|INEC's, ORG|Port Harcourt, LOC
-9929, Thousands, CARDINAL|Port Harcourt, LOC|Rivers State, LOC|Obo Effanga, PER
+9929, Port Harcourt, LOC|Rivers State, LOC|Obo Effanga, PER
 9931, the next 48 hours, DATE|Mahmood Yakubu, PER|the Independent National Electoral Commission, ORG|INEC's, ORG|Port Harcourt, LOC
 9932, Rivers State, LOC|the last three days, DATE|Effanga, PER|March 9, DATE|Nyesom Wike, PER|Rivers State, LOC
 9933, Effanga, PER
 9934, Tonye Cole, PER|the All Progressives Congress, ORG|APC, ORG|Effanga, PER|Rivers State, LOC
 9935, Dumo Lulu-Briggs, PER|Accord Party, ORG|Victor Fingesi, PER|the Action Democratic Party, ORG
-9936, Anthony Joshua, PER|Nigerian, NORP
-9937, AJ, PER|Saudi Arabia, LOC|Nigerian, NORP|British, NORP|Ruiz, PER|Mexican, NORP
+9936, Anthony Joshua, PER
+9937, AJ, PER|Saudi Arabia, LOC|Ruiz, PER
 9938, Anthony Joshua, PER|Saturday night, DATE|Andy Ruiz, PER
-9939, AJ, PER|Saudi Arabia, LOC|Nigerian, NORP|British, NORP|Ruiz, PER|Mexican, NORP
-9940, Joshua jabbed Ruiz Jr, PER|AJ, PER|first, ORDINAL
-9942, Joshua, PER|Ruiz, PER|New York, LOC|third, ORDINAL
+9939, AJ, PER|Saudi Arabia, LOC|Ruiz, PER
+9940, Joshua jabbed Ruiz Jr, PER|AJ, PER
+9942, Joshua, PER|Ruiz, PER|New York, LOC
 9945, Ruiz Jr, PER|Saudi Arabia, LOC
 9946, Joshua, PER
-9947, the night, DATE|more than 20, CARDINAL|Friday, DATE
+9947, the night, DATE|Friday, DATE
 9960, Russia, LOC
 9961, Russia, LOC|2022, DATE|Qatar, LOC
 9962, Russia, LOC|the World Anti-Doping Agency, ORG
@@ -5998,8 +5951,8 @@
 9965, WADA, ORG|Lausanne, LOC|Switzerland, LOC
 9966, Russia, LOC|Anti-Doping Agency, ORG|January 2019, DATE
 9967, WADA, ORG|2018, DATE
-9968, WADA, ORG|Craig Reedie, PER|Russian, NORP
-9970, Russian, NORP|Rusada, LOC
+9968, WADA, ORG|Craig Reedie, PER
+9970, Rusada, LOC
 9972, Russia, LOC
 9973, Yusuf Bichi, PER|Premium Times, ORG
 9974, Bichi, PER|DSS, ORG
@@ -6007,7 +5960,7 @@
 9976, Peter Afunanya, PER
 9977, Bichi, PER|the Federal High Court, ORG
 9978, Friday, DATE|Premium Times, ORG|Muhammadu Buhari, PER|Friday, December 6, DATE|the State Security Service, ORG|the Department of State Services – DSS, ORG|Federal High Court, ORG
-9979, 7, CARDINAL|Abuja, LOC|the Federal Capital Territory, ORG
+9979, Abuja, LOC|the Federal Capital Territory, ORG
 9980, Nigeria, LOC
 9981, DSS, ORG|Yusuf Bichi, PER
 9982, Bichi, PER
@@ -6025,15 +5978,15 @@
 10019, Uruagu Nnewi, LOC|Ben Aghazu, PER
 10021, Nnewi, LOC
 10022, Onyejepu, PER
-10025, The African Development Bank, ORG|14, CARDINAL|50 million dollars, MONEY
+10025, The African Development Bank, ORG
 10026, Joe Onyejekwe, PER
 10027, Ayamelum, LOC|Anambra East, LOC|Oyi, LOC|Dunukofia, LOC|Awka North, LOC|Awka, LOC|Aguata, LOC|Ihiala, LOC|Ogbaru, LOC|Idemili South, LOC|Anaocha, LOC
-10028, the Federal Government, ORG|9.8 Billion dollars, MONEY|annually, DATE
+10028, the Federal Government, ORG|annually, DATE
 10029, the Association of Ndi Anambra, LOC|Madrid, LOC|Spain, LOC|Awka, LOC
-10031, two, CARDINAL|the World Bank, ORG|African, NORP|Abidjan, LOC
-10033, five, CARDINAL|Anambra, Borno, LOC|Benue, LOC|Taraba, LOC|Cross River States, LOC|African Development Bank, ORG|the World Bank, ORG
+10031, the World Bank, ORG|Abidjan, LOC
+10033, Anambra, Borno, LOC|Benue, LOC|Taraba, LOC|Cross River States, LOC|African Development Bank, ORG|the World Bank, ORG
 10034, ADB, ORG
-10035, two, CARDINAL|Anambra State, LOC
+10035, Anambra State, LOC
 10037, Road Safety Service, ORG
 10040, Anambra State, LOC
 10043, Anambra State, LOC|Anambra State, LOC
@@ -6043,11 +5996,11 @@
 10054, Obiano, PER
 10057, Okija General Hospital, ORG|Dozzy Foundation, ORG
 10058, Dozzy Group, ORG|Daniel Chukwudozie, PER
-10060, Simeon Onyemaechi, PER|Dozzy Foundation, ORG|1,500, CARDINAL
+10060, Simeon Onyemaechi, PER|Dozzy Foundation, ORG
 10061, Onyemaechi, PER
 10063, Onyemaechi, PER
-10064, annual, DATE|1,500, CARDINAL
-10065, Onyemaechi, PER|Dozzy Foundation, ORG|millions, CARDINAL|the Okija General Hospital, ORG
+10064, annual, DATE
+10065, Onyemaechi, PER|Dozzy Foundation, ORG|the Okija General Hospital, ORG
 10066, Anambra State, LOC|Dozzy, ORG
 10067, Dozzy, ORG|Chukwudozie, PER|the years, DATE
 10071, Chukwudozie, PER|Dozzy, ORG
@@ -6074,11 +6027,11 @@
 10118, Chiobi, PER
 10119, Mgbuka Obosi, LOC|Samuel Okey Ezeobodo, PER
 10122, Mgbachu Village, LOC|Nkpor, LOC|Idemili North Local Government Area, LOC|Anambra State, LOC|the next four years, DATE
-10123, Godwin Onwukwe, PER|Constitution, LAW
+10123, Godwin Onwukwe, PER
 10124, Mgbachu, LOC
 10126, Oboli Joseph Okolo, PER|the Nkpor Development Union, ORG|NDU, ORG|Nkpor Taskforce, ORG|Augustine Udoh, PER|Nkpor Central Vigilance Security, ORG|DSS, ORG
 10127, Sunday, DATE|NDU, ORG
-10129, Arinze Idemili, PER|66, CARDINAL|Sunday Muoghalu, PER|23, CARDINAL
+10129, Arinze Idemili, PER|Sunday Muoghalu, PER
 10130, Arinze Idemili, PER|Sunday Muoghalu, PER|Felix Adibe, PER|Ikechukwu Ejikeme, PER|Chukwuka Obidigbo, PER
 10131, Nnanna Nwosu, PER|Ekene Ezeabata, PER|Nwachukwu Okolo, PER|Amaechi Onwukwe, PER
 10132, Arinze Idemili, PER|Mgbachu village, LOC
@@ -6096,10 +6049,10 @@
 10148, Anambra State, LOC
 10152, Willie Obiano, PER
 10153, the next season, DATE
-10154, 4.95, CARDINAL|Ezinnaja-Oraukwu-Nimo, LOC
+10154, Ezinnaja-Oraukwu-Nimo, LOC
 10155, Daniel Nkwonta, PER|Oraukwu, LOC
 10156, Obiano, PER|Nkwonta, PER
-10159, About 80, CARDINAL|Oraukwu, LOC
+10159, Oraukwu, LOC
 10166, Morgan Ofodum, PER
 10169, Harry Udu, PER
 10170, Anambra state, LOC|Nigeria Union of Journalists, ORG
@@ -6123,14 +6076,14 @@
 10199, Feb. 19, DATE|Anedo Hall, FAC|Nnewi, LOC|Anambra State, LOC|Cletus M Ibeto, PER
 10203, FCMB, ORG
 10204, John Ndu, PER
-10205, Dunukofia LGA, LOC|Jan. 24, 2020, DATE|Anambra State Government, ORG|Jan. 26, CARDINAL
+10205, Dunukofia LGA, LOC|Jan. 24, 2020, DATE|Anambra State Government, ORG|Jan. 26, DATE
 10208, Obiano, PER
 10209, Obiano, PER
 10212, Daniel Ekene, PER|last year, DATE
 10213, Ekene, PER
 10214, May, DATE
 10217, West Africa, LOC|Nigeria, LOC
-10218, the year, DATE|May, DATE|81, CARDINAL|six, CARDINAL|Okpala, PER
+10218, the year, DATE|May, DATE|81, CARDINAL|Okpala, PER
 10221, Jan. 28, 2020, DATE|Vincent Okpala, PER
 10222, Awka, LOC
 10223, Okpala, PER
@@ -6151,7 +6104,7 @@
 10250, Buhari, PER
 10251, Babachir Lawal, PER
 10252, Bola Tinubu, PER|APC, ORG|EFCC, ORG|Tinubu, PER|the eve of the 2019, DATE
-10253, Ibrahim Magu, PER)|EFCC, ORG
+10253, Ibrahim Magu, PER|EFCC, ORG
 10254, APC, ORG|Buhari, PER|EFCC, ORG
 10256, Buhari, PER
 10257, Buhari, PER|Abubakar Tsav, PER|Lagos, LOC
@@ -6161,18 +6114,18 @@
 10264, Arsenal, ORG|Emery, PER
 10265, 1992, DATE
 10266, Arsenal, ORG
-10267, seven, CARDINAL|first, ORDINAL|1992, DATE
-10268, Emery, PER|the summer of 2018, DATE|Arsene Wenger, PER)
+10267, 1992, DATE
+10268, Emery, PER|the summer of 2018, DATE|Arsene Wenger, PER
 10269, Chelsea, ORG
 10271, Frankfurt, LOC|Thursday, DATE
-10272, Freddie Ljungberg, PER|first, ORDINAL
+10272, Freddie Ljungberg, PER
 10273, Today, DATE
 10274, the Federal Government, ORG|Monday, DATE
 10275, Monday, DATE
 10276, Sunday, DATE
 10277, the Federal Government, ORG|Monday, DATE|PUNCH, ORG
 10278, Biodun Ogunyemi, PER|ASUU National, ORG
-10279, the Federal Government, ORG|Nigerian, NORP
+10279, the Federal Government, ORG
 10282, the Civil Service of the Federation, ORG
 10285, earlier this year, DATE|March this year, DATE
 10287, November, DATE
@@ -6181,11 +6134,11 @@
 10293, many decades, DATE
 10296, Bank of Nigeria, ORG|CBN, ORG
 10301, Adedayo Bakare, PER
-10302, Bakare, PER|two, CARDINAL|three, CARDINAL|Zenith and Guarantee Trust, ORG|12, CARDINAL|CBN, ORG|September 2019, DATE
+10302, Bakare, PER|Zenith and Guarantee Trust, ORG|CBN, ORG|September 2019, DATE
 10305, Thursday, DATE
 10306, Ogun State, LOC
 10307, Nigeria, LOC
-10308, Herbert Wigwe, PER|Access Bank, ORG|2, CARDINAL|annually, DATE
+10308, Herbert Wigwe, PER|Access Bank, ORG|annually, DATE
 10309, Ogun State, LOC
 10310, the United Bank of Africa, ORG|Wizkid, PER
 10313, Banky W, PER|Buhari, PER|Sowore, PER
@@ -6195,11 +6148,11 @@
 10327, Banky Wellington, PER|September 14, 2019, DATE
 10328, Khafi, PER
 10329, Sun, ORG|Tuesday, DATE|Khafi, PER
-10330, Khafi Kareem, PER|Sun, ORG|British, NORP
+10330, Khafi Kareem, PER|Sun, ORG
 10332, Khafi, PER|Gedoni, PER
 10333, Sun, ORG|Tuesday, DATE|Khafi, PER|the Metropolitan Police, ORG
 10334, Khafi, PER|British, NORP
-10335, Khafi, PER|Sun, ORG|UK, LOC|Tuesday, August 13, 2019, DATE|Nigerian, NORP
+10335, Khafi, PER|Sun, ORG|UK, LOC|Tuesday, August 13, 2019, DATE
 10336, Sun, DATE|UK, LOC
 10337, Sun, DATE|Khafi, PER
 10338, Khafi, PER
@@ -6215,33 +6168,32 @@
 10387, the Ministry of Information and Culture, ORG|Nigeria, LOC
 10388, Khafi Kareem, PER
 10389, Cressida Dick, PER
-10391, Khafi Kareem, PER|the Metropolitan Police, ORG|Nigerian, NORP|this year, DATE
+10391, Khafi Kareem, PER|the Metropolitan Police, ORG|this year, DATE
 10392, Ekpata Gedoni, PER|Sun, ORG
 10393, Nigeria, LOC
 10395, Cressida Dick, PER
-10396, Sun, ORG|British, NORP
+10396, Sun, ORG
 10399, Africa, LOC
 10400, Kareem, PER|2015, DATE|four years, DATE
 10401, UK Daily Mail, ORG
 10405, Kareem, PER
 10406, Khafi Kareem, PER
 10408, Gedoni, PER|June 30, DATE
-10410, One, CARDINAL|Khafi, PER|Gedoni, PER
-10412, Gedoni, PER|Khafi, PER|first, ORDINAL|Saturday, July 20, DATE|Tuesday, July 23, CARDINAL
+10410, Khafi, PER|Gedoni, PER
+10412, Gedoni, PER|Khafi, PER|Saturday, July 20, DATE|Tuesday, July 23, DATE
 10414, Sun, DATE
 10417, last night, DATE
 10419, Women Council, ORG
-10421, The National Council of Women Societies, ORG|Nigerian, NORP|Nigerian, NORP
+10421, The National Council of Women Societies, ORG
 10422, the National Council for Arts and Culture, ORG|Gloria Shoda, PER|the National Council of Women Societies, ORG
 10423, NCAC, ORG|Startimes, ORG|Nigerian, NORP
 10428, the National Broadcasting Commission, ORG
 10430, Startimes, ORG
 10433, NCWS, ORG
 10435, three months, DATE
-10437, Naija Star, PER|Khaffy, ORG|Facing UK Met Police Internal Inquiry For Joining Show Without Permission, ORG
-10438, British, NORP
-10440, Metropolitan Police, ORG|Khafi Kareem, PER|Nigerian, NORP
-10441, Kareem, PER|29, DATE|Cressida Dick, PER|last November, DATE|African, NORP
+10437, Naija Star, PER|Khaffy, ORG
+10440, Metropolitan Police, ORG|Khafi Kareem, PER
+10441, Kareem, PER|29, DATE|Cressida Dick, PER|last November, DATE
 10442, Scotland Yard, ORG|Kareem, PER|UK Press Association, ORG
 10443, The UK Metropolitan Police, ORG|Kareem, PER
 10444, Nigeria, LOC
@@ -6267,7 +6219,7 @@
 10478, Alhaji Sani Dauda, PER|Muhammadu Buhari, PER
 10487, Muslim Lawyers Association of Nigeria, ORG|Kaduna State, LOC
 10488, MULAN, PER|Kaduna State, LOC
-10490, Abubakar Musa Abubakar, PER|thousands, CARDINAL
+10490, Abubakar Musa Abubakar, PER
 10491, Abubakar, PER
 10492, Abubakar Musa Abubakar, PER
 10496, Ernesto Che Guevera, PER
@@ -6277,14 +6229,14 @@
 10518, Sabi Abdullahi, PER
 10520, Bobrisky, PER|Buhari, PER
 10521, Bobrisky, PER|Bobrisky, PER
-10522, Muhammadu, PER|Nigerian, NORP|Okuneye Idris Olarenwaju, PER|Bobrisky, PER
-10523, Bobrisky, PER|the Nnamdi Azikiwe International Airport, ORG|Abuja, LOC|Nigeria, LOC|Punch, ORG|Bobrisky, PER|Nigeria, LOC|Nigerians, NORP|Bobrisky, PER|Bobrisky, PER
+10522, Muhammadu, PER|Okuneye Idris Olarenwaju, PER|Bobrisky, PER
+10523, Bobrisky, PER|the Nnamdi Azikiwe International Airport, ORG|Abuja, LOC|Nigeria, LOC|Punch, ORG|Bobrisky, PER|Nigeria, LOC|Bobrisky, PER|Bobrisky, PER
 10524, Bobrisky, PER
-10526, Bobrisky, PER|the end of the day, DATE|Nigerian, NORP
+10526, Bobrisky, PER|the end of the day, DATE
 10527, Bobrisky, PER|the Federal Airports Authority of Nigeria, ORG|this day, DATE|Bobrisky, PER|Abuja, LOC
 10529, Idris Okuneye, PER
 10530, Bobrisky, PER|Saturday, DATE
-10531, Nigerians, NORP|Idris Okuneye, PER
+10531, Idris Okuneye, PER
 10532, Bobrisky, PER|Saturday, DATE
 10534, Bobrisky, PER|Okuneye, PER
 10535, Bobrisky, PER
@@ -6293,15 +6245,14 @@
 10540, 27th, ORDINAL|Lekki, LOC
 10541, Ogunmuyiwa, PER
 10542, one, CARDINAL|Bobrisky, PER
-10543, Nigerians, NORP
 10544, Nigeria, LOC|National Bureau Of Statistics, ORG
 10546, Nigeria, LOC|Cameroon, LOC
-10547, Nigeria, LOC|0.06, CARDINAL|the last month, DATE|the National Bureau of Statistics, ORG|Tuesday, DATE
+10547, Nigeria, LOC|the last month, DATE|the National Bureau of Statistics, ORG|Tuesday, DATE
 10548, July, DATE|August, DATE
 10549, NBS, ORG|August, DATE
 10550, the previous month, DATE
 10551, August, DATE
-10553, month, DATE|1.22%, PERCENT|August 2019, DATE|July 2019, DATE
+10553, month, DATE|August 2019, DATE|July 2019, DATE
 10554, Boris Johnson Wins, PER
 10555, Labour Party, ORG|1935, DATE
 10556, Boris Johnson, PER
@@ -6320,7 +6271,7 @@
 10576, CJN, ORG|AGF, ORG
 10577, Abuja, LOC|the Federal High Court, ORG|Lagos, LOC|the Lagos State Environmental Task Force, ORG
 10578, the National Assembly, ORG
-10579, 2, CARDINAL|DSS, ORG|December 6, 2019, DATE
+10579, DSS, ORG|December 6, 2019, DATE
 10580, the National Assembly, ORG|DSS, ORG
 10581, DSS, ORG
 10582, Lagos State, LOC|Lagos, LOC
@@ -6338,7 +6289,7 @@
 10595, Tuesday, DATE|the Independent National Electoral Commission, ORG|Wike, PER|the Peoples Democratic Party, ORG|Biokpomabo Awara, PER|the African Action Congress, ORG
 10597, Wednesday, DATE
 10598, Degema Local Government, LOC|Awara, PER
-10599, Asari-Toru Local Government, LOC|Awara, PER|18,945, CARDINAL
+10599, Asari-Toru Local Government, LOC|Awara, PER
 10600, Ogo/Bolo Local Government, LOC|Awara, PER
 10601, the day, DATE|Obio/Akpor Local Government, LOC|Awara, PER
 10602, Wike, PER|Awara, PER
@@ -6356,7 +6307,7 @@
 10617, Malami, LOC
 10618, Boluwatife, PER
 10619, Saturday, November 16, 2019, DATE
-10620, 48, CARDINAL|2019/2020, DATE|Adegbenro Adebanjo, PER
+10620, 2019/2020, DATE|Adegbenro Adebanjo, PER
 10621, Edo, LOC
 10622, Philip Shuaibu, PER|about one hour ago, DATE
 10623, Mohammed Adamu, PER
@@ -6371,21 +6322,21 @@
 10634, September, DATE|October, DATE
 10635, Nigeria, LOC|the National Bureau of Statistics, ORG
 10636, September, DATE|October, DATE
-10637, October 2019, DATE|0.03, CARDINAL|September 2019, DATE
+10637, October 2019, DATE|September 2019, DATE
 10638, the 12 months period ending October 2019, DATE|the previous 12 months, DATE|September 2019, DATE
-10639, October 2019, DATE|11.78 per cent, MONEY|September 2019, DATE|11.07 per cent, MONEY|October 2019, DATE|September 2019, DATE
-10642, Anwar, PER|Abdullahi Ganduje, PER|Kano State, ORG|1,500, CARDINAL|Sunday, DATE
-10643, Saturday, DATE|Anwar, PER|1,500, CARDINAL|44, CARDINAL
+10639, October 2019, DATE|September 2019, DATE|October 2019, DATE|September 2019, DATE
+10642, Anwar, PER|Abdullahi Ganduje, PER|Kano State, ORG|Sunday, DATE
+10643, Saturday, DATE|Anwar, PER
 10644, Anwar, PER
 10649, Anwar, PER
-10650, 2018, DATE|23, CARDINAL|Sani Zaharaddeen, PER
+10650, 2018, DATE|Sani Zaharaddeen, PER
 10651, Nigeria, LOC
-10652, August 2019, DATE|11.43 percent, PERCENT|July 2019, DATE|August 2019, DATE
+10652, August 2019, DATE|July 2019, DATE|August 2019, DATE
 10653, the National Bureau of Statistics, ORG|Tuesday, DATE|Nigeria, LOC|August 2019, DATE
-10655, August 2019, DATE|Kano, LOC|Adamawa, LOC|15.95%, PERCENT|Bayelsa, LOC|Katsina, LOC|Kogi, LOC
+10655, August 2019, DATE|Kano, LOC|Adamawa, LOC|Bayelsa, LOC|Katsina, LOC|Kogi, LOC
 10657, August 2019, DATE|Kano, LOC|Bauchi, LOC|Cross River, LOC|Delta, LOC|Kwara, LOC
-10658, six, CARDINAL|11.08 percent, PERCENT|July, DATE|11.02 percent, PERCENT|August, DATE
-10659, NBS, ORG|13.17 percent, PERCENT|August, DATE|13.39 percent, PERCENT|July, DATE
+10658, July, DATE|August, DATE
+10659, NBS, ORG|August, DATE|13.39 percent, PERCENT|July, DATE
 10660, August, DATE|July, DATE
 10661, August 2019, DATE|July 2019, DATE|August 2019, DATE|July 2019, DATE
 10663, Oke-Osanyintolu, PER
@@ -6407,48 +6358,48 @@
 10684, The Independent National Electoral Commission, ORG|44, CARDINAL|March 9, DATE|Adamawa State, LOC
 10686, the Independent National Electoral Commission, ORG|Rivers State, LOC|March 9, DATE
 10687, Buhari, PER
-10688, SaharaReporters, ORG|Eagle Square, FAC|Abuja, LOC|second, ORDINAL|Muhammadu Buhari, PER|Yemi Osinbajo, PER
+10688, Eagle Square, FAC|Abuja, LOC|Muhammadu Buhari, PER|Yemi Osinbajo, PER
 10689, Muhammadu Buhari, PER
 10691, Aisha Buhari, PER|Muhammadu Buhari, PER|Muhammadu Buhari, PER
 10692, Muhammadu Buhari, PER
 10693, CJN, ORG
 10694, Yemi Osinbajo, PER
 10696, The Independent National Electoral Commission, ORG|the Adamawa State, LOC|Adamawa State, LOC
-10697, Barcelona, LOC|Juventus, ORG|Misery Continues, FAC
+10697, Barcelona, LOC|Juventus, ORG
 10699, Saturday, DATE|Nigeria, LOC
 10701, Sadio Mane, PER|Roberto Firmino, PER|Jurgen Klopp', PER|Wilfried Zaha, PER|late in the second half., TIME
-10702, England, LOC|Leicester City, LOC|Nigeria, LOC|Wilfred Ndidi, PER|Brighton & Hove Albion, ORG|2, CARDINAL|Ayoze Perez, PER|Jamie Vardy, PER
+10702, England, LOC|Leicester City, LOC|Nigeria, LOC|Wilfred Ndidi, PER|Brighton & Hove Albion, ORG|Ayoze Perez, PER|Jamie Vardy, PER
 10703, Arsenal Football Club, ORG|London, LOC|Saturday, DATE|Southampton, LOC
 10705, Alexandre Lacazette, PER
-10706, Emery, PER|Arsene Wenger, PER)|last season, DATE
+10706, Emery, PER|Arsene Wenger, PER|last season, DATE
 10707, Spain, LOC|Italy, LOC|Barcelona, LOC|Juventus, ORG|Laganes, ORG|Atalanta, ORG
-10708, Luis Suarez, PER|Arturo Vidal, PER|Barcelona, ORG|2, CARDINAL|Gonzalo Higuain, PER|Paulo Dybala, PER
+10708, Luis Suarez, PER|Arturo Vidal, PER|Barcelona, ORG|Gonzalo Higuain, PER|Paulo Dybala, PER
 10709, Europe, LOC|Saturday, DATE|between Tuesday and Thursday, DATE
-10710, Magu, PER)
-10711, Magu, PER)
-10712, the Economic and Financial Crimes Commission, ORG|Ibrahim Magu, PER)|National Youth Service Corps, ORG
+10710, Magu, PER
+10711, Magu, PER
+10712, the Economic and Financial Crimes Commission, ORG|Ibrahim Magu, PER|National Youth Service Corps, ORG
 10713, Tuesday, DATE|the Lagos State NYSC Orientation, FAC|Iyana Ipaja, LOC
-10714, Dolapo Adeniran, PER|Magu, PER)
-10716, SaharaReporters, ORG|Tuesday, DATE|Yusuf, PER
-10717, Adewale Yusuf, PER|Nigerians, NORP|SaharaReporters, ORG|only two, CARDINAL
+10714, Dolapo Adeniran, PER|Magu, PER
+10716, Tuesday, DATE|Yusuf, PER
+10717, Adewale Yusuf, PER
 10719, last weekend, DATE|Nigerians, NORP
-10720, SaharaReporters, ORG|Tuesday, DATE|Yusuf, PER
+10720, Tuesday, DATE|Yusuf, PER
 10725, the end of the day, DATE
 10726, Yusuf, PER|SaharaReporters, ORG
 10727, Ibadan, LOC|that day, DATE
-10732, Mercy Eke, PER|26, CARDINAL|Saturday, DATE|first, ORDINAL
+10732, Mercy Eke, PER|Saturday, DATE
 10733, Mike, PER|Dubai, LOC
 10734, Frodd, PER|Omatshola, PER|Seyi Awolowo, PER
 10740, Uwa Suleman, PER|the year 2000, DATE
 10741, Sanya Oni, PER
 10742, August this year, DATE|Pantami, PER|National Information Technology Development Agency, ORG|Association of Licensed Telecoms Operators of Nigeria, ORG|the Association of Telecoms Companies of Nigeria, ORG
-10743, Uwa, PER|half, CARDINAL|South Africa, LOC
+10743, Uwa, PER|South Africa, LOC
 10744, South Africa, LOC|Nigeria, LOC
 10745, India, LOC
 10746, Idi Amin, PER
 10747, India, LOC
 10748, Uwa, PER|South Africa, LOC
-10749, South Africa, LOC|three, CARDINAL|50 per cent, MONEY|Nigeria, LOC|Nigeria, LOC
+10749, South Africa, LOC|Nigeria, LOC|Nigeria, LOC
 10750, Pantami, PER|Nigeria, LOC|South Africa, LOC
 10751, South Africa, LOC|South Africa Competition Regulatory Authority, ORG|the Independent Communications Authority of South Africa, ORG
 10756, Some years ago, DATE|NCC, ORG|MNO, ORG
@@ -6463,7 +6414,7 @@
 10769, Idi Amin, PER
 10770, India, LOC
 10771, Uwa, PER|South Africa, LOC
-10772, South Africa, LOC|three, CARDINAL|50 per cent, MONEY|Nigeria, LOC|Nigeria, LOC
+10772, South Africa, LOC|Nigeria, LOC|Nigeria, LOC
 10773, Pantami, PER|Nigeria, LOC|South Africa, LOC
 10774, South Africa, LOC|South Africa Competition Regulatory Authority, ORG|the Independent Communications Authority of South Africa, ORG
 10779, Some years ago, DATE|NCC, ORG|MNO, ORG|N1trn, LAW
@@ -6490,20 +6441,20 @@
 10825, Real Madrid, ORG|Chelsea, ORG|Manchester United, LOC|Mauricio Pochettino, PER|Tuesday, DATE
 10826, Jose Mourinho, PER|Tottenham Hotspurs, ORG
 10827, Real Madrid, ORG|Chelsea, ORG|Manchester United, LOC|Mauricio Pochettino, PER|Tuesday, DATE
-10828, English, NORP|the 2019/2020 season, DATE|second, ORDINAL|May, DATE|November 20, 2019, DATE
+10828, English, NORP|the 2019/2020 season, DATE|May, DATE|November 20, 2019, DATE
 10829, Jose Mourinho, PER
 10831, Mourinho, PER
 10834, West Ham, ORG|this weekend, DATE|Mourinho, PER
 10835, Don Jazzy, PER
 10836, Nigeria, LOC|today, DATE
 10837, Don Jazzy, PER|Nigeria, LOC
-10838, Thursday, DATE|Nigerians, NORP
+10838, Thursday, DATE
 10839, Nigeria, LOC|today, DATE
 10845, Ibrahim Adeyemi, PER
 10846, Aisha, PER
 10849, Aisha, PER
 10851, Aisha Omolola, PER
-10854, Aisha Omolola, PER|300, CARDINAL|Ahmadu Bello University, ORG|Zaria, LOC|Samaru, LOC|Kaduna State, LOC
+10854, Aisha Omolola, PER|Ahmadu Bello University, ORG|Zaria, LOC|Samaru, LOC|Kaduna State, LOC
 10867, Collins, PER|Maryam Olayemi, PER
 10871, ABU, ORG|Nigerians, NORP
 10873, Aisha, PER
@@ -6525,10 +6476,10 @@
 10894, Maryam Salami, PER|Aisha, PER
 10908, Aisha, PER
 10909, Salami, PER
-10911, Thursday, DATE|evening, DATE|the Federal High Court, ORG|Abuja, LOC|third, ORDINAL
+10911, Thursday, DATE|evening, DATE|the Federal High Court, ORG|Abuja, LOC
 10912, Omoyele Sowore, PER|more than three months, DATE|the Department of State Services, ORG|Lagos, LOC
 10913, the Nigerian Government, ORG
-10914, Thursday, DATE|evening, DATE|the Federal High Court, ORG|Abuja, LOC|third, ORDINAL
+10914, Thursday, DATE|evening, DATE|the Federal High Court, ORG|Abuja, LOC
 10915, Friday, DATE
 10916, The Nigerian Government, ORG|Muhammadu Buhari, PER
 10918, Lagos, LOC|Thursday, DATE
@@ -6550,7 +6501,7 @@
 10948, Onitsha, LOC|Moghalu, PER|today, DATE
 10949, Onitsha, LOC
 10951, Moghalu, PER|South East, LOC|NIWA, ORG
-10953, Nigerians, NORP|Guardian, ORG|2014, DATE
+10953, Guardian, ORG|2014, DATE
 10954, this year, DATE|NCC, ORG
 10955, NCC, ORG|July 23, 2019, DATE
 10956, Umar Danbatta, PER
@@ -6566,13 +6517,13 @@
 10975, ALTON, ORG
 10976, September, DATE
 10977, September, DATE
-10986, October 23, CARDINAL
-10989, first, ORDINAL|late 2020 to early 2021, DATE
+10986, October 23, DATE
+10989, late 2020 to early 2021, DATE
 10990, the late 2020, DATE
 10993, early 2020, DATE|2021, DATE
 10994, Saturday 21st of May 2016, DATE|The Great Hall, FAC|Kensington, LOC|London, LOC|Africa, LOC|Europe, LOC|Commonwealth, ORG
 10996, Aisha Buhari, PER
-10997, three, CARDINAL|Umahi, PER|Zamfara, LOC|Yari, PER
+10997, Umahi, PER|Zamfara, LOC|Yari, PER
 10999, Abike Dabiri-Erewa, PER
 11000, Sam, PER|Tola Onigbanjo, PER|Buhari, PER|Africa, LOC
 11001, George “Gaffe” Bush, PER
