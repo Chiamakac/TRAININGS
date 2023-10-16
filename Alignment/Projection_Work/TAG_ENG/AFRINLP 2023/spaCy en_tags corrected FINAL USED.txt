@@ -5596,7 +5596,7 @@
 9345, January 15, 1966, DATE
 9346, July 6, 1967, DATE
 9347, January 15, 1970, DATE
-9348, May 27, DATE|Yakubu Gowon, PER|Nigeria, LOC|1966 to 1975, DATE|the Eastern Region of Nigeria, LOC|Ojukwu, PER|Nigeria
+9348, May 27, DATE|Yakubu Gowon, PER|Nigeria, LOC|1966 to 1975, DATE|the Eastern Region of Nigeria, LOC|Ojukwu, PER|Nigeria, LOC
 9349, Nigeria, LOC|Ojukwu, PER
 9350, Gowon, PER|Nigeria, LOC|Nigerian, NORP
 9351, Nigeria, LOC
