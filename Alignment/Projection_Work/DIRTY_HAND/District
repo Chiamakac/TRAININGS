@@ -1,673 +1,1964 @@
-Aba
-North
-South
-Arochukwu
-Bende
-Ikwuano
-Isiala
-Ngwa
-Isukwuato
-Obioma
-Ohafia
-Osisioma
-Ugwunagbo
-Ukwa
-East
-West
-Umunneochi
-Demsa
-Fufure
-Ganye
-Girei
-Gombi
-Guyuk
-Hong
-Jada
-Lamurde
-Madagali
-Maiha
-Mayo
-Belwa
-Michika
-Mubi
-Numan
-Shelleng
-Song
-Toungo
-Yola
-Abak
-Eastern
-Obolo
-Eket
-Esit
-Essien
-Udim
-Etim
-Ekpo
-Etinan
-Ibeno
-Ibesikpo
-Asutan
-Ibiono
-Ibom
-Ika
-Ikono
-Ikot
-Abasi
-Ekpene
-Ini
-Itu
-Mbo
-Nsit
-Atai
-Ubium
-Obot
-Akara
-Okobo
-Onna
-Oron
-Oruk
-Anam
-Udung
-Uko
-Ukanafun
-Uruan
-Urue-Offong/Oruko
-Uyo
-Aguata
-Anambra
-Anaocha
-Awka
-Ayamelum
-Dunukofia
-Ekwusigo
-Idemili
-Ihiala
-Njikoka
-Nnewi
-Ogbaru
-Orumba
-Oyi
-Alkaleri
-Bauchi
-Bogoro
-Dambam
+Ilawe
+Bunza
+Obagun
+Ancha
+Ezimba
+Bata-Garawa
+Umualumaku/Umuihim
+Effiat
+Makoda
+Ikpeshi-Egbegbere/Atje
+Mara
+Billiri-tangale
+Mbila
+Mgbirichi
+Rigasa
+Asanting
+Awha Ndiagu
+Boje
+Ogboji
+Sagbama
+Gulak
+Awain
+Pategi
+Oporoma
+Itu Mbonuso
+Ibiono (Southern)
+Kadaru
+Batsari
+Pindiga
+Afaha Clan
+Enhwe
+Dakin Gari
+Ogwuama/Amuzi
+Eastern Yala
+Alege
+Ituku
+Ohekelem/Nnorie
+Nung-Ukem
+Sabon Sarki
+Kabo
+Igieduma
+Rafin Zuru
+Adoru
+Okpuno
+Okporo Ahaba
+Onicha
+Umuoma
+Nwari-Agwa
+Nneato
+Ilobu
+Dandume
+Ajalli
+Umuen-Welum
+Isu-Njaba
+Kwassu
+Rikoto
+Geshere
+Kamo
+Shanga
+Sule Tankar-Kar
+Makarfi
+Bille
+Igbo-Ukwu
+Mashi
+Ikoro
+Mbulo
+Oglewu
+Ebelle
+Shorov
+Ichama
+Gwanara
+Eket Offing Clan
+Osokom
+Osopong
+Ucha
+Gezawa
+Igbudu
+Egge-Egde
+Edem
+Amakwo Oghe
+Njiriv
+Ogbaku
+Nkalagu
+Edemaya
+Ikang South
+Malete
+Ipu-South
+Obio Akpa
+Bajoga
+Ozubulu
+Gombe abba
+Anchau
+Amere
+Uruk
+Ijesa-Isu
+Nkpolo
+Ebe
+Ikpe Annang
+Mbosi
+Enugwu-Agidi
+Ajaokuta
+Egup-Ipa
+Edda
+Akpu
+Nara
+Kwanji
+Umu-Uzu
+Avu/Umuguma
+Bedi
+Yautare
+Aguobu-Umumba
+Adaba
+Atimbo (West)
+Eghwu
+Uzuakoli
+Lafiagi
+Kakanda
+Itumbauzo
+Utanga
+Okwudor
+Ikwuo-Rieator
+Agbon
+Eghoro
+Ubium North
+Ebedei
+Ingawa
+North Oban-Liku
+Gora
+Sade
+Iguoba-Zuwa
+Kambaza
+Lade
+Mbiafun
+Bula
+Ajere
+Madara
+Bakuwai
+Ntueke
+Ogba-Kuba
+Igumale
+Isi South
+Iboku
+Ile-Ire
+Afaha
+Ndufu-Achara
+Atimbo (East)
+Isingwu
+Aviele
+Amavo
+Onogbokor
+Bennin River
+Ise/Orun
+Igabi
+Iyede
+Ayegbaju
+Iheaka
+Azumini
+Orji Aut
+Southern Afaha
+Sakwa
 Darazo
-Dass
-Gadau
-Gamawa
+Umuoga-Hara
+Shanono
+Uhuna Owerre
+Gombe (Rural)
+Amanyam
+Nnen-wenta
+Oghede
+Umuleri
+Mbagba
+Song
+Ameatiti
+Amudo
+Ofunama
+Mputu
+Nkpor
+Utange
+Madagali
+Effurun Otor
+Nzam
+Kimba
+Nise
+Azuzuahia-Eziudo
+Akufo/Idigba/ Araromi
+Umua Laoma
+Mai-Adua
+Edumoga
+Southern Ukanafun
+Auchi
+Utur
+Akwaihedi
+Ndot
+Diogbe
+Ama-Asa
+Okolochi/Eziobodo
+Igbide
+Ibiaku
+Affa
+Kiru
+Shani
+Gwiwa
+Abor (rural)
+Dogon Dawa
+Orin-Ekiti
+Ifite Ogwari
+Nguru Nwankwo
+Mgboko-Out-Ngwa
+Isu Amawu
+Iguoshodin
+Birnin Yauri
+Daura
+Ofekata ll
+Akagbe -Ugwsu
+Obike
+Eziawa
+Midim
+Obollo-Eke
+Uzea
+Odukpani (West)
+Lala
+Auno
+Tilden Fulani
+Zungur
+Umuawulu
+Ebenebe
+Mgbee
+Obib-Ezena
+Mbiabong II
+Umuezeaka Ogbo
+Afaha Okpo
+Mgbelle
+Kamba
+Oshiri
+Emede
+Nimo
+Ozoro
+Kajuru
+Ogwa
+Isiagu
+Akpodim
+Shangev-Ya
+Obioma
+Lailaba
+Akuma-Imo
+Orogun
+Ugbawka
+Odoro Ikpe
+Ubang-Hara
+Ojor
+Umaza
+Ozalla
+Itchi
+Ute-Obgute-Eje
+Oroma Etiti
+Kiri-Kasamma
+Egbelu/Obube
+Mapeo
+Uokha
+Koma
+Egughu
+Etim-Ekpuitumo
+Omupo
+Ankpa
+Abuochiche
+Ikpe/Ikot
+Isgogo/Dago
+Kwoi
+Ohoba
+Enugu-Otu
+Nando
+Mbayongo
+Vulpi
+Abacha
+Jere
+Kara
+Taligan (Magamiya)
+Nnebu-Kwu
+Takai
+Southern Uruan
+Ukwong
+Kazaure
+Daware
+Obohia
+Ezi-Orsu
+Umunachi
+Uba-Kala
+Obudu (Rural)
+Rauta
+Agatu
+Mgbowo
+Umuobom
+Ikpa Ibom
+Hunkuyi
+Umulolo
+Shan-Gevtie
+Lejja
+Nguru-Nweke
+Adani
+Gwarzo
+Zangon Kataf
+Ipu-West
 Ganjuwa
-Giade
-Jama'are
-Katagum
-Kirfi
-Misau
-Ningi
-Shira
-Tafawa
-Balewa
-Toro
+Oriuozor
+Agbo
+Mbasaan
+Akabor
+Oso-Okwa
+Dawaki
+Ugbuenu
+Nkomoro
+Umumba-Ndiagu
+Umueze ii
+Oforola
+Ito Clan
+Obuno
+West Itam
+Nachi
+Echia-Like
+Aisegbe Ekiti
+Amauzari
+Equare-Ewatto
+Ibiono III
+Ihiagwa
+Mayo Lamja
+Nomeh
+Mozum
+Uguri
+Damboa
+Gaambe-Ya
+Odekpe
+Udo
+Rimin Gado
+Southern Etung
+Afrike
+Osi
+Nibo
+Bali
+Ikwueke
+Abawyum
+Ogbia
+Abraka
+Nike
+Ibeku
+Umuaga
+Ayede
+Awgunta
+Maiga
+Ovu-Okwu
+Ikeja
+Ankwa
+Oboro
+Ibesikpo
+Udunedem
+Nkwerre
+Daktsi
+Itas
+Amainyi
+Michika
+Ikpa Nung Asang
+Otan-Chara
+Owukpa
+Ayegunle-Ekiti
+Ogbeson
+AmaEzekwe
+Ugwuna-Gbo
+Ekajuk
+Mobu (Ruru)
+Egbeoma
+Gayam
+Ya biri
+Mbatierev
+Guzamala
+Ladduga
+Okija
+Abak Urban
+Dumna
+Ikolo
+Nkporo
+Toumo
+Amechi Idodo
+Unguwar Baki
+Ihechiowa
+Ubodung
+Tsonjei
+Ndiya
+Igbariam
+Madobi
+Akumazi
+Umeh / Erohwa
+Dabai
+Mbiabon G. I.
+Nsukka (Rural)
+Effium
+Owagia Eziudo
+Kulani
+Orsu Ihite-Ukwu
+Nkem
+Abak /Midim
+Unguwan Rimi (Zantarakpat)
+Yagba South-east
+Garko
+Fagge/Waje
+Kurmin Bi
+Monguno
+Oban
+Umue-Ezeoka
+Utugwang
+Nok/New Nok
+Ibighi
+Kuka
+Ado Ekiti
 Warji
-Zaki
+Swa
+Amaitoli
+Isiala Nvosi
+Aro-Ngwa
+Aramoko
+Umun-Akanu
+Ikpanya
+Gwandum
+Mbula
+Dass
+Nanev
+Ringim
+Mbatiav
+Ikere - Ekiti (Rural)
+Ogodu
+Eika
+Odeyyi
+Giwa/Shika
+Mbiri
+Burak
+Ovoko
+Isiekenesi
+Administrative capital
+Nnobi
+Obeledu
+Nsokara
+Okpanam / Ugbolu
+Awkuzu
+Okengwen
+Kwaya Kusar
+Chawai
+Agba
+Kakumo-Anyanran
+Abadam
+Erei
+Aboh
+Ziturung
+North Akoko
+Eziokpor
+Uzoagba
+Igga
+Amuda
+Kuliyi
+Tarakiri
+Nkalagu / Obukpa
+Bafoi Gora (Kanai Bafoi)
+Offa
+Ikot Naka-Nda
+Ogotun
+Mayo Farang
+Obodo-Ujichi
+Mbatie
+Udi
+Ntu
+Amakoha
+Ekpen Yongatai Clan
+Kukum Daji
+Awka-Ifite
+Ogidi (Rural)
+Lanwa
+Adazi-Ani
+Jalam
+Godogodo
+Zango
+Sabiyel
+Enyibichiri-Alike
+Nkpa
+Igue
+Shomolu
+Shonga
+Odo Owo
+Okpekpe
+Dala- Waja
+Bende
+Sugu
+Umu-Itodo
+Gwalawo
+Giro
+Nkwelle
+Umueze-Koha
+Adoka
+Awgu
+Dukul
+Nawfija
+Owheru
+Ukpo
+Ezzamgbo
+Tama
+EKWE
+Aguleri
+Kagarko
+Kachia
+Ikot Edem Odo
+Imilike
+Gerie
+Mbagwen
+Shira
+Ugbo-Rodo
+Osu-Ama
+Emekuku
+Abaomege
+Agbudu
+Northern Afaha
+Mazaki (Gidan Zaki)
+Umuoji
+Ozara
+Obukpa
+Uvuru
+Fadan Ninzo
+Leko
+Dutse (Rural)
+Tongov
+Abagana
+Igarra/East Akoko
+Kini
+Katsina (Rural)
+Umuneba
+Nawfia
+Lanzai
+Reme
+Augie
+Umuoha
+Ukana
+Aibiokunla
+Garaji
+Ozuzu
+Kazage
+Okupu-Umuobo
+Bajama
+Abayi
+Eastern Boki
+Tsaragi
+Abbi
+Garki
+Isseke
+Ikpa Ibekwe
+Abor
+Itobe
+Okoyong (South)
+Ipav
+Ugboji
+Miango
+Uli
+Kangun
+Alike-Obowu
+Oko-Ola
+Anuka
+Nkwesi
+Amahor
+Akokwa
+Nkpologwu
+Imesi Ekiti
+Onog-Holo
+Ngwa
+Eziagu
+Ibrede
+Obelagu-Umana
+ogor
+Agama
+Talasse
+Amasa-Ntigha
+Okpai
+Oyofo
+East Itam
+Kusada
+Ovukwu Abam
+Isiokolo
+Ezinifite
+Kajola
+Jara
+Nawgu
+Irhue
+Ndiok-Paleze
+Marsa
+Ikao
+Manchok
+Umu-Menyi
+Shelleng
+Amo
+Otulu/Aguneze
+Ode Ekiti
+Okuta
+Kubau
+Bazza
+Inyere
+Sumaila
+Ikwato Idembia
+Ningi
+Kola
+Umuolu
+Lafiya
+Riba
+Akuke
+Lokoja Rural
+Lassa
+oyede
+Mbaduku
+Nneto Nwaefor
+Enyio-Gugu
+Kiyawa
+Ikang North
+Amaise-Ahaba
+Gbara-Matu
+Amagunze
+Amawbia
+Oguli
+Zankan
+Owerre-Nkw-Orji
+Dogonjeji
+Ikot Abia
+Ajigin
+Nung Ita
+Dar-eljamal
+Osina
+Ute
+Agbogugu
+Amurie-Amanze
+Bahuli
+Gakem
+Mbaka-Ange
+Gyawana
+Amaeke Abam
+Umuigbube-Achara North
+Kagoma/Asso
+Gumsu
+Mbaterem
+Eziawo ll
+Ihube
+Nkerefi
+Ihitte Afor
+Igbaja
+Olomoro
+Amaok-Para
+Ihe
+Amaigbo
+Gwaram
+Isiokpo
+Kudan
+Ezianam
+Enugwu-Ukwu
+Umuhu-Ezechi
+Ndiaka
+Guri
+Ipu-East
+Ibere
+Tungo
+Mayo Bani
+Kibori
+Gamu
+Eha-Ndiagu
+Asaba
+Amazu
+Sarau
+Asutan Epe
+Ikem
+Kauran Waki
+Umukwata
+Mgbakwu
+Okporo
+Yiri
+Kabba
+Ikono South
+Galambi
+Kaiama
+Obe
+Adazi-Enu
+Kanembu
+Ibeme
+Otuo
+Kusuv
+Gwoza
+Umunwoha
+Enjema
+Hatteh
+Makurdi (Rural)
+Utu Etim
+Ife
+Oria
+Matuak
+Fadiya
+Iheakpu-Awka
+Ndieze
+Ekwulobia
+Seimibiri
+Ngaski
+Ilorin (rural)
+Bodwai
+Enugu-Umuonyia
+Itu
+Eleh
+Dogon Kurmin
+Idofin
+Lame
+Odu
+Ozui-Tem
+Ofombo-Ngha
+Amuzu
+Ossissa
+Gagarawa
+Amaryawa
+Akatta
+Kenyi
+Amaruru/Ebenasaa
+Itreto Clan
+Ode Itsekiri
+Obibi-Ochasi
+Ora
+Umueji
+Tudun Wada
+Igbakwu
+Ihiala
+Ogudo-Asa
+Igbere
+Ijero-Ekiti
+Mbagen
+Ikotun
+Waduku
+Umagbae South
+Agbaja
+Faskari
+Bakta
+Gadau
+Ozar West
+Amangwu Ohafia
+Anara
+Umuozu
+Akoku
+Idumuje
+Ulayi
+Guyuk
+Nung Ndem Clan
+Oka
+Ikwu-Orie
+Ugwu-Nagbo
+Adiai
+Ehime
+Danja
+Jesse
+Osso-Mala
+Nrobo
+Ankung
+Ama-Asato
+Achalla
+Turan
+Ivbi-Mion
+Kamuru
+Ezira
+South Ukele
+Aji
+Ndiagu-Achara
+Tsanyawa
+Erinjiyan
+Abet
+Obunofia-Ndiagu
+Baule
+Udubo
+Uwokwu
+Okpo
+Dugwamba
+Obosi (Rural)
+Ojoku
+Jahun
+Amansea
+Uga
+Okutu
+Doguwa
+Ifaki
+Misau
+Ihievbe
+Agba-Umana
+Eziachi
+Opoji
+Atani
+Amanuke
+Iba
+Jaggu
+Egbe-Ekiti
+Umuebu
+Otanzu
+Kibiya
+Danko
+Old Umu-Ahia
+Owhe
+Osu-Owerre
+Umunw-Agu
+Lago
+Umuowa
+Kabam
+Gboko (Rural)
+Kajim
+Ona-Ohafia
+Umuihu Eze 13
+Obot Akara
+Igbo
+Ukpata
+Wange
+Akpulu
+Umeh
+Amorka
+Umuogudu Oshia
+Ibiono I
+Obiarumu
+Owerre-Ebeiri
+Gunkok
+Utuh
+South Ibie
+Ibiono II
+Mbaugwu
+Isuochi
+Isu
+Mbagbera
+Okiuso
+Arochukwu
+Egguoma
+Ohakpu
+Yebbi
+Neke
+Hong
+Atuku
+Okpanku
+Muchalla
+Ogume
+Ndifu-Alike
+Ichida
+Onyohor
+Umuno-Ugba
+Roni
+Kishika
+Filiya
+Obizi
+Kumo
+Soye
+Matazu
+Ndikeli-Onwu
+Akarai
+Ikole
+Ogbahu
+B/kaltin
+Gurin
+Oduna
+Ndeaboh
+Akuku/Ewan
+Tari
+Anchuna
+Uruan Central
+Mayo-Inne
+Uvwie
+Egayin
+Awha Imezi
+Jada
+Umuhu-Okabia
+Awo Idemili
+Alayi
+Kosofe
+Mbaawa
+Abuke
+Amaifeke
+Obunofia-Ndiuno
+Idah
+Kyuran-Tev
+Bayawa
+Ukehe
+Paki
+Eziagulu-Otu
+Ogbodu- Aba
+Ifite Anam
+Abara-Uno
+Ofunm-Wengbe
+Ijan Ekiti
+Nanka
+Umudim
+Amaokpala
+Orlu (Rural)
+Refele
+Mbiaso Clan
+Ebughu
+Kaga
+Umuzike
 Brass
 Ekeremor
-Kolokuma/Opokuma
-Nembe
-Ogbia
-Sagbama
-Southern
-Ijaw
-Yenagoa
-Ado
-Agatu
-Apa
-Guma
-Gwer
-Konshisha
-Kwande
-Logo
-Ukum
-Makurdi
-Obi
-Otukpo
-Ohimini
-Oju
-Okpokwu
-Tarka
-Ushongo
-Vandeikya
-Abadam
-Askira/Uba
-Bama
-Bayo
-Biu
+Mbakpa
 Chibok
-Damboa
-Dikwa
-Gubio
-Guzamala
-Gwoza
-Hawul
-Jere
-Kaga
-Kala/Balge
-Konduga
-Kukawa
-Kwaya
-Kusar
-Mafa
-Magumeri
-Marte
-Mobbar
-Monguno
-Ngala
-Nganzai
-Shani
-Abi
-Akamkpa
-Bakassi
-Bekwarra
-Boki
-Obubra
-Obudu
-Aniocha
-Bomadi
-Burutu
-Ethiope
-Isoko
-Ndokwa
-Okpe
-Oshimili
-Patani
-Sapele
-Udu
-Ughelli
-Ukwuani
-Uvwie
-Warri
-Southwest
-Afikpo
-Ebonyi
-Ezza
-Ikwo
-Ishielu
-Izzi
-Ohaozra
-Ohaukwu
-Onicha
-Akoko-Edo
-Egor
-Esan
-Central
-Etsako
-Igueben
-Ikpoba
-Okha
-Oredo
-Orhionmwon
-Ovia
-Eest
-Owan
-Uhunmwonde
-Ekiti
-Efon
-Emure
-Gbonyin
-Ido
-Osi
-Ijero
-Ikere
-Ikole
-Ilejemeje
-Irepodun/Ifelodun
-Ise/Orun
-Moba
-Oye
-Aninri
-Awgu
-Enugu
-Ezeagu
-Igbo-Etiti
-Igbo-Eze
-Isi-Uzo
-Nkanu
-Nsukka
-Oji
-River
-Udenu
-Udi
-Uzo-Uwani
-Akko
-Balanga
-Billiri
-Dukku
-Funakaye
-Gombe
-Kaltungo
-Kwami
-Nafada
-Shongom
-Yamaltu
-Deba
-Aboh
-Mbaise
-Ahiazu
-Ehime
-Mbano
-Ezinithitte
-Ideato
-Ihitte-Uboma
-Ikeduru
-Isu
-Mbaitoli
-Ngor
-Okpala
-Njaba
-Nkwere
-Nwangele
-Obowu
-Oguta
-Ohaji
-Egbema
-Okigwe
-Orlu
-Orsu
-Oru
-west
-Owerri
-Unuino
-Babura
-Birnin
-Kudu
-Buji
-Dutse
-Gagarawa
-Garki
-Gumel
-Guri
-Gwaram
-Gwiwa
-Hadejia
-Jahun
-Kafin
-Hausa
-Kaugama
-Kazaure
-Kiri
-Kasama
-Kiyawa
-Maigatari
-Mallam
-Madori
-Miga
-Ringim
-Roni
-Sule
-Tankarkar
-Taura
-Yankwashi
-Gwari
-Chikun
-Giwa
-Igabi
-Ikara
-Jaba
-Jema'a
-Kachia
-Kagarko
-Kajuru
-Kaura
-Kauru
-Kubau
-Kudan
-Lere
-Makarfi
-Sabon
-Gari
-Sanga
-Soba
-Zangon
-Kataf
-Ajingi
-Bagwai
-Bebeji
-Bichi
-Bunkure
-Dala
-Danbatta
-Dawakin
-Tofa
-Doguwa
-Fagge
-Gabasawa
-Garko
-Garun
-Gaya
-Gezawa
-Gwarzo
-Kabo
-Karaye
-Kibiya
-Kiru
-Kumbotso
-Kunchi
-Kura
-Madobi
-Makoda
-Minjibir
-Rano
-Rimin
-Gado
-Rogo
-Shanono
-Sumaila
-Takai
-Tarauni
-Tsanyawa
-Tudun
-Wada
-Ungogo
-Warawa
-Wudil
-Bakori
-Batagarawa
-Batsari
-Baure
-Bindawa
-Charanchi
-Dan
-Musa
-Dandume
-Danja
-Daura
-Dutsi
-Dutsin-Ma
-Faskari
-Funtua
-Ingawa
-Jibiya
-Kafur
-Kaita
-Kankara
-Kankia
-Katsina
-Kurfi
-Kusada
-Mai-Adua
-Malumfashi
-Mani
-Mashi
-Matazu
-Musawa
-Rimi
-Sabuwa
-Safana
-Sandamu
-Zango
-Aleiro
-Arewa
-Dandi
-Argungu
-Augie
+Umutu
+Rahama
+Nikoro-Gha
+Bondong
+Emevor
+Afaha Obong
+Sapele Rural/Amukpe
+Ngogu/Ikem Bala
+Jessu
+Umuomaku
+Utuoko
+Umueshi
+Kungi
+Ranna
+Umuosu
 Bagudo
-Kebbi
-Bunza
-Danko-Wasagu
-Fakai
-Gwandu
-Jega
-Kalgo
-Koko-Besse
-Maiyama
-Ngaski
+Gwantu
+Akakana
+Fatika
+Okom
+Amechi
+Bangu
+Amansi-Odo
+Otolokpo
+Oro
+District
+Ibagwa-Ani
+Umuo-Kirika
+Kushe
+Otuocha
+Dadinkowa
+Eziowelle
+Okpella
+Amichi
+Asa South
+Sukur
+Ikenga
+Bakin Kogi
+Rishi
+Ezzagu
+Amain-Yima
+obimo
+Atta
+Takau
+Kupa
+Idomi
+Jagbe
+Ukwuagba Mgbo
+Use
+Ushongo
+Okha/Ologbo
+Nekede
+Okigwe (Rural)
+Maigatari
+fe-Oballa
+Emu
+Ikwuato
+Umuna
+Bindawa
+Ahiaba
+Umutanze
+Ezillo
+Amnator
+Isi North
+Danbatta
+Gundale
+Bakori
+Abejukolo
+Koton Karifi
+Duguri
+Abatete
+Umun-Nekwu
+Gabarin
 Sakaba
-Shanga
-Suru
-Yauri
-Zuru
-Ajaokuta
-Ankpa
-Bassa
-Dekina
-Ibaji
-Idah
-Igalamela
-Odolu
-Ijumu
-Kabba-Bunu
-Kogi
-Lokoja
-Ofu
-Ogori-Magongo
-Okehi
-Okene
-Olamaboro
-Omala
-Yagba
-Asa
-Baruten
-Edu
-Ifelodun
-Ilorin
-Irepodun
+Umunze
+Uburu
+Nkari
+Amaike
+Koko
+Okpatu
+North-East Akoko
+Oraifite
+Ukana East
+Umuihi
+Kura
+Urho-Nigbe
+Ezzodo
+Ndiu-Kwuenu
+Assa Ubirielem
+Ugwu-Eme
+Owerre-Ezukala
+Pali
+Umun-Wala
+Ovu-Ngwa
+Ugbegun
+Gabasawa
+Riga-Chikun
+Gwana
+Oleh I, II
+Zonkwa
+Rann
+Amiri
+Raha
+Kumboei
+Umun-Neise
+Awa-Izuogu
+Miga
+Oshodi/Isolo
+Illo
+Ochekwu
+Ubulu
+Igueben
+Ibiono III Central
+Okpe/Isoko
+Ugborhen
+NTA
+Mbavaa
+Fada
+Unubi
+Nteje
+Nquot
+Aboro
+Kpak
+Mallam Madori
+Ndiokolo
+Idoa
+Nsugbe
+Idumuesan
+Ibusa
+Kwaya bura
+Malabu
+Evwreni
+Ihima
+Akabo/Amatta
+Ndiokpala
+Eziama-Ikeduru
+Rano
+Emure
+Ihioma/Ebenese
+Dutsi-Ma
+Isulo
+Orowa
+Okposi Eheku
+Avutu
+Buhit
+Omoba
+Randagi
+Toro
+Ekpon
+Jama'a
+Dikenafai
+Iyin
+Eziama-Obaire
+Aka Ekpene
+Onneh
+Nwkoachara
+Ikara
+Nzue
+Ikper-Ejere
+Hanafari
+Itak
+Inyimagu
+Okada
+Naoka
+Amucha
+Naze
+Idua Clan
+Gizagwai
+Ukwulu
+Oke-Ako
+Awak
+Bebeji
+Ekka
+Mbabai
+Uhi
+Tafan
+Ribina
+Kafin Hausa
+South Uneme
+Akote
+Neni
+Ido-Ekiti
+Eket Offiong Clan
+Kakkek
+Item
+Umuero
+Nganzai
+Onicha-Ukwuani
+Ugu
+Okposhi Mgbo
+Amuzi-Obowu
+Usen
+Ngala
+Mbieri
+Ampaga
+Nkereh
+Amana
+Umuduru
+Ezere
+Musawa
+Zaranda
+Azia
+Ogugu
+Argungu (Rural)
+Awa
+Ofagbe
+Igbeagu
+Garta
+Kunchi
+Ugbene
+Ifeku
+Kpav
+Iquita
+Okhu-Essan
+Duhu
+Randa
+Akwu
+Egwe
+Agulu
+Shadalafya
+Agulu-Uzoigbo
+Amoffia Mgbo
+Sikkam
+Amoli
+Manyii Aghyui
+Ilofa/Odo-Owa
+Onyedge
+Obubra Urban
+Efon-Alaaye
+Aman-Dugba
+Nsude
+Ndiowu
+Mayir
+Danaba
+Birdu
+Obinagu
+Ture
+Omasi
+Ugwu-Langwu
+Askira
+Ogwogo
+Anaku
+Awuchi-Numo
+Lude/Nnara-Mbia
+Alokp-Anta
+Izombe
+Achi
+Nkwo-Egwu
+Egbede
+Mingev
+Magumeri
+Maiyama
+Ibesit Nung Ikot
+Bogoro
+Awgbu
+Gwandu
+Central Akoko/North
+Lere
+Kurmin Mazuga
+Udueme
+Nsukwa
+Kwami
+Obatebe
+Ikpai
+Oloru
+Daduya Hill
+Umuch-Ileze
+Amuro
+Oghara
+Ikot Ekpene Urban
+Nde
+Weppa-Wano
+Umungwa
+Ediba
+Ezinato
+Ututu
+Uhiere
+Ato-Werem
+Balanga
+Gona
+Uke
+Awon
+Ediene
+Mgbidi
+Amaumara
+Ezionum
+Onyan-Gede
+Oguu-Aniocha
+Kirfi
+Okwuato
+Iddah
+Ososo
+Akaeze
+Ayu
+Ive-Ada-Obi
+Akwaeze
+Eziama-Obiato
+Odoro Ikot
+Kafur
+Mboi
+Yola (Rural)
+Bunu
+Oshita
+Nguru Ahiato
+Ikov
+Bettee
+Mafa
+Orsu-Obodo
+Jagindi Tasha
+Ogwashi-Uku
+Ogwu-Ikpele
+Bama
+Kaltungo West
+Obinze
+Uyanga
+Umumbo
+Enugwu Aguleri
+Umunya
+Nkalaha
+Akpa
+Onicha-Uboma
+Adolor
+Obollo-Etti
+Anguwar Fari
+Yache
+Zalau
+Pakka-Vokuna
+Isu-Aniocha
+Umuerum
+Utchi
+Marte
+Fugar-Avianwu
+Umuozzi
+Ung/Sarki
+Okpe-Ijaja
+Ugang
+Alero
+Iloro Ekiti
+Ufuma
+Ikurav-Ya
+Amakohia
+Ubiohia
+Ughelli
+Ibagwa Aka
+Waltadi
+Obea-Gwe
+Bokana
+Inyi
+Katuga
+Gumel
+Ekwereazu Town
+Kpadam
+Adiasim
+Kurfi
+Ugboko
+Eziawo 1
+Banjiram
 Isin
-Kaiama
-Moro
-Offa
-Oke-Ero
-Oyun
-Pategi
-Agege
-Alimosho
-Ifako-Ijaye
-Ikeja
-Kosofe
+Azunyaba
+Operemor
+Irrua
+Aguobu-Umuaji
+Amaofuo
+Imenyi
+Ntigha Uzor
+Biu east
+Ewu
+Ogbunka
+Gelengu
+Ekpoma
+Mayo Belwa
+Achan Ika
+Umon
+Utoka
+Zaman Dabo
+Atabong
+Opi
+Ukhun
+Rimi
+Erin
+Ditera
+Abia
+Bunkure
+Uquok
+Ekwashi Mgbo
+Fakai
+Umunneise
 Mushin
-Oshodi-Isolo
-Shomolu
-Division
-Apapa
-Eti-Osa
-Lagos
-Island
-Mainland
-Surulere
-Ajeromi-Ifelodun
-Amuwo-Odofin
-Ojo
-Badagry
-Ikorodu
-Ibeju-Lekki
-Epe
-Total
-Ajeromi
-Amuwo
-Odofin
-Akwanga
-Awe
-Doma
-Karu
-Keana
-Keffi
-Kokona
-Lafia
-Nasarawa
-Eggon
-Toto
-Wamba
-Agaie
-Agwara
-Bida
-Borgu
-Bosso
-Chanchaga
-Edati
-Gbako
-Gurara
-Katcha
-Kontagora
-Lapai
-Lavun
-Magama
-Mariga
-Mashegu
-Mokwa
-Munya
-Paikoro
-Rafi
-Rijau
-Shiroro
-Suleja
-Tafa
-Wushishi
-Abeokuta
-Ado-Odo/Otta
-Ewekoro
-Ifo
-Ijebu
-Ode
-Ikenne
-Imeko
-Afon
-Obafemi
-Owode
-Odeda
-Odogbolu
-Ogun
-Waterside
-Remo
-Sagamu
-Yewa
-Akoko
-Akure
-Ese
-Odo
-Idanre
-Ifedore
-Ilaje
-Ile-Oluji/
-Okeigbo
-Irele
-Odigbo
-Okitipupa
-Ondo
-Ose
-Owo
-Aiyedade
-Aiyedire
-Atakunmosa
-Boluwaduro
-Boripe
-Ede
-Egbedore
-Ejigbo
-Ife
-Ifedayo
-Ila
-Irewole
-Isokan
-Iwo
-Obokun
-Odo-Otin
-Ola
-Oluwa
-Olorunda
-Oriade
-Orolu
-Afijio
-Akinyele
-Atiba
-Atisbo
-Egbeda
-Ibarapa
-Irepo
-Iseyin
-Itesiwaju
-Iwajowa
-Kajola
-Lagelu
-Ogbomoso
-Olorunsogo
-Orelope
-Ori
-Ire
-Oyo
-Saki
-Barkin
-Ladi
-Bokkos
-Jos
-Kanam
-Kanke
-Langtang
-Mangu
-Mikang
-Pankshin
-Qua'an
-Pan
-Riyom
-Shendam
-Wase
-Abua/Odual
-Ahoada
-Akuku
-Toru
-Andoni
-Asari
-Bonny
-Degema
-Eleme
-Emohua
-Etche
-Gokana
-Ikwerre
-Khana
-Obio/Akpor
-Ogba/Egbema/Ndoni
-Ogu/Bolo
-Okrika
+Obikwele
+Okwelle
+Gwagwada
+Eta
+Wasa
+Ngenev
+Demsa
+Ukpum Ete
+Okpoto
+Gabchiyari
+Jankasa
+Galdimari
+Isinbode-Ekiti
+Nempi
+Chikun
+Ibakesi
+Amagu
+Banarikiuso
+Ikwuorie
+Akama Oghe
+Ikangu Central
+Agbor (S)
+Otoro
+Ambel
+Ughiev-wen
+Irr I, II
+Ijumu
+Umuigbube-Achara
+Offot
+Lamurde
+Ilushi
+Tofa
+Mgboko
+Bambam
+Dekina
+Akpan-Wudele
+Nyibango
+Sandamu
+Gaa Akanbi
+Olumbanasa
+Oko-Okwe
+West - Yagba
+Ito
+Elume
+Jibin
+Okwe
+Uzairue-Jattu
+Mgboko-Amiri
+Yelli
+Ukpom Okom
+Umunumo
+Mabushi
+Ebem Ohafia
+Ekpene/Ediene
+Umuariam/Achara
+Borrong
+Binyeri
+Dukku
+Ishieke
+Uhen
+Wasagu
+Mobbar
+Oso-Akwa
+Isu-Awa
+Ekoende
+Odo-Ogun
+Omuo Ekiti (Rural)
+Kuyello
+Oghu
+Umueze I
+Papa
+Amokwe
+Oraukwu
+Uba
+Beneku
+Ezimo
+Woloji
+Tilai
+Soba
+Ase
+Uzil
+Gwmba
+Etinan Urban
+Avoara
+Akishamishi
+Ikot Nakawda (North)
+Ikirun
+Ajase
+Fadan Kaje
+Ochuche
+Bedde
+Ojuk
+Igli
+Ihite/Ogada/Oha
+Guyaku
+Gamawa
+Onuaboh
+Achina
+Asang Clan
+Ofodua (Adum)
+Gaambe-Tiev
+Utagba Ogbe
+Eziama
+Ubiaja
+olomu
+Ute-Okpu
+Amchaka
+Umuabi
+Arhavba-rien
+Agunjin-Ora
+Azigbo
+Oye
+Ohaise
+Ugwuaji
+Maganda
+Afana
+Ogulagha
+Dangoma
+Kokhuo
+Ebeagu Aut. Com.
+Hardawa
+Mgbala Ukwu
+Ogonogeji Ndiuna
+Ebu/Ukala / Illah
+Amuri
+Opara-Nadim
+Chum- Kindiyo
+Umulumgbe
+Eforo
+Uroh
+Atonkon
+Dutsi
+Onyah
+Uzere
+Gungun
+Mbakor
+Garun Malam
+Ihie
+Orokam
+Lakundum
+Samaru
+Umuchima
+Ingohov
+Amawula
+Okffia
+Avuru
+Miringa
+Malam sidi
+Okpuje
+Ugbo
+Ukpor
+Manyii
+Ewossa
+Ogori / Magongo
+Kwakhwu
+South Oban-Liku
+Umudioka
+Mayo-Kalaye
+Obiangwu/Logara
+Kaugama
+Okpui-Tumo
+Ekwegbe
+Kadarko
+Ubodung Clan
+Elelem
+Okemesi
+Obibi-Usratta
+Birnin Kebbi
+Ukana west Clan
+Ora-Eri
+Raav
+Uyiev
+Agila
+Ezz-Inyi-Magu
+Nenwe
+Zikpak
+Mifi
+Nnokwa
+Bobini
+Ajingi
+Ozar Ukwu
+Geji
+Abba
+Igbara Odo Ekiti
+Nzerem/Ikpem
+Kwall
+Owa
+Omogho
+Ikom (Rural)
+Buji
+Ohebe / Ohodo
+Kaguni
+Kirchinga
+Ichi
+Biu central
+Ngwo
+Jurara
+Yandev
+North Ukele
+Ehom
+Burra
+Gasi
+Akpakwume
+Orba
+Ilesha
+Disina
+Oweli
+Umukabai
+Ifite-Ukpo
+Unguwar Gaiya
+Ugwueke
+Inen
+Ebom
+New Netim
+Okene
+Isuofia
+Ndiuche Izuogu
+Northern Etung
+Danzomo
+Nnewi (Rural)
+Olo
+Eke
+Deba
+Umuakam/Umuago
+Kurmin Dangana
+Ofat (Adum)
+Ngor/Ihite/Umu
+Yenagoa (Rural)
+Madakiya (Batadon)
+Ugri-Ike/Okwu
+Agbaani
+Ugun
+Iduwuni
+Erinmope
+Kubacha
+Ogbor hill
+Adazi-Nnukwu
+Ujiogba
+Olo-Koro
+Ogbe
+Kpada
+Nimbo
+Chakwama
+Tauya
+Eyotong
+Mbiabo
+Torov
+Gulumba
+Ohafor Ohafia
+Etoi
+Konkiyel
+Lorji
+Ubium south
+Netin
+Gurum
+Amiyi
+Ameka
+Ala-Ukwu
+Saulawa
+Emuhu-Ali
+Mbu Amon
+Ohafor
+Asa-North
+Igbodo
+Daddara
+Afara
+Mbalagh
+Akubasisi
+Ugwo-Lawo
+Abavor
+Ubomiri
+Aujara
+Ogbor
+Northern Iman
+Obudi-Agwa
+Unpe
+Obollo
+Ikende
+Umuchu
+Ndiagu-Amagu
+Bare
+Ofutop
+Ukawu
+Otulu
+Ibiakpan/Obotim Clan
+Oluku
+Awlaw
+Utagbe-Uno
+Gubio
+Izzi Unuhu
+Igbemo
+Umunkwo
+Umunede
+Umuihu Eze 12
+Oro-ago
+Ebiya
+Egbema
+Madzi
+Abiriba
+Nsulu
+Akwa-Etiti
+Uromi
+Amai
+Okpo Clan
+Akpugeze
+Eha-Alu-Mona
+Umunoha
+Cham-mwona
+Nkaleke Echara
+Umuihueze II
+Oba
+Akagbe-Amodu
+Umue-Zeala
+Doka
+Okpofe
+Inyenlen
+Giade
+Kakangi
+Wala-longuda
+Dagauda
+Nkume
+Umugudu
+Karaya
+Hashidu
+Okuku (Obogwu)
+Amesi
+Oru Ahiara
+Chinade
+Umuo-Kanne
+Numan
+Gboloko
+Okon-Aku Ohafia
+Ngwa Ukwu
+Ibagwa - Agu
+Ganye
+Ogurugu
+Ishiagu
+Nyuwar
+Ojoto
+Ehor
+Omuaran
+Achara-Uturu
+Ekparakwa
+Sonje
+Umuaka
+Kumbotso
+Amaraku
+Lilu
+Biniki
+Obodo-Ukwu
+Maku
+Oruku
+Uya Oro
+Alor-Agu
+Nto Edino
 Omuma
-Opobo/Nkoro
-Oyigbo
-Port-Harcourt
-Tai
-Binji
-Bodinga
-Dange
-Shuni
-Gada
-Goronyo
-Gudu
-Gwadabawa
-Illela
-Isa
-Kebbe
-Kware
-Rabah
-Birni
-Shagari
-Silame
-Sokoto
-Tambuwal
-Tangaza
-Tureta
-Wamako
-Wurno
-Yabo
-Ardo
-Kola
-Bali
-Donga
-Gashaka
-Gassol
-Ibi
-Jalingo
-Karim-Lamido
-Kurmi
-Lau
-Sardauna
-Takum
-Ussa
-Wukari
-Yorro
-Zing
+Osokwa - Nvosi
+Yelwa
+Otukpo (Rural)
+Rogo
+Nkaleke Achara
+Omi Adio
+Ika Annang
+Taura
+Gidan Waya
+Mbayion
+Nbem-Ohafia
+Eha-Amufu
+Aguluezechukwu
+Odukpani (East)
+Bishini
+Sabuwa
+Dalijan
+Kpala
+Noyo-Alike
+Amapu-Ntigha
+Umuapu
+Maigana
+Umulokpa
+Babur
+Bagwai
+Okena-Logha
+Fadan Karshi
+Charanchi
+Achara-Ezza
+Western Yala
+Yonov
+Nkum
+Okon Clan
+Mani
+Danmusa
+Ibeno Clan
+Suwa
+Birnin Kudu
+Ugbelle
+Amachi
+Share
+Iyonu
+Kamurum
+Umagbae North
+Yashi Kera
+Akili Ogidi
+Ogonogeji Ndiagu
+Fadan Takad
+Nung Ikot
+Agbarha
+Ugboju
+Urohi
+Afikpo/Ehugbo
+Konduga
+Belel
+Obollo-Afor
+Awa Clan
+Kankiya
+Palama
+Owhum
+Okura Egume
+Oke-Ogun
+Sabon Gari (Rural)
+Verre
+Southern Iman
+Northern Uruan
+Iluomuba-Ekiti
+kalgo
+Iwollo Imezi
+Baure
+Birnin Gwari
+Owode
+Okoili-Ozizor
+Ntezi
+Tarauni
+Otukpa
+Mbaikyaa
+Ipoti-Ekiti
+Ugondo
+Ayadehe
+Ihitte-Nansa
+Onire
+Bangunji
+Namtara
+Amala/Alulu/Oburu
+Ogoja Urban
+Ibedeni
+Isiuwa
+Eyo Abasi
+Ekwulu-Mili
+Okpo-Gho
+Ohuru
+Wala-waja
+Obinagu / Uwani /Akpu ugo
+Zagga
+Dawo
+Tsambe
+Wahu
+Ungogo
+Umunan-Kwo
+Umuo-Para
+Aku
+Ofulko
+Otun Ekiti
+Ashaka
+Chikila
+Kushi
+Kauru
+Ogbe-Ijoh
+Ubulusiozor
+Oforachi
+Iyalla
+Ugbogue
+Nsu
+Urum
+Avuvu
+Imani
+Jega
+Jama'are
+Mbube
+Libbo Dutse
+Okpe
+Malagum (Zali)
+Amaise
+Jibiya
+Ubodong
+Ozonogulo
+Siluko
+Agbarho
+Obokwe
+Orodo
+Ohazu
+Iye
+Burutu-Forcados
+Unguwar Rohogo
+Ikpo Ikono
+Ugwuoba
+Agege
+Gaya
+Dikwa
+Akpugo
+Minjibir
+Iuleha
+Ido
+Ihembosi
+Ariam Usaka
+Iwerre
+Three Ibies
+Dong
+Gabu
+Oworo
+kaoje
+Iko Ekpe-Rem
+Ga'Anda
+Okparabe
+Oloten
+Ihuo-Dimeze
+Kutemeshi
+Bulangu
+Oko
+Igbanke
+L. Ikoro
+Odiani
+Oko-Aku
+Ihite
+Ifako
+Isiama Ohafia
+Gombe
+Ekan Meje
+Gulma
+Nembe
+Mbaukwu
+Okpal-Igbo
+Bichi
+Ngbilebiri-Mein/Ogbulubiri/
+Zumo
+Ojo River
+Obeagu
+Agbado-Ekiti
+Paiye
+Egbu
+Kukum Gida
+Onia-Ohafia
+Kaltungo East
+Okpoeze
+Igede
+Wudil
+Akwukwu-Igbo
+Afon
+Amaimo
+Yamaltu
+Zaki
+Ewohimi
+Assa/Obile
+Akugbene Men
+Amasa
+ohordua
+Warawa
+Kiri
+Mbutu
+Oloko
+Kwajjafa
+Kolu-Ama
+Amasiri
+Ndufu-Amagu
+Mbara
+Tabanni
+Akuma/Amagu
+Farman
+Ezechime
+Nkafa
+Alora - Uno
+Ahutara
+Agbudu-Uga
+Inyishi
+North West (Ito)
+Hadejia (Rural)
+Kwah
+Ochima
+Umuoka
+Zonzon
+Okoposi
+Fada Ciki Gari
+Omor
+Odume
+Eastern Nsit
+Agala
+Fadan Attakar
+Ikono
+Ushie
+Uralla
+Kankara
+Oku
+Owo
+Oniong Clan
+Azare Rural
+Amalla
+Mpu
+Iponrin
+Okpoga
+Garkida
+Eke Afaha Clan
+Ezzama
+Mkpam
+Odot Edion
+Tsoriyang
+Okukusho/Central
+Shongom
+Obong
+Ibi Asoebe
+Dala (Rural)
+Afor
+Futu
+Okpu-Umuobo
+Alor
+Yagba North-East
+Abaja
+kangiwa
+Eka-Awoke
+Ebenator
+Obodoahiara
+Manga Ushe
+Amar
+Nkpologu
+Emii
+Garu
+Ideani
+Edda Land
+yeldu
+Owa (S)
+Ibesit
+Dambam
+Akpara-Bong
+Omuegwu
+Okoroete
+Yankwashi
+Otan Aiye -Gaaju
+Qgbunike
+Osumoghu
+Ekperi
+Ogberuru
+Ofekata 1
+Esie-Ijan
+Osumenyi
+Jagindi
+Briyel
+Basawa
+Zagom
+Aguobu-owa
+Kubo
+Northern Ukanafun
+Umuihu Eze 11
+Kufana
+Ifakala
+Kaita
+Safana
+Mafara
+Janjala
+Funtua (Rural)
+Umue-Zegwu
+Dawakin Tofa
+Timdore
+Becheve
+Emai
+Oke-Ode ilrin south
+Ellu
+Degri
+Awara/Ikweraede
+Nri
+Iko
+Zogirma
+Ejidon-Gari
+Wonu
+Umunna-Isiaku
+Zah
+Igbuku
+Malumfashi
+Kabowei
+Udu
+Ihitte-Owerre
+Kolokumma
+Obo - Eruku
+Nafada
+Aba Ukwu
+Umuhu
+Egede
