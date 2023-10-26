@@ -5735,7 +5735,7 @@
 9494, first, ORDINAL|the Nigerian Army, ORG|January 15, DATE
 9495, January 15, DATE
 9496, Ironsi, PER|34, CARDINAL
-9497, 'January 15, DATE|one, CARDINAL|Obafemi Awolowo, PER
+9497, January 15, DATE|one, CARDINAL|Obafemi Awolowo, PER
 9498, Nigerian, NORP|Gowon, PER|Aburi, LOC
 9499, Omoyele Sowore, PER|the Nigerian Government, ORG
 9500, first, ORDINAL|August 3, 2019, DATE|DSS, ORG|Nigerians, NORP|Muhammadu Buhari, PER
@@ -5855,7 +5855,7 @@
 9693, DSS, ORG|Nigerians, NORP
 9696, Omoyele Sowore, PER
 9698, this year, DATE
-9702, Nollywood, ORG|GenevieveNnaji, PER|the Los Angeles Times, ORG
+9702, Nollywood, ORG|Genevieve Nnaji, PER|the Los Angeles Times, ORG
 9703, this year, DATE
 9705, recent years, DATE|2015, DATE|Los AngelesTimes, LOC
 9706, Oscar, PER
@@ -5863,7 +5863,7 @@
 9708, Nigeria, LOC|first, ORDINAL|Best International Feature, ORG|English, LANGUAGE
 9709, English, LANGUAGE|Nigeria, LOC
 9710, Oscar, PER
-9711, Ava Duvernay's, PER|Genevieve Nnaji, PER|Lionheart, ORG
+9711, Ava Duvernay's, PER|GenevieveNnaji, PER|Lionheart, ORG
 9713, English, LANGUAGE|one, CARDINAL|Nigeria, LOC
 9717, Nigerian, NORP|Deyemi, PER|Lionheart, ORG|the end of today, DATE
 9719, Nigerians, NORP|Lionheart, ORG
@@ -5894,17 +5894,17 @@
 9760, Tai Solarin's, PER|two, CARDINAL
 9761, first, ORDINAL|Tai Solarin, PER|UPN, ORG
 9762, second, ORDINAL|Revolutionary Party, ORG
-9763, Tai Solarin's, PER|the Revolutionary Party, ORG
+9763, Tai Solarin, PER|the Revolutionary Party, ORG
 9764, NPN, ORG|today, DATE
 9767, Tai Solarin, PER
 9770, Leon Trotsky, PER
-9771, Tai Solarin's, PER|the Revolutionary Party, ORG
+9771, Tai Solarin, PER|the Revolutionary Party, ORG
 9773, Tai Solarin, PER
 9774, Tai Solarin, PER|Revolutionary Party, ORG
 9776, NPN, ORG|NPN, ORG
-9778, Tai Solarin's, PER
+9778, Tai Solarin, PER
 9784, NPN, ORG
-9785, almost 40 years, DATE|1979, DATE|Tai Solarin's, PER
+9785, almost 40 years, DATE|1979, DATE|Tai Solarin, PER
 9786, Nigerian, NORP|1979, DATE|a Revolutionary Party, ORG
 9788, Nigeria, LOC
 9789, Nigeria, LOC
@@ -5913,7 +5913,7 @@
 9792, Africa, LOC|Phumlani Majozi, PER
 9793, 30 years ago, DATE
 9795, African Liberty, ORG|Alexander Hammond, PER|the Cato Institute, ORG
-9798, Russia, LOC|the Soviet Union, LOC|the United States, LOC|US, LOC|the Soviet Union's, LOC
+9798, Russia, LOC|the Soviet Union, LOC|the United States, LOC|US, LOC|the Soviet Union, LOC
 9799, two, CARDINAL|Russia, LOC|the United States, LOC
 9802, the United Nations, ORG|two, CARDINAL
 9804, Today, DATE|decades, DATE
@@ -6123,7 +6123,7 @@
 10199, Feb. 19, DATE|Anedo Hall, FAC|Nnewi, LOC|Anambra State, LOC|Cletus M Ibeto, PER
 10203, FCMB, ORG
 10204, John Ndu, PER
-10205, Dunukofia LGA, LOC|Jan. 24, 2020, DATE|Anambra State Government, ORG|Jan. 26, CARDINAL
+10205, Dunukofia LGA, LOC|Jan. 24, 2020, DATE|Anambra State Government, ORG|Jan. 26, DATE
 10208, Obiano, PER
 10209, Obiano, PER
 10212, Daniel Ekene, PER|last year, DATE
@@ -6151,18 +6151,18 @@
 10250, Buhari, PER
 10251, Babachir Lawal, PER
 10252, Bola Tinubu, PER|APC, ORG|EFCC, ORG|Tinubu, PER|the eve of the 2019, DATE
-10253, Ibrahim Magu, PER)|EFCC, ORG
+10253, Ibrahim Magu, PER|EFCC, ORG
 10254, APC, ORG|Buhari, PER|EFCC, ORG
 10256, Buhari, PER
 10257, Buhari, PER|Abubakar Tsav, PER|Lagos, LOC
-10259, Nigerians, NORP|Senate, ORG
+10259, Nigerians, NORP
 10260, December 2018, DATE|May 2019, DATE
 10263, Fredrick Nwabufo, PER
 10264, Arsenal, ORG|Emery, PER
 10265, 1992, DATE
 10266, Arsenal, ORG
 10267, seven, CARDINAL|first, ORDINAL|1992, DATE
-10268, Emery, PER|the summer of 2018, DATE|Arsene Wenger, PER)
+10268, Emery, PER|the summer of 2018, DATE|Arsene Wenger, ORG
 10269, Chelsea, ORG
 10271, Frankfurt, LOC|Thursday, DATE
 10272, Freddie Ljungberg, PER|first, ORDINAL
@@ -6260,7 +6260,7 @@
 10471, the Kawo Upper Sharia Court, ORG|Kaduna, LOC|Abubakar Musa Abubakar, PER|Nasiba Sani Dauda, PER|Kaduna State, LOC|Nigeria, LOC
 10472, Abubakar Musa Abubakar, PER
 10473, Abubakar Musa Abubakar, PER|Nasiba Sani Dauda, PER|the 24th December, 2016, DATE
-10474, until few months, DATE|Nasiba - Alhaji Sani Dauda -, PER
+10474, until few months, DATE|Nasiba - Alhaji Sani Dauda, PER
 10475, Nasiba, PER|Nasiba, PER|Khul, LOC|Sharia Court, ORG|Tudun Wada, PER|Kaduna, LOC
 10476, Abubakar Musa Abubakar, PER|the Upper Sharia Court, ORG|Kawo, LOC|Kaduna, LOC|the Upper Sharia Court, ORG|Abubakar Musa Abubakar, PER
 10477, the Upper Sharia Court, ORG|Nasiba, PER|this day, DATE
@@ -6420,21 +6420,21 @@
 10702, England, LOC|Leicester City, LOC|Nigeria, LOC|Wilfred Ndidi, PER|Brighton & Hove Albion, ORG|2, CARDINAL|Ayoze Perez, PER|Jamie Vardy, PER
 10703, Arsenal Football Club, ORG|London, LOC|Saturday, DATE|Southampton, LOC
 10705, Alexandre Lacazette, PER
-10706, Emery, PER|Arsene Wenger, PER)|last season, DATE
+10706, Emery, PER|Arsene Wenger, ORG|last season, DATE
 10707, Spain, LOC|Italy, LOC|Barcelona, LOC|Juventus, ORG|Laganes, ORG|Atalanta, ORG
 10708, Luis Suarez, PER|Arturo Vidal, PER|Barcelona, ORG|2, CARDINAL|Gonzalo Higuain, PER|Paulo Dybala, PER
 10709, Europe, LOC|Saturday, DATE|between Tuesday and Thursday, DATE
-10710, Magu, PER)
-10711, Magu, PER)
-10712, the Economic and Financial Crimes Commission, ORG|Ibrahim Magu, PER)|National Youth Service Corps, ORG
+10710, Magu, PER
+10711, Magu, PER
+10712, the Economic and Financial Crimes Commission, ORG|Ibrahim Magu, PER|National Youth Service Corps, ORG
 10713, Tuesday, DATE|the Lagos State NYSC Orientation, FAC|Iyana Ipaja, LOC
-10714, Dolapo Adeniran, PER|Magu, PER)
-10716, SaharaReporters, ORG|Tuesday, DATE|Yusuf, PER
-10717, Adewale Yusuf, PER|Nigerians, NORP|SaharaReporters, ORG|only two, CARDINAL
+10714, Dolapo Adeniran, PER|Magu, PER
+10716, Tuesday, DATE|Yusuf, PER
+10717, Adewale Yusuf, PER|Nigerians, NORP|only two, CARDINAL
 10719, last weekend, DATE|Nigerians, NORP
 10720, SaharaReporters, ORG|Tuesday, DATE|Yusuf, PER
 10725, the end of the day, DATE
-10726, Yusuf, PER|SaharaReporters, ORG
+10726, Yusuf, PER
 10727, Ibadan, LOC|that day, DATE
 10732, Mercy Eke, PER|26, CARDINAL|Saturday, DATE|first, ORDINAL
 10733, Mike, PER|Dubai, LOC
@@ -6566,7 +6566,7 @@
 10975, ALTON, ORG
 10976, September, DATE
 10977, September, DATE
-10986, October 23, CARDINAL
+10986, October 23, DATE
 10989, first, ORDINAL|late 2020 to early 2021, DATE
 10990, the late 2020, DATE
 10993, early 2020, DATE|2021, DATE
@@ -6601,7 +6601,7 @@
 11070, Feb. 25, 2020, DATE|Kate Omenugha, PER
 11071, Emmanuel Nwafor, PER|Orumba South, LOC
 11072, Ezeokafor, PER
-11078, Solomon Amatu, PER|Christian, NORP|1962, DATE|CAC, ORG
+11078, Solomon Amatu, PER|1962, DATE|CAC, ORG
 11079, Amatu, PER|CAC, ORG|2003, DATE
 11081, Willie Obiano, PER|Amatu, PER
 11083, Obiano, PER
@@ -6617,7 +6617,7 @@
 11105, Court of Appeal, ORG|Zainab Bulkachuwa, PER
 11106, Obiano, PER
 11108, Bulkachuwa, PER|2018, DATE
-11109, Obiano, PER|five, CARDINAL|Court of Appeal Project Committee, ORG|Onyechi Ikpeazu, PER)
+11109, Obiano, PER|five, CARDINAL|Court of Appeal Project Committee, ORG|Onyechi Ikpeazu, PER
 11112, Okwuosa, PER|Nise, LOC|Okpuno, LOC|Umuawulu, LOC
 11113, PRIMARY HEALTHCARE AGENCY, ORG
 11116, Okwuosa, PER
