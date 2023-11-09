@@ -4,10 +4,12 @@ Obagun
 Ancha
 Ezimba
 Bata-Garawa
-Umualumaku/Umuihim
+Umualumaku
+Umuihim
 Effiat
 Makoda
-Ikpeshi-Egbegbere/Atje
+Ikpeshi-Egbegbere
+Atje
 Mara
 Billiri-tangale
 Mbila
@@ -30,11 +32,13 @@ Pindiga
 Afaha Clan
 Enhwe
 Dakin Gari
-Ogwuama/Amuzi
+Ogwuama
+Amuzi
 Eastern Yala
 Alege
 Ituku
-Ohekelem/Nnorie
+Ohekelem
+Nnorie
 Nung-Ukem
 Sabon Sarki
 Kabo
@@ -105,7 +109,8 @@ Akpu
 Nara
 Kwanji
 Umu-Uzu
-Avu/Umuguma
+Avu
+Umuguma
 Bedi
 Yautare
 Aguobu-Umumba
@@ -149,7 +154,8 @@ Aviele
 Amavo
 Onogbokor
 Bennin River
-Ise/Orun
+Ise
+Orun
 Igabi
 Iyede
 Ayegbaju
@@ -181,7 +187,9 @@ Nzam
 Kimba
 Nise
 Azuzuahia-Eziudo
-Akufo/Idigba/ Araromi
+Akufo
+Idigba
+ Araromi
 Umua Laoma
 Mai-Adua
 Edumoga
@@ -192,7 +200,8 @@ Akwaihedi
 Ndot
 Diogbe
 Ama-Asa
-Okolochi/Eziobodo
+Okolochi
+Eziobodo
 Igbide
 Ibiaku
 Affa
@@ -210,6 +219,7 @@ Iguoshodin
 Birnin Yauri
 Daura
 Ofekata ll
+Ofekata
 Akagbe -Ugwsu
 Obike
 Eziawa
@@ -226,6 +236,7 @@ Ebenebe
 Mgbee
 Obib-Ezena
 Mbiabong II
+Mbiabong
 Umuezeaka Ogbo
 Afaha Okpo
 Mgbelle
@@ -253,7 +264,8 @@ Itchi
 Ute-Obgute-Eje
 Oroma Etiti
 Kiri-Kasamma
-Egbelu/Obube
+Egbelu
+Obube
 Mapeo
 Uokha
 Koma
@@ -262,8 +274,10 @@ Etim-Ekpuitumo
 Omupo
 Ankpa
 Abuochiche
-Ikpe/Ikot
-Isgogo/Dago
+Ikpe
+Ikot
+Isgogo
+Dago
 Kwoi
 Ohoba
 Enugu-Otu
@@ -309,7 +323,8 @@ Dawaki
 Ugbuenu
 Nkomoro
 Umumba-Ndiagu
-Umueze ii
+Umueze II
+Umueze
 Oforola
 Ito Clan
 Obuno
@@ -320,6 +335,7 @@ Aisegbe Ekiti
 Amauzari
 Equare-Ewatto
 Ibiono III
+Ibiono
 Ihiagwa
 Mayo Lamja
 Nomeh
@@ -386,7 +402,8 @@ Ndiya
 Igbariam
 Madobi
 Akumazi
-Umeh / Erohwa
+Umeh 
+ Erohwa
 Dabai
 Mbiabon G. I.
 Nsukka (Rural)
@@ -395,17 +412,20 @@ Owagia Eziudo
 Kulani
 Orsu Ihite-Ukwu
 Nkem
-Abak /Midim
+Abak 
+Midim
 Unguwan Rimi (Zantarakpat)
 Yagba South-east
 Garko
-Fagge/Waje
+Fagge
+Waje
 Kurmin Bi
 Monguno
 Oban
 Umue-Ezeoka
 Utugwang
-Nok/New Nok
+Nok
+New Nok
 Ibighi
 Kuka
 Ado Ekiti
@@ -427,7 +447,8 @@ Ikere - Ekiti (Rural)
 Ogodu
 Eika
 Odeyyi
-Giwa/Shika
+Giwa
+Shika
 Mbiri
 Burak
 Ovoko
@@ -436,7 +457,8 @@ Administrative capital
 Nnobi
 Obeledu
 Nsokara
-Okpanam / Ugbolu
+Okpanam 
+ Ugbolu
 Awkuzu
 Okengwen
 Kwaya Kusar
@@ -454,7 +476,8 @@ Igga
 Amuda
 Kuliyi
 Tarakiri
-Nkalagu / Obukpa
+Nkalagu 
+ Obukpa
 Bafoi Gora (Kanai Bafoi)
 Offa
 Ikot Naka-Nda
@@ -523,7 +546,8 @@ Leko
 Dutse (Rural)
 Tongov
 Abagana
-Igarra/East Akoko
+Igarra
+East Akoko
 Kini
 Katsina (Rural)
 Umuneba
@@ -589,7 +613,8 @@ Manchok
 Umu-Menyi
 Shelleng
 Amo
-Otulu/Aguneze
+Otulu
+Aguneze
 Ode Ekiti
 Okuta
 Kubau
@@ -633,10 +658,12 @@ Mbaka-Ange
 Gyawana
 Amaeke Abam
 Umuigbube-Achara North
-Kagoma/Asso
+Kagoma
+Asso
 Gumsu
 Mbaterem
 Eziawo ll
+Eziawo
 Ihube
 Nkerefi
 Ihitte Afor
@@ -712,7 +739,8 @@ Gagarawa
 Amaryawa
 Akatta
 Kenyi
-Amaruru/Ebenasaa
+Amaruru
+Ebenasaa
 Itreto Clan
 Ode Itsekiri
 Obibi-Ochasi
@@ -802,6 +830,7 @@ Gboko (Rural)
 Kajim
 Ona-Ohafia
 Umuihu Eze 13
+Umuihu Eze
 Obot Akara
 Igbo
 Ukpata
@@ -847,11 +876,12 @@ Ndikeli-Onwu
 Akarai
 Ikole
 Ogbahu
-B/kaltin
+kaltin
 Gurin
 Oduna
 Ndeaboh
-Akuku/Ewan
+Akuku
+Ewan
 Tari
 Anchuna
 Uruan Central
@@ -898,8 +928,10 @@ Nikoro-Gha
 Bondong
 Emevor
 Afaha Obong
-Sapele Rural/Amukpe
-Ngogu/Ikem Bala
+Sapele Rural
+Amukpe
+Ngogu
+Ikem Bala
 Jessu
 Umuomaku
 Utuoko
@@ -942,7 +974,8 @@ Jagbe
 Ukwuagba Mgbo
 Use
 Ushongo
-Okha/Ologbo
+Okha
+Ologbo
 Nekede
 Okigwe (Rural)
 Maigatari
@@ -990,7 +1023,9 @@ Ugbegun
 Gabasawa
 Riga-Chikun
 Gwana
-Oleh I, II
+Oleh II
+Oleh I
+Oleh 
 Zonkwa
 Rann
 Amiri
@@ -999,13 +1034,16 @@ Kumboei
 Umun-Neise
 Awa-Izuogu
 Miga
-Oshodi/Isolo
+Oshodi
+Isolo
 Illo
 Ochekwu
 Ubulu
 Igueben
 Ibiono III Central
-Okpe/Isoko
+Ibiono Central
+Okpe
+Isoko
 Ugborhen
 NTA
 Mbavaa
@@ -1025,12 +1063,14 @@ Kwaya bura
 Malabu
 Evwreni
 Ihima
-Akabo/Amatta
+Akabo
+Amatta
 Ndiokpala
 Eziama-Ikeduru
 Rano
 Emure
-Ihioma/Ebenese
+Ihioma
+Ebenese
 Dutsi-Ma
 Isulo
 Orowa
@@ -1117,7 +1157,8 @@ Amoffia Mgbo
 Sikkam
 Amoli
 Manyii Aghyui
-Ilofa/Odo-Owa
+Ilofa
+Odo-Owa
 Onyedge
 Obubra Urban
 Efon-Alaaye
@@ -1135,7 +1176,8 @@ Askira
 Ogwogo
 Anaku
 Awuchi-Numo
-Lude/Nnara-Mbia
+Lude
+Nnara-Mbia
 Alokp-Anta
 Izombe
 Achi
@@ -1148,7 +1190,8 @@ Ibesit Nung Ikot
 Bogoro
 Awgbu
 Gwandu
-Central Akoko/North
+Central Akoko
+North
 Lere
 Kurmin Mazuga
 Udueme
@@ -1225,7 +1268,8 @@ Utchi
 Marte
 Fugar-Avianwu
 Umuozzi
-Ung/Sarki
+Ung
+Sarki
 Okpe-Ijaja
 Ugang
 Alero
@@ -1248,6 +1292,7 @@ Adiasim
 Kurfi
 Ugboko
 Eziawo 1
+Eziawo
 Banjiram
 Isin
 Azunyaba
@@ -1305,7 +1350,9 @@ Agbor (S)
 Otoro
 Ambel
 Ughiev-wen
-Irr I, II
+Irr I
+Irr II
+Irr
 Ijumu
 Umuigbube-Achara
 Offot
@@ -1333,8 +1380,10 @@ Ukpom Okom
 Umunumo
 Mabushi
 Ebem Ohafia
-Ekpene/Ediene
-Umuariam/Achara
+Ekpene
+Ediene
+Umuariam
+Achara
 Borrong
 Binyeri
 Dukku
@@ -1350,6 +1399,7 @@ Omuo Ekiti (Rural)
 Kuyello
 Oghu
 Umueze I
+Umueze
 Papa
 Amokwe
 Oraukwu
@@ -1373,7 +1423,9 @@ Ochuche
 Bedde
 Ojuk
 Igli
-Ihite/Ogada/Oha
+Ihite
+Ogada
+Oha
 Guyaku
 Gamawa
 Onuaboh
@@ -1403,7 +1455,9 @@ Ebeagu Aut. Com.
 Hardawa
 Mgbala Ukwu
 Ogonogeji Ndiuna
-Ebu/Ukala / Illah
+Ebu
+Ukala 
+ Illah
 Amuri
 Opara-Nadim
 Chum- Kindiyo
@@ -1433,12 +1487,14 @@ Ugbo
 Ukpor
 Manyii
 Ewossa
-Ogori / Magongo
+Ogori 
+ Magongo
 Kwakhwu
 South Oban-Liku
 Umudioka
 Mayo-Kalaye
-Obiangwu/Logara
+Obiangwu
+Logara
 Kaugama
 Okpui-Tumo
 Ekwegbe
@@ -1464,13 +1520,15 @@ Ozar Ukwu
 Geji
 Abba
 Igbara Odo Ekiti
-Nzerem/Ikpem
+Nzerem
+Ikpem
 Kwall
 Owa
 Omogho
 Ikom (Rural)
 Buji
-Ohebe / Ohodo
+Ohebe 
+ Ohodo
 Kaguni
 Kirchinga
 Ichi
@@ -1503,13 +1561,17 @@ Nnewi (Rural)
 Olo
 Eke
 Deba
-Umuakam/Umuago
+Umuakam
+Umuago
 Kurmin Dangana
 Ofat (Adum)
-Ngor/Ihite/Umu
+Ngor
+Ihite
+Umu
 Yenagoa (Rural)
 Madakiya (Batadon)
-Ugri-Ike/Okwu
+Ugri-Ike
+Okwu
 Agbaani
 Ugun
 Iduwuni
@@ -1564,7 +1626,8 @@ Bare
 Ofutop
 Ukawu
 Otulu
-Ibiakpan/Obotim Clan
+Ibiakpan
+Obotim Clan
 Oluku
 Awlaw
 Utagbe-Uno
@@ -1590,6 +1653,7 @@ Umunoha
 Cham-mwona
 Nkaleke Echara
 Umuihueze II
+Umuihueze
 Oba
 Akagbe-Amodu
 Umue-Zeala
@@ -1688,7 +1752,8 @@ Nung Ikot
 Agbarha
 Ugboju
 Urohi
-Afikpo/Ehugbo
+Afikpo
+Ehugbo
 Konduga
 Belel
 Obollo-Afor
@@ -1720,7 +1785,9 @@ Ihitte-Nansa
 Onire
 Bangunji
 Namtara
-Amala/Alulu/Oburu
+Amala
+Alulu
+Oburu
 Ogoja Urban
 Ibedeni
 Isiuwa
@@ -1729,7 +1796,9 @@ Ekwulu-Mili
 Okpo-Gho
 Ohuru
 Wala-waja
-Obinagu / Uwani /Akpu ugo
+Obinagu 
+ Uwani 
+Akpu ugo
 Zagga
 Dawo
 Tsambe
@@ -1810,7 +1879,8 @@ Nembe
 Mbaukwu
 Okpal-Igbo
 Bichi
-Ngbilebiri-Mein/Ogbulubiri/
+Ngbilebiri-Mein
+Ogbulubiri
 Zumo
 Ojo River
 Obeagu
@@ -1829,7 +1899,8 @@ Amaimo
 Yamaltu
 Zaki
 Ewohimi
-Assa/Obile
+Assa
+Obile
 Akugbene Men
 Amasa
 ohordua
@@ -1843,7 +1914,8 @@ Amasiri
 Ndufu-Amagu
 Mbara
 Tabanni
-Akuma/Amagu
+Akuma
+Amagu
 Farman
 Ezechime
 Nkafa
@@ -1882,7 +1954,7 @@ Ezzama
 Mkpam
 Odot Edion
 Tsoriyang
-Okukusho/Central
+Okukusho
 Shongom
 Obong
 Ibi Asoebe
@@ -1943,7 +2015,8 @@ Emai
 Oke-Ode ilrin south
 Ellu
 Degri
-Awara/Ikweraede
+Awara
+Ikweraede
 Nri
 Iko
 Zogirma
