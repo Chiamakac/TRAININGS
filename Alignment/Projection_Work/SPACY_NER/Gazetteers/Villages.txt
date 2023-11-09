@@ -250,6 +250,7 @@ Ndiokoro
 Ndiorie
 Obeagwu
 Obeama
+Oboni
 Oboni I
 Oboni II
 Upa
@@ -318,6 +319,7 @@ Umuagungoliri
 Umuakam
 Umuegwu-Obiohuru
 Umuegwu-Okpuala
+Umuekwelu
 Umuekwelu II
 Umuekwule I
 Umukabia
@@ -518,7 +520,8 @@ Umuogele
 Umuokiri
 Umuokpogho
 Amankwo
-Egbelu-Mnbutu/Umuokere
+Egbelu-Mnbutu
+Umuokere
 Obekwesu
 Okungwu
 Owerrinta
@@ -606,7 +609,8 @@ Umuakwua
 Agbonelu
 Ahaba-Ehuma
 Amaeke
-Amahia/Amaogudu
+Amahia
+Amaogudu
 Amiyi Ahaba
 Anume
 Eluama
@@ -698,6 +702,7 @@ Umuokea
 Umuonyengwa
 Akpa-Mbator
 Amairingbua-Ovom I
+Amairingbua-Ovom
 Amasa-Ovom
 Agburuke
 Amapu
@@ -706,7 +711,8 @@ Aziama
 Isiahia
 Owo-Ahiafor
 Umuaforkwu
-Umuagada/umueijioke
+Umuagada
+Umueijioke
 Umuagwa
 Umuagwula
 Umuakoma
@@ -733,7 +739,7 @@ Obete-Umodu
 Obete-Umuoha
 Ohanze-Agwo
 Azuogwugwu
-Ekwereazu/Ngwa
+Ekwereazu
 Isiko
 Mgboko-Anya
 Nenu
@@ -771,12 +777,14 @@ Avor
 Ichi
 Ikala-Umudagwu
 Itu-Ikila
+Itu-Ngwa
 Itu-Ngwa I
 Itu-Ngwa II
 Itukpa
 Mbutu
 Mgboko-Osa
 Mgboko-Umu-Ora
+Osa
 Osa I
 Umulelu
 Umusoiku-Ete-na-Onuma
@@ -894,10 +902,12 @@ Abia
 Akanu
 Isugwu
 Ndi-Uduma-Awoke
+Akpa
 Akpa 1
 Akpa 11
 Akpa 1V
 Amaiyi
+Amankwu
 Amankwu 1
 Amankwu 11
 Amaugha
@@ -950,19 +960,21 @@ Umuaba
 Umuaga
 Umuara
 Umuobo
-Uratta/Amaekpu
+Uratta
+Amaekpu
 Amauzu
 Mgboko-Umuete
 Umuaba
 Umuara
 Umuga
 Umuobo
-Uratta / Amaekpu
+Uratta
 Akpa I
 Akpa II
 Akpa III
 Akpa iv
 Amaiyi
+Akpa
 Amankwu I
 Amankwu II
 Amaugha
@@ -975,12 +987,13 @@ Umunpata
 Umuobilaha II
 Umuobiloha I
 Umuohia
+Umuobiloha
+Umuobilaha
 Umuokerete
 Amapu
 Amauzu
 Okpuala
 Umumba
-
 Abayi
 Akanu
 Alaoji
@@ -1098,6 +1111,7 @@ Amaobu
 Amorji
 Mkpukpator
 Mlpukpuokwo
+Ogbunga
 Ogbunga I
 Ogbunga II
 Ohaogwe
@@ -1141,7 +1155,6 @@ Umunkaru-Akirika-Obu
 Umuadienweh-Akirika-Obu
 Umuokafor-Akirika-Obu
 Akirika-Nta
-
 Akanu
 Akirika - Uku
 Akwete
@@ -1174,10 +1187,10 @@ Umuodeke
 Umuogwu
 Umuololo
 Umura
-obingwu
-omuma-Uzor
-umuekechi
-umuezeke
+Obingwu
+Omuma-Uzor
+Umuekechi
+Umuezeke
 umuikukor
 Ezebudele
 Obehie
@@ -1214,6 +1227,7 @@ Ikenyi
 Ogwati
 Umuakwa
 Umuguru 1
+Umuguru
 Umuika
 Umuinwere
 Umunduru
@@ -1270,6 +1284,7 @@ Bomni
 Bujin Kona
 Dakkli
 Dem
+Donwa
 Donwa I
 Donwa II
 Guri
@@ -1284,6 +1299,7 @@ Bille
 Dakusung
 Dingle Dutse
 Ga-Fulani
+Gah belwa
 Gah belwa I
 Gah Belwa II
 Gansari
@@ -1699,7 +1715,8 @@ Timdesi
 Timdokkami
 Timkusum
 Timpki
-Timukum (Timpukum)
+Timukum 
+Timpukum
 Tit Yabumso
 Tunga (Kumsaran)
 Wukari
@@ -1874,6 +1891,7 @@ Babal Palsura
 Bala Ungi
 Balhona I
 Balhona II
+Balhona
 Bawa
 Bebe
 Bijibiji'
@@ -2176,6 +2194,7 @@ Balaifi
 Bandawa
 Bolere
 Botoni II
+Botoni
 Bunari
 Dullum
 Dutsen Maka
@@ -2222,6 +2241,7 @@ Mala
 Sulne
 Suwa
 Tiso
+Tsayawa
 Tsayawa I
 Wankan
 Wodipwa
@@ -2233,6 +2253,7 @@ Mallah
 Tingno Dutse
 Waduku
 Wame II
+Wame
 Zuggo
 Duhu
 Dzuel
@@ -2263,6 +2284,7 @@ Guak
 Gwaram
 Hashi
 Hyambula I
+Hyambula
 Hyambula II
 Iirsa
 Jalingo
@@ -2763,6 +2785,7 @@ Monpdode
 Shelleng
 Tetek
 Timbu
+Wuroginnaji
 Wuroginnaji I
 Wuroginnaji II
 Yalo
@@ -2924,6 +2947,7 @@ Ikot Imo
 Ikot Ntuk
 Ikot Uko
 Nto Obo I
+Nto Obo
 Nto Obo II
 Nto Otong
 Utu Midim
@@ -2932,6 +2956,7 @@ Abiakpo
 Atai Otoro
 Ibiakpan I
 Ibiakpan II
+Ibiakpan
 Ibong Ikot Abasi
 Ibong Ikot Akpan Abasi
 Ibong Otoro
@@ -2958,6 +2983,7 @@ Ayama
 Bethlehem
 Elekpon
 Elile
+Emeroke
 Emeroke I
 Emeroke II
 Emeremen
@@ -3086,6 +3112,7 @@ Ata Essien-Mkpatak
 Ekpenyong Atai I
 Ekpenyong Atai II
 Esen Owo
+Ekpenyong Atai
 Ikot Akpan
 Ikot Asang
 Ikot Esifon
@@ -3105,6 +3132,7 @@ Ntak Ekpenyang
 Nto Obio Akpan
 Nto Osung
 Nto Udo
+Uruk Obong
 Uruk Obong I
 Uruk Obong II
 Utu Ekpenyang
@@ -3287,6 +3315,7 @@ Ikot Inyang Osom
 Ikot Udo Abia
 Ikot Udo Oto
 Ishiet Erong
+Ndon Eyo
 Ndon Eyo I
 Ndon Eyo II
 Ndon Utim
@@ -3356,6 +3385,7 @@ Okom Ita
 Okoroutip
 Okposo I
 Okposo II
+Okposo
 Opolom
 Upenekang
 Usuk Ikim Ekene
@@ -3867,7 +3897,8 @@ Uta Ewa
 Akpabom
 Essene
 Ikot Ada Udo
-Ikot Akpa Enin/Ikot Esang
+Ikot Akpa Enin
+Ikot Esang
 Ikot Akpa Idiang
 Ikot Eduo
 Ikot Ekpe
@@ -4211,7 +4242,8 @@ Ibiaku Esa Ekpo
 Ikot Abasi Akpan
 Ikot Abia Enin
 Ikot Aka
-Ikot Ata/Nung Ikono
+Ikot Ata
+Nung Ikono
 Ikot Ekpenyong.
 Ikot Idiong
 Ikot Itina
@@ -4375,6 +4407,7 @@ Ikot Obio Asanga
 Ikot Obio Etan
 Ikot Odiong
 Mbiaso
+Mbikporo
 Mbikporo II
 Nkwot
 Edebom
@@ -4462,6 +4495,7 @@ Nto Eton
 Ntong Uno
 Obon Ukwa I
 Obon Ukwa II
+Obon Ukwa
 Okop
 Unik Osung
 Abama
@@ -4509,6 +4543,7 @@ Ikot Utu Ikot Akpan
 Ikpe Mbak Eyop
 Ikpe Usung-Ita
 Ikwen Ikot Udom
+Inyang
 Inyang I
 Inyang II
 Mkpa Uno
@@ -4889,7 +4924,8 @@ Ikot Ndot
 Ikot Udo
 Ikot Udo Iyak
 Ikot Udo Mbang
-Ikot Udo Mbang/Afaha Obo
+Ikot Udo Mbang
+Afaha Obo
 Ikot Uram
 Ikot Utiat
 Ikot Wkpankpe
@@ -4950,6 +4986,7 @@ Ikot Akpan Eyara
 Ikot Enang
 Ikot Ibekwe
 Ikot Iyang Udo 1
+Ikot Iyang Udo
 Ikot Iyang Udo 11
 Ikot Odiong
 Ikot Udo Abia
@@ -5228,7 +5265,8 @@ Dagama
 Isinyi
 Nisoye
 Nkwonando
-Ovu-Oke/Abubeuno
+Ovu-Oke
+Abubeuno
 Owaloka
 Ubaronisioye
 Ubaru
@@ -7557,7 +7595,7 @@ Tashan Rinji
 Tashar Durumi
 Wom
 Zull
-Anguwar t
+Anguwar 
 Banginale
 Baradawa
 Fakuru
@@ -8188,7 +8226,8 @@ Oruma
 Otegila
 Otegwe
 Otuabagi
-Otuabai 1
+Otuabala
+Otuabala 1
 Otuabula 1
 Otuabula 11
 Otuaganagu
@@ -8260,6 +8299,7 @@ Dubagbene
 Ebatimogbene
 Ebidargbene
 Eduregbene
+Egberime
 Egberime 1
 Egberime 11
 Ekeogbene
@@ -8996,7 +9036,8 @@ Injiov
 Mbaga
 Newkkikie
 Adikpo
-Ahile/Akende
+Ahile
+Akende
 Ahundu
 Angir Uyough
 Dio
@@ -9774,6 +9815,7 @@ Ogomotu
 Ojigo
 Okana
 Okga-Ogodo
+Okopolikpo
 Okopolikpo-I
 Okpafie
 Okpale
@@ -11860,7 +11902,8 @@ Mbiabo Ikoneto
 Mbombori
 Ndom Itu
 Ndom Nyam
-Nkitto/Obot Okpo
+Nkitto
+Obot Okpo
 Nsa
 Nta Ikot Offiong Ede
 Nta Obo
@@ -11881,7 +11924,7 @@ Ofong Okurusa
 OKOY-
 Okpo Ikpa
 Okuruikang
-ONG 541107
+ONG 
 Osak
 Ovufa Obio Ukan
 Ukem Okoyong-Ekenge
@@ -11928,6 +11971,7 @@ Ine Akpa Ikang
 Ine Effiong
 Ine Ibot Owong
 Ine Ikong Efanga
+Ine Nkene Okure
 Ine Nkene Okure I
 Ine Nkene Okure II
 Ine Nkoi
@@ -11948,7 +11992,9 @@ Esuk Mba
 Esuk Mbat Efio-Edem Efa
 Esuk Mbat Umo Edem
 Esuk Mbat-Efio Urua
-Iboku/Esit/Edik
+Iboku
+Esit
+Edik
 Idem
 Ikot Akpa
 Ikot Edem Odo
@@ -12042,6 +12088,7 @@ Archibong
 Asabanka
 Efeta
 Enyanghanse
+Esin Ufot
 Esin Ufot I
 Esin Ufot II
 Etantan
@@ -12213,6 +12260,7 @@ Nkpangi
 Nnang-Elesi
 Nsinjon
 Ntak Ekon
+Ntara
 Ntara I
 Ntara II
 Ntara III
@@ -12247,6 +12295,7 @@ Abuekpu
 Adayom
 Akatem
 Aragbam
+Asaba
 Asaba I
 Asaba II
 Bansan-Mapan-Atam
@@ -12315,6 +12364,7 @@ Bitol
 Ekom
 Elakin
 Ibenta
+Ichojil
 Ichojil I
 Ichojil II
 Igbakobu
@@ -12371,6 +12421,7 @@ Idum
 Ijigbeji
 Ijobolor Odaraka
 Ijokom
+Ijrogar
 Ijrogar II
 Ikemoho
 Imate
@@ -12487,9 +12538,11 @@ Eleneber
 Emangbe
 Etikpe
 Kundere I
+Kundere
 Kundere II
 Manden
 Mkim
+Nkarasi
 Nkarasi II
 Nkatasi I
 Nketa
@@ -12535,12 +12588,14 @@ Igel
 Ikang
 Isobendeghe
 Kagbang
+Kangyang
 Kangyang I
 Kangyang II
 Karu
 Katabong
 Kigbor
 Nsadop
+Orimekpan
 Orimekpan I
 Orimekpan II
 Owong
@@ -12562,6 +12617,7 @@ Ubong-Atenkwu
 Wula
 Abonkibi
 Adijinkpor I
+Adijinkpor
 Adijinkpor II
 Ariekpe
 Asenasen
@@ -12677,7 +12733,8 @@ Ukpringi
 Utubia
 Abargba
 Abuasu
-Amukwong/Alara
+Amukwong
+Alara
 Biwhe-Echua
 Ebulkunda
 Ekpokpa
@@ -12693,6 +12750,7 @@ Ajirija
 Amandakureke
 Arongba
 Bansan
+Bawop
 Bawop I
 Bawop II
 Beleege
@@ -12751,9 +12809,12 @@ Ijakoruk
 Imavana Ochoku
 Itapibet
 Obubra Urban
+Ogaga
 Ogaga I
 Ogaga II
-Owakande I & II
+Owakande II
+Owakande I
+Owakande
 Abadene
 Arobom
 Ebo
@@ -12827,7 +12888,8 @@ Eja
 Enibichiri-Osopang
 Enyadologor
 Enyadolozundechi
-Idoro I & II
+Idoro I
+Idoro II
 Igbo
 Ijege-Orangha
 Ijutum
@@ -12839,7 +12901,8 @@ Ofenekom
 Ofia-Oji
 Ofomana
 Ofongamaa
-Ogamana I & II
+Ogamana I 
+Ogamana II
 Ogurude
 Ohene Eddah
 Okimongha
@@ -12852,7 +12915,7 @@ Owakande Ekpe
 Tet
 Ugrupon
 Abuasu
-Amukwong/Alara
+Amukwong
 Biwhe-Echua
 Ukordam
 Amandakureke
@@ -12948,6 +13011,7 @@ Bassange
 Begga
 Kundeve I
 Kundeve II
+Kundeve
 Mgbonege
 Nkrira
 Okorogang
@@ -13136,7 +13200,7 @@ Iguh
 Kokori Inland
 Obueghavbo
 Oburobi
-Oghoghome Etc.
+Oghoghome 
 Oguma
 Ogurivwe Utuyo
 Okorogba
@@ -13145,7 +13209,7 @@ Okpara W/Side
 Okriore
 Okuaghamu
 Okuekpagha
-Okuekpagha Etc.
+Okuekpagha 
 Okuemaka-Okuodo
 Okuighele
 Okuimodje
@@ -13165,7 +13229,7 @@ Olukobare
 Omukufor
 Onnumane
 Orhokpo
-Orhono/Area
+Orhono-Area
 OtumaraOviorieOvu-Inland
 Ovwere
 Samagidi
@@ -13192,7 +13256,7 @@ Mosogar
 Oge
 Oghobaye
 Okinigho
-Okuagbaye-
+Okuagbaye
 Okueka
 Okuno
 Okuode Hwojer
@@ -13292,7 +13356,6 @@ Owanta-Idumuetor
 Idumu-Ile
 Idumu-Oba
 Idumu-Uleje
-Obi
 Umunede
 Akpama
 Aninwachokor
@@ -16081,7 +16144,7 @@ Ogiza
 Okhorhomi
 Okpebor
 Okua
-Osagiede s-
+Osagiede 
 Third Camp
 Ugbor
 Uholor
@@ -16108,13 +16171,15 @@ Evbodogun
 Evbodohian
 Evbohighae
 Evbokabua
-Evbomede I & II
+Evbomede I
+Evbomede II
 Idunmunlaka
 Iguiya
 Iyoba
 Ohezenaka
 Oloten
-Otobayi I & II
+Otobayi II
+Otobayi I
 Owe
 Ugbedun
 Ugbeka
@@ -16226,6 +16291,7 @@ Iyeta
 Ofumwgbe Camp
 Oghobahon I
 Oghobahon II
+Oghobahon
 Okoro
 Omamini Camp
 Oseminota Camp
@@ -16234,6 +16300,7 @@ Phy Hospital
 Ugbodun
 Ugbokun I
 Ugbokun II
+Ugbokun
 Ulakpa Junction
 Egbaen
 Iguosa
@@ -16345,7 +16412,8 @@ Udo-Aken
 Ugolo
 Urhezen
 Adebayo Camp
-Aden I & II
+Aden II
+Aden I
 Agbonokhua (Ikale Camp)
 Akrakuan
 Ekuremu Camp
@@ -16360,7 +16428,8 @@ Osa Village
 Osedere
 Sakazioo
 Sule Camp
-Ugbo I & II
+Ugbo II
+Ugbo I
 Ugbogui I
 Ugbogui II
 Akpororo Camp
@@ -16370,7 +16439,8 @@ Iguekahen
 Iguelaho
 Lakalolo
 Obobaifo
-Ogunwake I & II
+Ogunwake II
+Ogunwake I
 Ojomu
 Sayo
 Ugbokua
@@ -16397,6 +16467,7 @@ Ojavun New Site
 Ojavun Old Site
 Okpa
 Okpokumi I
+Okpokumi
 Okpokumi II
 Ovbiomu
 Uanhumi
@@ -16696,7 +16767,8 @@ Oka Camp
 Olokemeji Camp
 Sanni 1
 Sanni 11
-Adadiri/Loye
+Adadiri
+Loye
 Adekaye
 Agbonkoji
 Agunbi Aka
@@ -20564,7 +20636,7 @@ Umuchukwu
 Umudim
 Umuecheri
 Umueze Chokocho
-Umuezeduru/
+Umuezeduru
 Umumpelle
 Umunurno
 Aguna
