@@ -36,6 +36,14 @@ okada
 n'odu lambeth
 'okpuru ochichi ughelli south
 nnewi
+steeti jigawa
+steeti kaduna
+steeti kano
+steeti kastina
+steeti kebbi
+steeti kogi
+steeti kwara
+
 buckingham
 lamurde
 india
@@ -324,6 +332,9 @@ mozambique
 saut korea
 okpuru ochichi girei
 etiti anambra
+steeti nasarawa
+steeti niger
+
 brong ahafo
 abagana
 soviet union
@@ -364,6 +375,11 @@ benue trough
 stade auguste delaune
 uzo mkpi regina caeli
 ezeagu
+steeti rivers
+steeti taraba
+steeti sokoto
+steeti zamfara
+steeti yobe
 akun ibiam airport enugwu
 sokoto
 misau
@@ -479,6 +495,7 @@ stoke city
 obollo eke
 mgbago anyanwu okpuru ochichi onitsha
 steeti adamawa
+steeti akwa ibom
 adamawa
 uk
 awka north
@@ -521,6 +538,8 @@ mbaukwu
 n'bizarre
 uruagu nnewi
 river steeti
+steeti osun
+steeti oyo
 northeast
 uganda
 odida anyanwu afirika
@@ -543,7 +562,12 @@ utland
 south africa
 delta
 sweden
+steeti edo
+steeti ebonyi
 steeti benue
+steeti cross river
+steeti delta
+steeti bayelsa
 ebonyi
 katsina
 indoneshia
@@ -587,7 +611,9 @@ syria
 ingland
 tempe
 zaragoza
+steeti bauchi
 steeti anambra
+steeti bayelsa
 sierra leone
 okpuru ochichi anambra east
 ozubulu
@@ -606,7 +632,8 @@ iceland
 emirates
 tanzania
 cross river steeti
-anambra, borno
+anambra
+borno
 potugal
 afrika
 steeti ekiti
@@ -621,3 +648,6 @@ chinaza uchendu
 satellite town
 oshodi
 equatorial guinea
+steeti abia
+steeti enugu
+steeti gombe
