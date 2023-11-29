@@ -366,8 +366,8 @@ ndị O
 mmadụ O
 nụlọ O
 ikpe O
-n'etiti B-DATE
-ehihie I-DATE
+n'etiti O
+ehihie O
 gịnị O
 gaeme O
 azụmahịa O
@@ -1043,8 +1043,8 @@ n'afọ I-DATE
 naekwuru O
 ụlọọrụ O
 ahụ O
-wilson B-PER
-uwujaren I-PER
+wilson O
+uwujaren O
 ịka O
 akara O
 nye O
@@ -1054,8 +1054,8 @@ site O
 niwu O
 nke O
 ọkaikpe O
-mohammed B-PER
-idris I-PER
+mohammed O
+idris O
 nabalị O
 nke O
 ise O
@@ -1080,8 +1080,8 @@ ikoyi I-ORG
 uru O
 ụlọọrụ O
 ahụ O
-wilson B-PER
-uwujaren I-PER
+wilson O
+uwujaren O
 ịka O
 akara O
 nye O
@@ -1091,8 +1091,8 @@ site O
 niwu O
 nke O
 ọkaikpe O
-mohammed B-PER
-idris I-PER
+mohammed O
+idris O
 nabalị O
 nke O
 ise O
@@ -1114,18 +1114,18 @@ ndị O
 naagba O
 mpụ O
 mgba O
-economic B-ORG
-financial I-ORG
-crimes I-ORG
-commission I-ORG
+economic O
+financial O
+crimes O
+commission O
 akaala O
 ihe O
 onwunwe O
 dịịrị O
 aka O
 chịburu O
-steeti B-LOC
-abịa I-LOC
+steeti O
+abịa B-LOC
 orji O
 uzor O
 kalu O
@@ -1298,9 +1298,9 @@ ahụ O
 . O
 
 ka O
-orji B-PER
-uzor I-PER
-kalu I-PER
+orji O
+uzor O
+kalu O
 jere O
 mkpọrọ O
 ffk B-PER
@@ -1514,8 +1514,8 @@ patience B-PER
 jonathan I-PER
 olisa B-PER
 metu I-PER
-femi B-PER
-fanikayode I-PER
+femi O
+fanikayode O
 na O
 ndị O
 ọzọ O
@@ -1560,8 +1560,8 @@ nke O
 anọ O
 nonye O
 bụ O
-theodore B-PER
-orji I-PER
+theodore O
+orji O
 . O
 
 ihe O
@@ -40307,13 +40307,13 @@ nkeji B-DATE
 75 I-DATE
 . O
 
-nigeria B-LOC
+nigeria O
 vs O
 norway B-LOC
 norway B-LOC
 nigeria B-LOC
 vs O
-norway B-LOC
+norway O
 norway O
 akpọchuola O
 naijirịa O
@@ -42041,7 +42041,7 @@ a O
 naecheta O
 inye O
 ọbara O
-bbc B-ORG
+bbc O
 igbo O
 gara O
 jụọ O
@@ -42054,14 +42054,14 @@ maka O
 inye O
 ọbara O
 . O
-ụbọchị B-DATE
-inye I-DATE
-ọbara I-DATE
+ụbọchị O
+inye O
+ọbara O
 a O
 naecheta O
 inye O
 ọbara O
-bbc B-ORG
+bbc O
 igbo O
 gara O
 jụọ O
@@ -43128,8 +43128,8 @@ apụtaghị O
 egwu O
 ọnwa O
 mgbe O
-vladyslav B-PER
-supriaga I-PER
+vladyslav O
+supriaga O
 sara O
 ya O
 bụ O
@@ -52877,7 +52877,7 @@ obi O
 taa O
 iko O
 mbaụwa O
-2026 B-DATE
+2026 O
 . O
 
 a O
@@ -77585,7 +77585,7 @@ otu O
 nwaanyị O
 aha O
 bụ O
-juliet B-PER
+juliet O
 bụbu O
 onye O
 enyemaaka O
@@ -80802,7 +80802,7 @@ be O
 ekweremadu O
 n'ọnụ B-DATE
 ụtụtụ I-DATE
-taa I-DATE
+taa O
 . O
 
 anichukwu O
@@ -82788,7 +82788,7 @@ chọrọ O
 ọkwa O
 onyeisiala O
 na O
-2023 B-DATE
+2023 O
 . O
 
 rochas O
@@ -94566,8 +94566,8 @@ akwụkwọ O
 ikike O
 . O
 
-mamoudou B-PER
-gassama I-PER
+mamoudou O
+gassama O
 nwetara O
 ekele O
 nke O
@@ -94702,11 +94702,11 @@ zara O
 mere O
 nisi O
 obodo O
-france B-LOC
+france O
 bụ O
 paris B-LOC
-nehihe B-DATE
-ụbọchị I-DATE
+nehihe O
+ụbọchị B-DATE
 27 I-DATE
 ọnwa I-DATE
 a I-DATE
@@ -110647,7 +110647,7 @@ elekere I-DATE
 abụọ I-DATE
 n'ehihe I-DATE
 ehihe B-DATE
-unyaahụ I-DATE
+unyaahụ O
 . O
 
 otu O
@@ -112345,10 +112345,10 @@ nnamdi B-PER
 kanu I-PER
 . O
 
-ipob B-ORG
+ipob O
 . O
 
-ipob B-ORG
+ipob O
 naewe O
 iwe O
 gbasara O
@@ -112397,11 +112397,11 @@ ha O
 . O
 abịa B-LOC
 otu O
-ipob B-ORG
+ipob O
 asaala O
 gọvanọ O
-abia B-LOC
-steeti I-LOC
+abia O
+steeti O
 bụ O
 okezie B-PER
 ikpeazu I-PER
@@ -112442,7 +112442,7 @@ ikpeazu B-PER
 kwuru O
 maka O
 nnamdi B-PER
-kanu I-PER
+kanu O
 . O
 
 o O
@@ -113499,7 +113499,7 @@ wenger I-ORG
 bụ O
 onye O
 nkuzi O
-arsenal B-ORG
+arsenal O
 kwuru O
 na O
 mmeri O
@@ -114582,13 +114582,13 @@ mkpu O
 ọhụrụ O
 . O
 
-ipob B-ORG
+ipob O
 asaala O
 gọvanọ O
 ikpeazu B-PER
 . O
 
-ipob B-ORG
+ipob O
 akpọrịala O
 ndị O
 apc O
@@ -121637,13 +121637,13 @@ mpaghara O
 ndị O
 ọzọ O
 na O
-naịjirịa B-LOC
+naịjirịa O
 . O
 ọwụwa O
 anyanwụ O
 ere O
 nụbọchị O
-wenezde B-DATE
+wenezde O
 banyere O
 mkpebi O
 ndị O
@@ -131772,15 +131772,15 @@ enwu O
 ọfụma O
 ruo O
 afọ O
-2023 B-DATE
+2023 O
 . O
 
 na O
-rivers B-LOC
-steeti I-LOC
+rivers O
+steeti O
 onyeisi O
 ndị O
-tcn B-ORG
+tcn O
 bụ O
 austin B-PER
 jonah I-PER
@@ -131807,8 +131807,8 @@ onyeisi O
 ndị O
 tcn O
 bụ O
-austin B-PER
-jonah I-PER
+austin O
+jonah O
 kwuru O
 na O
 ha O
@@ -131834,9 +131834,9 @@ ndị O
 na O
 naịjirịa O
 bụ O
-tuc B-ORG
+tuc O
 nke O
-enugwu B-LOC
+enugwu O
 agbachiela O
 ụlọ O
 ọrụ O
@@ -131844,24 +131844,24 @@ nenye O
 ọkụ O
 latrik O
 bụ O
-transmission B-ORG
-company I-ORG
-of I-ORG
-naịjirịa I-ORG
-tcn B-ORG
+transmission O
+company O
+of O
+naịjirịa O
+tcn O
 naha O
 ịchafụ O
 . O
-naijiria O
-bụ O
-tuc B-ORG
+naijiria B-ORG
+bụ I-ORG
+tuc I-ORG
 ikọrọ O
 ndị O
 ọrụ O
 na O
 naịjirịa O
 bụ O
-tuc B-ORG
+tuc O
 nke O
 enugwu B-LOC
 agbachiela O
@@ -131871,11 +131871,11 @@ nenye O
 ọkụ O
 latrik O
 bụ O
-transmission B-ORG
-company I-ORG
-of I-ORG
-naịjirịa I-ORG
-tcn B-ORG
+transmission O
+company O
+of O
+naịjirịa O
+tcn O
 naha O
 ịchafụ O
 . O
@@ -131895,10 +131895,10 @@ nenye O
 ọkụ O
 latrik O
 bụ O
-transmission B-ORG
-company I-ORG
-of I-ORG
-naịjirịa I-ORG
+transmission O
+company O
+of O
+naịjirịa O
 tcn B-ORG
 naha O
 ịchafụ O
@@ -131922,8 +131922,8 @@ enugwu B-LOC
 bụ O
 comrade O
 igbokwe B-PER
-chukwuma I-PER
-igbokwe I-PER
+chukwuma O
+igbokwe O
 du O
 ndị O
 ọrụ O
@@ -131952,7 +131952,7 @@ ndị O
 ọrụ O
 . O
 
-phcn B-ORG
+phcn O
 kwesịrị O
 inye O
 gị O
@@ -133124,7 +133124,8 @@ minista O
 mba O
 austria O
 . O
-heinz-christian B-PER
+heinz B-PER
+christian I-PER
 strache I-PER
 minista O
 mba O
@@ -133137,8 +133138,8 @@ minista O
 mba O
 austria B-LOC
 bụ O
-heinz-christian B-PER
-strache I-PER
+heinzchristian O
+strache O
 agbaala O
 arụkwaghị O
 maka O
@@ -133147,12 +133148,13 @@ ngarị O
 eboro O
 ya O
 . O
-heinz-christian B-PER
+heinz B-PER
+christian I-PER
 strache I-PER
 ustria O
 bụ O
-heinz-christian B-PER 
-strache I-PER
+heinzchristian O
+strache O
 agbaala O
 arụkwaghị O
 maka O
@@ -133226,14 +133228,14 @@ mkpị O
 nagba O
 nke O
 ikeazụ O
-ehihie B-DATE
-satọde I-DATE
+ehihie O
+satọde B-DATE
 . O
 ehihe B-DATE
 uruegwu O
 ekpuwele O
-bayern B-ORG
-munich I-ORG
+bayern O
+munich O
 okpueze O
 nke O
 bundusliga O
@@ -133251,8 +133253,8 @@ mkpị O
 nagba O
 nke O
 ikeazụ O
-ehihie B-DATE
-satọde I-DATE
+ehihie O
+satọde O
 . O
 
 bayern O
@@ -133483,11 +133485,11 @@ waford B-ORG
 n'ama B-LOC
 egwuregwu I-LOC
 wembley I-LOC
-n'elekere B-DATE
-ise I-DATE
-nke I-DATE
-mgbede I-DATE
-taa I-DATE
+nelekere O
+ise O
+nke O
+mgbede O
+taa B-DATE
 . O
 
 mancity B-ORG
