@@ -26873,9 +26873,6 @@ nkwado O
 gọọmentị B-ORG
 steeti I-ORG
 anambra I-ORG
-menti O
-steeti 
-anambra O
 akwụọla O
 ụgwọ O
 ezumike O
