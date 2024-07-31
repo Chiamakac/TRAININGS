@@ -826,6 +826,10 @@ goomenti 'united states
 asec mimosas
 ogbako nke omeiwu
 a330
+ASUU
+assu
+apc
+
 ntoala agumakwukwo efu nke omoyele sowore
 ngalaba english education
 otu jikotara ndi ntaakuko naijiria
@@ -856,6 +860,7 @@ mahadum nke ibadan
 anambra state primary healthcare development agency
 international atomic energy agency
 otu ndorondoro ochichi apc
+Niger Delta Development Commission
 lionheart
 grant
 nnamdi azikiwe international airport
@@ -869,5 +874,4 @@ Commonwealth
 Economic and Financial Crimes Commission
 APC
 Slok Holding
-ASUU
-Niger Delta Development Commission
+economic and financial crimes commission
