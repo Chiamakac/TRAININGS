@@ -104,7 +104,6 @@ Malta
 Palistine
 Gaza
 PDP Abia
-Zamfara
 Umunya
 Sulawesi
 Ozalla 
@@ -275,7 +274,6 @@ Ozalla
 Nkanu West
 ama egwuregwu Rojenny na Tourist Village
 Borno
-Niger
 Guantanamo Bay
 Sudan
 South Korea
@@ -568,7 +566,6 @@ Steeti Benue
 steeti Cross River
 Steeti Delta
 Steeti Bayelsa
-Ebonyi
 Katsina
 Indoneshia
 Hidalgo
