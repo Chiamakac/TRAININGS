@@ -29,21 +29,21 @@ akwa mmiri Otedola
 Washington
 Udenu
 Makurdi
-steeti Imo
+Steeti Imo
 Lafia
 n'ama egwuregwu Wembley
 Okada
 n'odu Lambeth
 okpuru ochichi Ughelli South
 Nnewi
-steeti Jigawa
-steeti Kaduna
-steeti Kano
-steeti Kastina
-steeti Kebbi
-steeti Kogi
-steeti Kwara
-steeti Ọyọ
+Steeti Jigawa
+Steeti Kaduna
+Steeti Kano
+Steeti Kastina
+Steeti Kebbi
+Steeti Kogi
+Steeti Kwara
+Steeti Ọyọ
 Buckingham
 Lamurde
 India
@@ -323,7 +323,7 @@ Ukraine
 Aston Villa
 Umuna
 Malaysia
-steeti Legos
+Steeti Legos
 Grenoble
 Njikoka
 Ogbaru
@@ -333,8 +333,8 @@ Mozambique
 Saut Korea
 okpuru ochichi Girei
 etiti Anambra
-steeti Nasarawa
-steeti Niger
+Steeti Nasarawa
+Steeti Niger
 Brong Ahafo
 Abagana
 Soviet Union
@@ -345,7 +345,7 @@ mpaghara Ugwu California
 Jerome Udoji Seketeret
 Imo
 Mbaitoli
-steeti Ogun
+Steeti Ogun
 South Yola
 Iyana Ipaja
 Idepe
@@ -363,7 +363,7 @@ Igbariam
 Houston
 Kensington
 Jos,
-steeti Plateau
+Steeti Plateau
 Ijipt
 etiti Borno
 Lokpanta
@@ -376,11 +376,11 @@ Benue Trough
 Stade Auguste Delaune
 Uzo mkpi Regina Caeli
 Ezeagu
-steeti Rivers
-steeti Taraba
-steeti Sokoto
-steeti Zamfara
-steeti Yobe
+Steeti Rivers
+Steeti Taraba
+Steeti Sokoto
+Steeti Zamfara
+Steeti Yobe
 Akun Ibiam Airport Enugwu
 Sokoto
 Misau
@@ -539,7 +539,7 @@ n'bizarre
 Uruagu Nnewi
 River Steeti
 steeti Osun
-steeti Oyo
+Steeti Ọyọ
 Northeast
 Uganda
 odida anyanwu Afirika
@@ -560,14 +560,14 @@ Abia Steeti
 Cape Lopez
 Utland
 South Africa
-Delta
+Delta Steeti
 Sweden
-steeti Edo
-steeti Ebonyi
-steeti Benue
+Steeti Edo
+Steeti Ebonyi
+Steeti Benue
 steeti Cross River
-steeti Delta
-steeti Bayelsa
+Steeti Delta
+Steeti Bayelsa
 Ebonyi
 Katsina
 Indoneshia
@@ -610,15 +610,14 @@ Syria
 Ingland
 Tempe
 Zaragoza
-steeti Bauchi
-steeti Anambra
-steeti Bayelsa
+Steeti Bauchi
+Steeti Anambra
+Steeti Bayelsa
 Sierra Leone
 okpuru ochichi Anambra East
 Ozubulu
 Saudi Arebia
 Mali
-Delta Steeti
 obodo Oranto
 Gabon
 Lyon
@@ -635,7 +634,7 @@ Anambra
 Borno
 Potugal
 Afrika
-steeti Ekiti
+Steeti Ekiti
 Somalia
 Ogwu
 ugwu nke mba America
@@ -646,9 +645,9 @@ Le Mans
 Satellite Town
 Oshodi
 Equatorial Guinea
-steeti Abia
-steeti Enugu
-steeti Gombe
+Steeti Abia
+Steeti Enugu
+Steeti Gombe
 Steeti Abịa
 Ndịdaọwụwa Anyanwụ South-East
 Ụmụahịa
@@ -656,3 +655,5 @@ Uzuakoli
 Uzuakoli
 Ozuitem
 Afịrịka
+Lagos
+Naịjirịa
